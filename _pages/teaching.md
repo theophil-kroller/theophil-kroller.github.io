@@ -87,29 +87,26 @@ Looking back, a lot of my early teaching development was learning by doing. When
 
 Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. I have made extensive use of the TU Graz Teaching Academy and related didactic training opportunities — not just to collect certificates, but to actively refine my teaching practice, my classroom presence, my use of digital tools, and my understanding of student learning.
 
-| Semester | Course / Workshop | Hours | Focus |
-|---|---:|---:|---|
-| WS23 | Hochschuldidaktik 1 | 16 | Foundations of higher education teaching, learning processes, and course design |
-| WS23 | Hochschuldidaktik 2 | 16 | Further development of didactic planning, methods, and student activation |
-| WS23 | Teaching and Learning at TU Graz | 8 | Institutional teaching culture, teaching standards, and learning support at TU Graz |
-| SS24 | Einführung in die TUbe Video Plattform | 4 | Use of the TU Graz video platform for digital and asynchronous teaching |
-| SS24 | Kompetent Prüfen | 16 | Assessment design, constructive alignment, and competence-oriented examination |
-| SS24 | Digitalisierung in der Lehre | 16 | Digital teaching formats, online tools, and technology-supported learning |
-| SS24 | Stimm- und Sprechtraining für die Lehre | 8 | Voice, speech, presence, and communication in teaching |
-| WS24 | Sprechtechnik und Sprechgestaltung | 8 | Speech technique, clarity, rhythm, and expressive classroom communication |
-| WS24 | Interaktiv Lehren durch effektive Rhetorik | 16 | Rhetorical strategies, interaction, and activation in lectures and seminars |
-| WS24 | Navigating Diversity in the International Classroom | 5 | Diversity-sensitive teaching and intercultural classroom dynamics |
-| WS24 | Hochschuldidaktik 3: Lehrveranstaltungen mit digitalen Technologien | 16 | Digital course design and integration of educational technologies |
-| WS24 | Einsatz von generativer KI für die Lehre: Potentiale und Begrenzungen | 10 | Opportunities and limits of generative AI in teaching and learning |
-| SS25 | Hochschuldidaktik 3: Lehrverhaltenstraining | 16 | Reflection and development of concrete teaching behavior |
-| SS25 | Für eine nachhaltige Zukunft Lehren: Bildung für nachhaltige Entwicklung | 14 | Education for sustainable development and sustainability-oriented teaching |
-| WS25 | KI in die Lehre integrieren (Einführung) | 6 | Introductory strategies for integrating AI into teaching |
-| SS26 | Workshop Teaching Expert | 16 | Advanced reflection and consolidation of teaching expertise |
-| SS26 | Lehr-Portfolio | 30 | Documentation, reflection, and development of a teaching portfolio |
-| WS26/SS26 | Beitrag zur TeachingCommunity @ TU Graz | 30 | Contribution to teaching community, exchange, and peer learning |
+| Date | Course / Workshop | Level | Units |
+|---|---|---:|---:|
+| 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
+| 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
+| 06.02.2024 | Higher Education Didactics 2: Delivering Effective Teaching Sessions | Foundational | 16 |
+| 15.04.2024 | Competent Assessment | Advanced | 16 |
+| 25.04.2024 | Digitalization in Teaching | Advanced | 16 |
+| 09.05.2024 | Introduction to the TUbe Video Platform | Advanced | 4 |
+| 05.07.2024 | Voice and Speech Training for Teaching | Advanced | 8 |
+| 19.09.2024 | Navigating Diversity in the International Classroom | Advanced | 5 |
+| 04.11.2024 | Using Generative AI in Teaching: Potentials and Limitations | Advanced | 10 |
+| 16.01.2025 | Interactive Teaching Through Effective Rhetoric | Advanced | 16 |
+| 31.01.2025 | Speech Technique and Delivery for Teaching | Advanced | 8 |
+| 20.02.2025 | Higher Education Didactics 3: Teaching with Digital Technologies | Advanced | 16 |
+| 02.04.2025 | Teaching for a Sustainable Future – Education for Sustainable Development (ESD) | Advanced | 14 |
+| 25.04.2025 | Higher Education Didactics 3: Teaching Behavior Training | Advanced | 16 |
+
+Taken together, these courses reflect a broad and deliberate development path: from basic course design and constructive alignment to assessment, digital teaching, voice and rhetoric, intercultural classroom dynamics, generative AI, and education for sustainable development.
 
 This development path also reflects a broader shift in how I understand teaching. Good teaching is not just about knowing a subject well. It also requires voice and presence, didactic flexibility, sensitivity to different student backgrounds, competence-oriented assessment, digital literacy, and the ability to design learning experiences that students remember.
-
 ## Future Development
 
 In the future, I want to further strengthen experimentation and reflection in my courses. In entrepreneurship education especially, I see potential to create more structured opportunities for students to test assumptions, reflect on their learning process, and connect theoretical concepts with entrepreneurial action.
