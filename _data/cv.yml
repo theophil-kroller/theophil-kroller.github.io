@@ -165,7 +165,7 @@ cv:
       - institution: University of Graz
         location: Graz, Austria
         area: Psychosocial Counseling
-        studyType: Master of Science, 180 ECTS
+        studyType: Master of Science (MSc), 180 ECTS
         start_date: 2021
         end_date: 2025
         highlights:
@@ -174,7 +174,7 @@ cv:
       - institution: University of Applied Sciences Technikum Wien
         location: Vienna, Austria
         area: Environmental Management and Ecotoxicology
-        studyType: Master of Science in Engineering, 120 ECTS
+        studyType: Master of Science in Engineering (MSc), 120 ECTS
         start_date: 2012
         end_date: 2014
         highlights:
@@ -193,7 +193,7 @@ cv:
       - institution: University of Applied Sciences Technikum Wien
         location: Vienna, Austria
         area: Engineering and International Business Administration
-        studyType: Bachelor of Science in Engineering, 180 ECTS
+        studyType: Bachelor of Science in Engineering (BSc), 180 ECTS
         start_date: 2008
         end_date: 2011
         highlights:
@@ -202,7 +202,7 @@ cv:
       - institution: University of Vienna
         location: Vienna, Austria
         area: China Studies
-        studyType: Bachelor of Philosophy, 180 ECTS
+        studyType: Bachelor of Philosophy (Bakk.phil.), 180 ECTS
         start_date: 2004
         end_date: 2009
         highlights:
