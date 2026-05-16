@@ -6,76 +6,161 @@ permalink: /teaching/
 nav: true
 nav_order: 4
 ---
+
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
+  <a href="#my-role-as-a-teacher">Teacher Role</a>
   <a href="#my-path-into-teaching">My Path into Teaching</a>
-  <a href="#teaching-areas">Teaching Areas</a>
-  <a href="#teaching-methods-and-learning-formats">Methods & Formats</a>
-  <a href="#entrepreneurship-education">Entrepreneurship Education</a>
-  <a href="#digital-teaching-innovation">Digital Teaching Innovation</a>
-  <a href="#teaching-development">Professional Development</a>
+  <a href="#course-overview">Course Overview</a>
+  <a href="#selected-teaching-examples">Teaching Examples</a>
+  <a href="#supervision-of-student-projects-and-theses">Supervision</a>
+  <a href="#executive-mba-digital-and-green-transition">Executive MBA</a>
+  <a href="#assessment-and-learning-outcomes">Assessment</a>
+  <a href="#feedback-and-evidence">Feedback</a>
+  <a href="#professional-development-in-teaching">Professional Development</a>
   <a href="#future-development">Future Development</a>
 </div>
 
 ## Teaching Philosophy
 
-My teaching is application-oriented, experiential, and reflective. I understand good teaching as more than the transmission of knowledge: it should help students develop competences that allow them to approach unfamiliar challenges, make informed decisions, and develop innovative solutions.
+My teaching is application-oriented, experiential, and reflective. I want students to work with ideas, not just listen to them. In management and entrepreneurship education, concepts should become useful: students should be able to apply them to cases, startup ideas, organizational challenges, and uncertain decision-making situations.
 
-In my courses, I aim to create learning experiences that remain memorable. Students should not only understand concepts, but also apply them, test them, discuss them, and ideally create something they can be proud of. This is especially important in entrepreneurship education, where students need to move from abstract ideas to viable business models, concrete experiments, and realistic implementation steps.
+For me, good teaching creates moments that stay with students. A role play, a group puzzle, a poster, a difficult case discussion, a first business model, or a moment where a concept suddenly becomes clear — these are the moments where learning becomes more than information transfer.
 
-I see myself less as a “sage on the stage” and more as a “guide on the side”: someone who structures learning environments, creates meaningful tasks, supports reflection, and helps students connect theory with practice.
+I am interested in teaching formats that combine conceptual clarity with experience. Students need models, language, and structure. They also need opportunities to try things out, compare perspectives, discuss with others, and reflect on what they have learned.
+
+## My Role as a Teacher
+
+I do not see myself primarily as a “sage on the stage”. There are moments where clear input is necessary. Students need orientation, frameworks, and examples. But my main role is to design learning situations in which students can engage actively with the content.
+
+I try to create a classroom atmosphere that is warm, respectful, and intellectually alive. I value it when students bring in their own experiences, disciplinary perspectives, or professional knowledge. Especially in entrepreneurship and management education, this diversity makes the classroom richer.
+
+A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use slides when they help, but I also want students to think, discuss, draw, classify, test, present, question, and create visible outputs. This makes learning more concrete and gives us something to work with together.
 
 ## My Path into Teaching
 
-Teaching has appeared several times throughout my life, in very different contexts. My first teaching experience took place during my high school year in the United States, where I taught a short unit on PowerPoint. A few years later, I taught German language and Austrian studies for Chinese exchange students at the University of Vienna while attending a course on German as a foreign and second language.
+Teaching has appeared several times throughout my life, in very different contexts.
 
-At 20, I spent fourteen months teaching English communication at Qiqihar University and the Hermann Gmeiner Vocational School in China. This was my first intensive classroom experience: around sixteen teaching hours per week, large student groups, self-developed materials, and a lot of learning by doing. What initially felt stressful gradually became a formative experience in planning, classroom presence, variation, and learner engagement.
+My first teaching experience took place during my high school year in the United States, where I was asked to teach a short unit on PowerPoint. It was a small moment, but it introduced me early to the experience of explaining something to others and structuring knowledge in a way that becomes accessible.
 
-From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in ecotoxicology, environmental management, laboratory courses, applied statistics with R, measurement technology, applied research projects, and thesis supervision. This period professionalized many aspects of my teaching, including Moodle-based course organization, laboratory entrance tests, assessment rubrics, LaTeX-based exams, and problem-based learning.
+At 19, I attended a didactic course on teaching German as a foreign and second language at the University of Vienna. At the same time, I taught a course in German language and Austrian studies for Chinese exchange students. I prepared each session carefully and began to understand teaching as something that requires planning, rhythm, sensitivity, and attention to the learners’ perspective.
 
-Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing: I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously develop my teaching practice. Through the TU Graz Teaching Academy, I have worked intensively on higher education didactics, assessment, digital teaching, rhetoric, voice, diversity, generative AI, sustainability-oriented teaching, and teaching portfolio development.
+At 20, I spent fourteen months teaching English communication and listening classes at Qiqihar University and the Hermann Gmeiner Vocational School in China. I also taught middle school students and worked with a private student in English and German. Much of the teaching material had to be created independently. This period was challenging at first: I had to learn how to stand in front of large groups, create structure, vary methods, and keep students engaged. By the second semester, I had grown into the role and started to experience teaching as a craft that develops through practice.
+
+From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in areas such as aquatic ecotoxicology, environmental management, metrology, applied research projects, selected topics of environmental management, introductory chemistry laboratory work, endocrine disruptors including laboratory work, environmental chemistry, cell culture techniques, and environmental analysis. This period professionalized many aspects of my teaching: Moodle-based course organization, laboratory entrance tests, assessment rubrics, LaTeX-based exams, problem-based learning, and thesis supervision.
+
+Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing. I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously develop my teaching practice.
 
 This path has shaped my current understanding of teaching: good teaching needs preparation and conceptual clarity, but also presence, flexibility, interaction, experimentation, and the courage to move beyond slides.
 
-## Teaching Areas
+## Course Overview
 
-- Entrepreneurship
-- Business Plan Development
-- Design Thinking
-- General Management and Organization
-- Strategic Management
-- Leadership
-- Organizational Design
-- Business Model Innovation
-- Circular Economy and Sustainable Business Models
+The following overview summarizes selected teaching activities across different institutions and phases of my teaching biography. This section is currently being expanded.
 
-## Teaching Methods and Learning Formats
+| Period | Institution | Courses / Teaching Areas | Format |
+|---|---|---|---|
+| 2001 / 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
+| 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
+| 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
+| 2014–2017 | UAS Technikum Wien | Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory | Lectures, laboratories, research seminars, thesis supervision |
+| 2024–present | Graz University of Technology | General Management and Organization; Unternehmensführung und Organisation; Entrepreneurship VO; Entrepreneurship UA; Gründungsgarage / Startup Garage; Bachelor and Master Projects | Lectures, practical courses, seminars, project supervision |
+| 2024–present | Executive MBA in Digital and Green Transition | Business Model Innovation; Circular Economy; Sustainable Business Models | Asynchronous video lectures / flipped classroom elements |
 
-A central element of my teaching is the translation of conceptual frameworks into applied learning formats. I use case studies, startup examples, worksheets, group puzzles, role-card exercises, design thinking activities, business model tools, and reflective discussions.
+## Selected Teaching Examples
 
-In entrepreneurship education, I work with transfer tasks that allow students to apply theoretical input directly to their own ideas or to real startup challenges. This helps students understand not only what entrepreneurship concepts mean, but how they can be used in practice.
+The following examples illustrate how I translate conceptual frameworks into applied learning formats. Many of these formats emerged from a very practical question: how can I move students from listening to concepts toward working with them?
 
-Selected formats include:
+### Entrepreneurship: Business Plan Group Puzzle
 
-- Case-based learning
-- Group puzzles
-- Role plays and role cards
-- Design thinking exercises
-- Business model development
-- Startup-related transfer tasks
-- Reflective classroom discussions
-- AI-supported teaching experiments
-- Problem-based learning
+In the Entrepreneurship course, I redesigned the business plan module. Previously, this part of the course was more input-heavy. I transformed it into a group puzzle.
 
-## Entrepreneurship Education
+Each group receives a text on one section of the business plan. Students read the text, highlight the most important ideas, discuss the content, and develop a graphical representation on a flip chart. They then present their section to the class.
 
-My approach to entrepreneurship education is strongly influenced by experiential learning. Students should experience entrepreneurship as a process of opportunity recognition, creative problem-solving, testing, iteration, and reflection.
+This format changes the energy of the session. Students work actively with the material, negotiate what is important, create a visual synthesis, and explain the content to their peers. It also makes the business plan feel less like a static document and more like a structured tool for developing and communicating a venture.
 
-In my current teaching, I draw on the five dimensions of entrepreneurship education: play, empathy, creation, experimentation, and reflection. Some of these dimensions are already strongly represented in the course design. Play is addressed through formats such as the Moonshot Game and role-based exercises such as Promoter vs. Trustee. Empathy is integrated through Design Thinking. Creation is supported through business plan development and creative group work. Experimentation and reflection are areas I want to develop further in future iterations of the course.
+### Entrepreneurship: Promoter vs. Trustee Role Play
 
-## Digital Teaching Innovation
+One part of the Entrepreneurship course deals with different forms of entrepreneurial and administrative behavior. In the past, I explained the distinction between promoter and trustee logic mainly through theoretical input. I noticed that this became quite demanding for students, especially when the input block became too long.
 
-As part of my teaching development at TU Graz, I designed a series of short conceptual video lectures for an Executive MBA module in General Management and Organization. The aim of these videos is to support asynchronous learning and provide students with clear conceptual frameworks before engaging in deeper classroom discussion.
+I therefore redesigned this part as a role play. Students work in pairs and take opposing roles: one person argues from the perspective of a promoter, the other from the perspective of a trustee. They choose from several startup-related scenarios and discuss the situation from their assigned perspective. In a second round, they switch roles.
+
+The aim is that students experience what it feels like to argue from these positions. This helps them understand that both perspectives can be part of entrepreneurial thinking and behavior. The format has led to more energy in the classroom and has received very positive feedback from students.
+
+### Entrepreneurship: Market Sizing and Customer Segmentation
+
+In the marketing part of the Entrepreneurship course, I introduced several worksheets to make core marketing concepts more tangible. For market sizing, I work with the concepts of PAM, TAM, SAM, and SOM. I first go through an illustrative example with the students and then use a mix-and-match exercise where they connect the terms with the correct definitions and interpretations.
+
+I use a similar approach for traditional marketing numbers such as market volume, market potential, and related concepts. These terms can easily remain abstract if they are only explained verbally. By turning them into a matching and application exercise, students engage with the distinctions more actively.
+
+I also introduced visual organizers and persona work to support customer segmentation. These materials help students move from abstract market definitions toward a more concrete understanding of customer groups, needs, frustrations, and decision-making contexts.
+
+### Entrepreneurship: Entrepreneurial Marketing Activities
+
+In the entrepreneurial marketing section, I use another mix-and-match worksheet to help students distinguish between different marketing approaches such as guerrilla marketing, viral marketing, and word-of-mouth marketing.
+
+The purpose of the exercise is to make students actively work with the language of entrepreneurial marketing. Instead of only hearing examples, they identify, compare, and classify different activities. This has made the marketing section more interactive and easier to grasp.
+
+### Entrepreneurship: Pitch Feedback Role Cards
+
+For the next iteration of the course, I am developing a role-card format for pitch feedback. Students will listen to the pitch of another group from a specific perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
+
+The goal is to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students will be encouraged to ask questions and give feedback from a defined role. I expect this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective.
+
+### General Management and Organization: Leadership Module
+
+In General Management and Organization / Unternehmensführung und Organisation, I developed a module on leadership and organization. One part of the module works with leadership profiles and the Blake and Mouton Managerial Grid.
+
+Students first complete a self-assessment to reflect on their own leadership style. They then work with two leadership profiles and classify leadership behavior according to task orientation and people orientation. In groups, they identify patterns and clusters in the leadership behavior described in the case material.
+
+At the end of the session, each group adds its results to a shared matrix on the blackboard. We then discuss the emerging clusters as a class: where do we see task-oriented behavior, where do we see people-oriented behavior, and what do the patterns tell us about leadership in practice? I also show a worked-out solution that I prepared myself. Often, the collective interpretation developed by the students comes very close to my own analysis, which creates a good basis for deeper discussion.
+
+In the same module, I also introduce the Hersey and Blanchard model of situational leadership. I work through an example with the students and draw the logic of the model on the blackboard. This helps slow down the conceptual input and creates space for questions, interpretation, and discussion.
+
+### General Management and Organization: Organizational Design Cases
+
+For the topic of organizational design, I developed case studies that allow students to practice drawing and interpreting organizational structures.
+
+One case focuses on Alphabet and Google. Students analyze the relationship between Alphabet as a holding company and Google as one of its core subsidiaries. They also examine matrix-like elements and other structural features within Google. The task is to draw an organizational chart based on the case description. One student group presents its solution at the board, and we discuss it as a class. I then redraw and refine the organizational structure together with the students. This format helps students see that organizational structures are rarely as clean and simple as textbook examples suggest.
+
+A second case focuses on Soulbottles and its adoption of holacracy. I researched the central concepts of holacracy and prepared the case so that students can work with a less traditional organizational form. Students are asked to visualize the structure and logic of the organization. The case often leads to lively discussions, because holacracy challenges many assumptions about hierarchy, authority, roles, and decision-making.
+
+### Gründungsgarage / Startup Garage
+
+This section is currently being expanded.
+
+[Add short description of your teaching, mentoring, programme management, seminar role, and interaction with startup teams in Gründungsgarage / Startup Garage.]
+
+### Assessment Rubrics and Course Alignment
+
+In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent.
+
+In the Entrepreneurship course, the rubric supports the assessment of student business plans. It provides a shared reference point for evaluating the different parts of the business plan and helps align expectations between lecturers, students, and external startup guests involved in the course.
+
+In General Management and Organization, I introduced a rubric for student presentations. This makes it easier to assess presentations consistently and to provide more structured feedback.
+
+For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
+
+## Supervision of Student Projects and Theses
+
+Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project.
+
+This section is currently being expanded.
+
+| Level | Student | Working Title / Topic | Institution | Status | Period |
+|---|---|---|---|---|---|
+| Master thesis | [Name] | [Topic] | UAS Technikum Wien | Completed | [Year] |
+| Master thesis | [Name] | [Topic] | UAS Technikum Wien | Completed | [Year] |
+| Master thesis | [Name] | [Topic] | TU Graz | Completed | [Year] |
+| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+| Bachelor thesis | [Name] | [Topic] | TU Graz | Completed | [Year] |
+| Bachelor thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+
+## Executive MBA: Digital and Green Transition
+
+As part of my teaching development at TU Graz, I designed a series of short conceptual video lectures for the Executive MBA in Digital and Green Transition. The aim of these videos is to support asynchronous learning and provide students with clear conceptual frameworks before engaging in deeper classroom discussion.
 
 The video series currently includes:
 
@@ -85,21 +170,35 @@ The video series currently includes:
 
 The videos are designed as asynchronous microlearning units of approximately 10–13 minutes each. They combine narrative explanation, visual frameworks, and original diagrams to reduce cognitive complexity and support students in understanding abstract management concepts.
 
-From a pedagogical perspective, these videos support a flipped classroom logic: students can engage with core concepts before class, while classroom time can be used for discussion, case analysis, application exercises, and reflection.
+From a pedagogical perspective, these videos support a flipped classroom logic. Students can engage with core concepts before class, while classroom time can be used for discussion, case analysis, application exercises, and reflection.
 
-## Feedback and Teaching Development
+## Assessment and Learning Outcomes
 
-I use feedback as a central part of my teaching development. In the past, I have worked with oral feedback, institutional feedback forms, written feedback, and informal student reflections. In the Entrepreneurship course, we actively ask students at the end what their highlights were and what they would like to see more of.
+This section is currently being expanded.
 
-I try to translate feedback into concrete teaching improvements. When feedback points to possible improvements, I document it directly in my teaching materials or slides so that it can inform the next course iteration.
+My teaching aims to connect learning outcomes, learning activities, and assessment formats. I use transfer tasks, case analyses, worksheets, group products, presentations, rubrics, and reflective discussions to support competence-oriented learning.
 
-## Teaching Development
+A recurring principle in my course design is that students should produce visible outputs: organizational charts, matrices, posters, business model elements, persona profiles, market sizing exercises, pitch feedback, or written business plan sections. These outputs make learning more concrete and give us something to discuss, compare, and improve in class.
+
+[Add later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
+
+## Feedback and Evidence
+
+This section is currently being expanded.
+
+I use feedback as a central part of my teaching development. In the past, I have worked with oral feedback, institutional evaluation forms, written feedback, and informal student reflections. In the Entrepreneurship course, we actively ask students what their highlights were and what they would like to see more of.
+
+I try to translate feedback into concrete improvements. When feedback points to possible changes, I document it directly in my teaching materials so that it can inform the next course iteration.
+
+[Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, and examples of changes made in response to feedback.]
+
+## Professional Development in Teaching
 
 My teaching has developed in very different contexts: first through language teaching and intercultural classroom experiences, later through laboratory teaching, research seminars, problem-based learning, and today through entrepreneurship and management education.
 
-Looking back, a lot of my early teaching development was learning by doing. When I taught English conversation in China, I had to prepare lessons for large groups of students and quickly learned how important structure, variety, and energy are in the classroom. Later, at UAS Technikum Wien, I learned a lot by observing good lecturers, working with colleagues, and helping to introduce problem-based learning in our study programme.
+Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. I have made extensive use of the TU Graz Teaching Academy and related didactic training opportunities — not to collect certificates, but to refine my teaching practice, my classroom presence, my use of digital tools, and my understanding of student learning.
 
-Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. I have made extensive use of the TU Graz Teaching Academy and related didactic training opportunities — not just to collect certificates, but to actively refine my teaching practice, my classroom presence, my use of digital tools, and my understanding of student learning.
+Many of the changes I introduced in Entrepreneurship and General Management and Organization were influenced by my work in the TU Graz Teaching Academy. The workshops encouraged me to move beyond long input blocks, to create more active phases, and to experiment with role play, worksheets, blackboard work, peer feedback, and structured assessment formats. In that sense, the Teaching Academy did not remain abstract professional development for me; it directly changed the way I design sessions.
 
 | Date | Course / Workshop | Level | Units |
 |---|---|---:|---:|
@@ -120,9 +219,10 @@ Since joining TU Graz, I have taken a much more systematic approach to developin
 
 Taken together, these courses reflect a broad and deliberate development path: from basic course design and constructive alignment to assessment, digital teaching, voice and rhetoric, intercultural classroom dynamics, generative AI, and education for sustainable development.
 
-This development path also reflects a broader shift in how I understand teaching. Good teaching is not just about knowing a subject well. It also requires voice and presence, didactic flexibility, sensitivity to different student backgrounds, competence-oriented assessment, digital literacy, and the ability to design learning experiences that students remember.
 ## Future Development
+
+This section is currently being expanded.
 
 In the future, I want to further strengthen experimentation and reflection in my courses. In entrepreneurship education especially, I see potential to create more structured opportunities for students to test assumptions, reflect on their learning process, and connect theoretical concepts with entrepreneurial action.
 
-My broader goal is to continue developing a teaching practice that combines conceptual clarity, experiential learning, reflective depth, and practical relevance.
+I also want to continue developing teaching formats that move beyond slide-based input: more free teaching sequences, more active student work, more structured reflection, and more formats where students create visible outputs.
