@@ -146,17 +146,19 @@ Supervision is an important part of my teaching profile. I understand thesis and
 
 This section is currently being expanded.
 
-| Level | Student | Working Title / Topic | Institution | Status | Period |
+| Level | Student | Title / Topic | Institution | Role | Status / Year |
 |---|---|---|---|---|---|
-| Master thesis | [Name] | [Topic] | UAS Technikum Wien | Completed | [Year] |
-| Master thesis | [Name] | [Topic] | UAS Technikum Wien | Completed | [Year] |
-| Master thesis | [Name] | [Topic] | TU Graz | Completed | [Year] |
-| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
-| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
-| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
-| Master thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
-| Bachelor thesis | [Name] | [Topic] | TU Graz | Completed | [Year] |
-| Bachelor thesis | [Name] | [Topic] | TU Graz | Ongoing | [Year] |
+| Bachelor thesis | Muhammad Musa Müller | Adoption digitaler Lernplattformen im regulierten öffentlichen Bildungssystem: Institutionelle Barrieren und Erfolgsfaktoren bei der Einführung | TU Graz | Supervisor | Ongoing / not yet listed |
+| Master thesis | Michael Sanin | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
+| Master thesis | Oana Emilia Bodirnea | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
+| Master thesis | Anna-Caterina Amann | Fostering cooperative urban logistics hubs | TU Graz | Internal co-supervisor | Ongoing |
+| Master thesis | Gregor Moritz | Konzept zur multidisziplinären Umsetzung von technologischen Innovationen bei voestalpine Tubulars | TU Graz | Internal co-supervisor | Ongoing |
+| Master thesis | Sebastian Harringer | [Impact strategy optimization in the case of the Horizon Europe project EM-TECH](https://permalink.obvsg.at/AC17770060) | TU Graz | Co-supervisor | Published / 2026 |
+| Master thesis | Robin Moroder | [Analysis of the methods and processes in the laboratories of the Andritz hydropower division](https://permalink.obvsg.at/AC17761794) | TU Graz | Co-supervisor | Published / 2025 |
+| Bachelor thesis | Marius Vincent Schober | Geschäftsmodellmuster bei KI Startups im Bereich Bilderkennung und -verstehen | TU Graz | Supervisor | Completed / 2025 |
+| Master thesis | Pradeep Anandrao Tuljapure | [Business model and market potential of second-life lithium-ion traction batteries in battery energy storage systems: a comprehensive analysis](https://permalink.obvsg.at/AC17523011) | TU Graz | Co-supervisor | Published / 2025 |
+| Master thesis | Yvonne Richter | [Development of a method for the evaluation of antiestrogenic activity in wastewater samples indirectly with the T47D-KBluc estrogen assay](https://permalink.obvsg.at/AC17155395) | FH Technikum Wien | Reviewer | Published / 2016 |
+| Master thesis | Petra Antonia Deimbacher | [Vergleich von Bisphenol A und Bisphenol S bei ökotoxikologischen Testmethoden mit der Grünalgenart *Pseudokirchneriella subcapitata* und der Fischzelllinie RTgill-W1](https://permalink.obvsg.at/AC17164501) | FH Technikum Wien | Reviewer | Published / 2016 |
 
 ## Executive MBA: Digital and Green Transition
 
