@@ -31,10 +31,4 @@ I am a researcher and university lecturer working at the intersection of entrepr
 
 My teaching focuses on helping students understand complex concepts and apply them in practical, reflective, and entrepreneurial contexts. I am particularly interested in teaching formats that connect theoretical clarity with real-world application, including case-based learning, problem-based learning, game-based learning and design thinking.
 
-Beyond regular teaching, I am involved in entrepreneurship education, public workshops, and student-centered innovation formats. 
-
-ld about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website is currently being developed as a teaching portfolio and academic profile.
