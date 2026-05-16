@@ -23,7 +23,7 @@ nav_order: 4
 </div>
 
 <div class="row align-items-start mb-5">
-  <div class="col-md-8" markdown="1">
+  <div class="col-md-6" markdown="1">
 
 ## Teaching Philosophy
 
@@ -35,7 +35,7 @@ I am interested in teaching formats that combine conceptual clarity with experie
 
   </div>
 
-  <div class="col-md-4" markdown="1">
+ <div class="col-md-6" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1" %}
 
@@ -50,14 +50,9 @@ I try to create a classroom atmosphere that is warm, respectful, and intellectua
 
 A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use slides when they help, but I also want students to think, discuss, draw, classify, test, present, question, and create visible outputs. This makes learning more concrete and gives us something to work with together.
 
-<div class="row align-items-start mb-5">
-  <div class="col-md-4" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/my_path_to_teaching.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1" %}
 
-  </div>
-
-  <div class="col-md-8" markdown="1">
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy2.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
 
 ## My Path into Teaching
 Teaching has appeared several times throughout my life, in very different contexts.
@@ -73,8 +68,7 @@ From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien
 Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing. I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously develop my teaching practice.
 
 This path has shaped my current understanding of teaching: good teaching needs preparation and conceptual clarity, but also presence, flexibility, interaction, experimentation, and the courage to move beyond slides.
-  </div>
-</div>
+
 
 ## Course Overview
 
