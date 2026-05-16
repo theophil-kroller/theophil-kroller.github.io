@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 description: Teaching philosophy, courses, methods, and selected formats.
 permalink: /teaching/
 nav: true
