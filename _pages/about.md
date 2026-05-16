@@ -31,7 +31,7 @@ I am a Research and Teaching Fellow at Graz University of Technology, where I co
 
 In my teaching, I focus on helping students apply conceptual frameworks from strategic management, organizational theory, and entrepreneurship to real-world cases and startup ideas. My teaching emphasizes experiential learning. Students work with practical tools such as business model frameworks, case analyses, and startup development exercises to understand how ideas can be transformed into viable ventures. My research focuses on the transition toward circular and regenerative economic systems and the role of business model innovation in enabling sustainable value creation.
 
-Before joining TU Graz, I worked in industry and consulting in the intralogistics, energy, and automotive sectors, focusing on business process design, market research, and data analysis. I have also taught at universities in China and Austria in fields ranging from environmental science to entrepreneurship.
+Before joining TU Graz, I worked in industry and consulting in the intralogistics, energy, and automotive sectors, focusing on business process design, market research, and data analysis. I have also taught at universities in China and Austria in fields ranging from environmental science to entrepreneurship to teaching English and German as a foreign language.
 
 My interdisciplinary academic background includes studies in industrial engineering, environmental management and ecotoxicology, China studies, international business administration, and human behavior and counseling.
 
