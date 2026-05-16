@@ -21,86 +21,6 @@ cv:
       username: Theophil-Kroller
 
   sections:
-    Education:
-      - institution: Graz University of Technology
-        location: Graz, Austria
-        area: Techno-Economics
-        studyType: Doctor of Technical Sciences, Dr. techn. candidate
-        start_date: 2024
-        end_date: Present
-        highlights:
-          - Doctoral School of Techno-Economics
-          - Research interests include green transition, circular and regenerative economic systems, technology leadership, and business model innovation.
-
-      - institution: University of Graz
-        location: Graz, Austria
-        area: Psychosocial Counseling
-        studyType: Master of Science, 180 ECTS
-        start_date: 2021
-        end_date: 2025
-        highlights:
-          - Focus on psychosocial counseling, counseling practice, and reflective professional development.
-
-      - institution: University of Applied Sciences Technikum Wien
-        location: Vienna, Austria
-        area: Environmental Management and Ecotoxicology
-        studyType: Master of Science in Engineering, 120 ECTS
-        start_date: 2012
-        end_date: 2014
-        highlights:
-          - Focus on environmental management, ecotoxicology, applied research, and data analysis.
-
-      - institution: University of Applied Sciences Technikum Wien
-        location: Vienna, Austria
-        area: Engineering and International Business Administration
-        studyType: Bachelor of Science in Engineering, 180 ECTS
-        start_date: 2008
-        end_date: 2011
-        highlights:
-          - Interdisciplinary education combining engineering, international business, and applied management.
-
-      - institution: University of Vienna
-        location: Vienna, Austria
-        area: China Studies
-        studyType: Bachelor of Philosophy, 180 ECTS
-        start_date: 2004
-        end_date: 2009
-        highlights:
-          - Academic focus on Chinese language, culture, history, politics, and society.
-
-      - institution: Vienna University of Economics and Business
-        location: Vienna, Austria
-        area: International Business and Chinese
-        studyType: Degree Program
-        start_date: 2004
-        end_date: 2012
-        highlights:
-          - Specialization in tourism analysis and leisure marketing.
-          - Specialization in information management.
-          - Coursework included applied multivariate statistics, data analysis with R, SPSS and Excel, market research, strategic analysis, IT governance, programming, modeling, and IT project management.
-
-    International Education:
-      - institution: Kobe University
-        location: Kobe, Japan
-        area: International Business, Advanced Macroeconomics, Japanese
-        studyType: Exchange Studies
-        start_date: 2011
-        end_date: 2012
-
-      - institution: Qiqihar University
-        location: Qiqihar, China
-        area: Mandarin Chinese
-        studyType: Language and Cultural Studies
-        start_date: 2003
-        end_date: 2004
-
-      - institution: Winton Woods High School
-        location: Cincinnati, Ohio, USA
-        area: High School Diploma
-        studyType: U.S. High School Diploma
-        start_date: 2000
-        end_date: 2001
-
     Experience:
       - company: Graz University of Technology
         position: Dr. techn. Candidate | Research and Teaching Fellow
@@ -190,40 +110,93 @@ cv:
           - Planned and carried out weekend activities for children at local SOS Children's Villages.
           - Taught at Hermann Gmeiner Vocational School.
 
-    Teaching:
+    Education:
       - institution: Graz University of Technology
         location: Graz, Austria
-        area: Entrepreneurship, General Management, Organization
-        studyType: University Teaching
-        start_date: 2023
+        area: Techno-Economics
+        studyType: Doctor of Technical Sciences, Dr. techn. candidate
+        start_date: 2024
         end_date: Present
         highlights:
-          - Entrepreneurship education
-          - General management and organization
-          - Business models and startup development
-          - Case-based and application-oriented teaching formats
+          - Doctoral School of Techno-Economics.
+          - Estimated completion in 2028.
+          - Research interests include green transition, circular and regenerative economic systems, technology leadership, and business model innovation.
+
+      - institution: University of Graz
+        location: Graz, Austria
+        area: Psychosocial Counseling
+        studyType: Master of Science, 180 ECTS
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - Focus on psychosocial counseling, counseling practice, and reflective professional development.
 
       - institution: University of Applied Sciences Technikum Wien
         location: Vienna, Austria
-        area: Environmental Research and Applied Learning
-        studyType: Lecturer
-        start_date: 2014
-        end_date: 2017
+        area: Environmental Management and Ecotoxicology
+        studyType: Master of Science in Engineering, 120 ECTS
+        start_date: 2012
+        end_date: 2014
         highlights:
-          - Undergraduate and graduate teaching
-          - Applied research projects
-          - Student coaching and thesis supervision
-          - Problem-based learning cases
+          - Focus on environmental management, ecotoxicology, applied research, and data analysis.
+
+      - institution: University of Applied Sciences Technikum Wien
+        location: Vienna, Austria
+        area: Engineering and International Business Administration
+        studyType: Bachelor of Science in Engineering, 180 ECTS
+        start_date: 2008
+        end_date: 2011
+        highlights:
+          - Interdisciplinary education combining engineering, international business, and applied management.
+
+      - institution: University of Vienna
+        location: Vienna, Austria
+        area: China Studies
+        studyType: Bachelor of Philosophy, 180 ECTS
+        start_date: 2004
+        end_date: 2009
+        highlights:
+          - Academic focus on Chinese language, culture, history, politics, and society.
+
+      - institution: Vienna University of Economics and Business
+        location: Vienna, Austria
+        area: International Business and Chinese
+        studyType: Degree Program
+        start_date: 2004
+        end_date: 2012
+        highlights:
+          - Specialization in tourism analysis and leisure marketing.
+          - Specialization in information management.
+          - Coursework included applied multivariate statistics, data analysis with R, SPSS and Excel, market research, strategic analysis, IT governance, programming, modeling, and IT project management.
+
+      - institution: Kobe University
+        location: Kobe, Japan
+        area: International Business, Advanced Macroeconomics, Japanese
+        studyType: International Exchange Studies
+        start_date: 2011
+        end_date: 2012
+        highlights:
+          - International academic experience in Japan.
+          - Coursework in international business, advanced macroeconomics, and Japanese language.
 
       - institution: Qiqihar University
         location: Qiqihar, China
-        area: English Conversation
-        studyType: Instructor
+        area: Mandarin Chinese
+        studyType: Language and Cultural Studies
         start_date: 2003
         end_date: 2004
         highlights:
-          - English conversation teaching at university level
-          - Lesson planning and intercultural classroom experience
+          - Intensive Chinese language and cultural studies.
+          - Early international academic and intercultural experience in China.
+
+      - institution: Winton Woods High School
+        location: Cincinnati, Ohio, USA
+        area: High School Diploma
+        studyType: U.S. High School Diploma
+        start_date: 2000
+        end_date: 2001
+        highlights:
+          - International school experience in the United States.
 
     Volunteer:
       - company: Gründungsgarage
