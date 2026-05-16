@@ -15,6 +15,7 @@ nav_order: 4
   <a href="#selected-teaching-examples">Teaching Examples</a>
   <a href="#supervision-of-student-projects-and-theses">Supervision</a>
   <a href="#executive-mba-digital-and-green-transition">Executive MBA</a>
+  <a href="#business-model-lab-sustainable-business-models">Business Model Lab</a>
   <a href="#assessment-and-learning-outcomes">Assessment</a>
   <a href="#feedback-and-evidence">Feedback</a>
   <a href="#professional-development-in-teaching">Professional Development</a>
@@ -63,8 +64,9 @@ The following overview summarizes selected teaching activities across different 
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
 | 2014–2017 | UAS Technikum Wien | Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory | Lectures, laboratories, research seminars, thesis supervision |
-| 2024–present | Graz University of Technology | General Management and Organization; Unternehmensführung und Organisation; Entrepreneurship VO; Entrepreneurship UA; Gründungsgarage / Startup Garage; Bachelor and Master Projects | Lectures, practical courses, seminars, project supervision |
-| 2024–present | Executive MBA in Digital and Green Transition | Business Model Innovation; Circular Economy; Sustainable Business Models | Asynchronous video lectures / flipped classroom elements |
+| 2024–present | Graz University of Technology | General Management and Organization; Unternehmensführung und Organisation; Entrepreneurship VO; Entrepreneurship UA; Gründungsgarage / Startup Garage; Bachelor and Master Projects | Lectures, practical courses, workshops, seminars, project supervision |
+| 2024–present | Executive MBA in Digital and Green Transition | From Data to Value; Circular Economy; Digital Economy; Product-Service Systems; Platform Wars simulation | Executive education, case discussion, simulation, transfer exercises |
+| 2026 | Business Model Lab | Sustainable Business Models for SMEs | Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas |
 
 ## Selected Teaching Examples
 
@@ -124,11 +126,17 @@ One case focuses on Alphabet and Google. Students analyze the relationship betwe
 
 A second case focuses on Soulbottles and its adoption of holacracy. I researched the central concepts of holacracy and prepared the case so that students can work with a less traditional organizational form. Students are asked to visualize the structure and logic of the organization. The case often leads to lively discussions, because holacracy challenges many assumptions about hierarchy, authority, roles, and decision-making.
 
-### Gründungsgarage / Startup Garage
+### Gründungsgarage / Startup Garage: Business Model Development Workshop
 
-This section is currently being expanded.
+As part of the Gründungsgarage / Startup Garage, I co-teach a workshop on business model development together with a colleague. The workshop uses the **Leap Game**, an interactive format that helps student startup teams develop and challenge their business model ideas.
 
-[Add short description of your teaching, mentoring, programme management, seminar role, and interaction with startup teams in Gründungsgarage / Startup Garage.]
+The workshop starts with the formulation of a design challenge. Based on this challenge, students work in teams and use a set of cards to expand, question, and refine their business model canvases. The logic of the workshop is based on the business model framework by Osterwalder and Pigneur, but the game format makes the process much more active and exploratory.
+
+A central part of the format is that student teams challenge each other. They work in pairs of teams, go through different cards, and use them to identify assumptions, weak points, opportunities, and possible extensions of their business models. This creates many ideas in a short time and helps teams move beyond their first version of the business model.
+
+At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. This is often a productive moment, because the game makes business model development tangible, social, and iterative. The format is highly interactive and has received positive feedback from students.
+
+In a future version of this teaching portfolio, I plan to include selected feedback from the workshop evaluation forms to document the learning experience more systematically.
 
 ### Assessment Rubrics and Course Alignment
 
@@ -142,7 +150,7 @@ For me, these rubrics are assessment tools, but they are also communication tool
 
 ## Supervision of Student Projects and Theses
 
-Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project.
+Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project. The table includes publicly listed theses where catalogue links are available, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
 
 This section is currently being expanded.
 
@@ -162,17 +170,29 @@ This section is currently being expanded.
 
 ## Executive MBA: Digital and Green Transition
 
-As part of my teaching development at TU Graz, I designed a series of short conceptual video lectures for the Executive MBA in Digital and Green Transition. The aim of these videos is to support asynchronous learning and provide students with clear conceptual frameworks before engaging in deeper classroom discussion.
+As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. One teaching format I developed is the class **From Data to Value**, which connects circular economy thinking, digital economy, product-service systems, and platform dynamics.
 
-The video series currently includes:
+The first part of the class introduces different schools of thought in the circular economy as well as core ideas of the digital economy. Students work with a mini case and discussion questions to connect these conceptual perspectives to real business situations.
 
-- Business Model Innovation
-- Circular Economy
-- Sustainable Business Models
+A central element of the class is the topic of **product-service systems**. Students explore how companies can move from selling products toward creating value through service-based, usage-oriented, or performance-oriented solutions. They then work on product-service ideas for their own companies or professional contexts.
 
-The videos are designed as asynchronous microlearning units of approximately 10–13 minutes each. They combine narrative explanation, visual frameworks, and original diagrams to reduce cognitive complexity and support students in understanding abstract management concepts.
+On the second day, I use the MIT simulation **Platform Wars** to explore platform systems and platform dynamics. Students play through different scenarios, experience how strategic decisions unfold in platform markets, and participate in structured debriefings. This allows us to discuss network effects, ecosystem positioning, competitive dynamics, and the strategic challenges of platform-based business models.
 
-From a pedagogical perspective, these videos support a flipped classroom logic. Students can engage with core concepts before class, while classroom time can be used for discussion, case analysis, application exercises, and reflection.
+From a teaching perspective, this format combines conceptual input, case-based discussion, simulation-based learning, and direct transfer to participants’ own organizational contexts. This is particularly valuable in executive education, where participants bring professional experience and can immediately connect theoretical frameworks to strategic transformation challenges.
+
+## Business Model Lab: Sustainable Business Models
+
+In the **Business Model Lab**, I teach a workshop on sustainable business models for small and medium-sized enterprises. The format is designed to help participants move from sustainability challenges toward concrete business model ideas and prototypes.
+
+The workshop starts with an introduction to circular economy and sustainability. This creates a shared conceptual foundation and helps participants understand sustainability not simply as compliance or efficiency improvement, but as a starting point for rethinking value creation.
+
+After this input, we introduce design thinking and guide participants toward formulating a design challenge. This step is important because it translates broad sustainability ambitions into a more concrete innovation task.
+
+A central part of the workshop is the use of **45 sustainable business model patterns**. Participants work with these patterns to generate a broad range of ideas. The aim is to open up the solution space and help participants move beyond the first obvious ideas.
+
+In the next step, participants develop a prototype based on selected ideas. In the afternoon, they use this prototype as input for working with the **Flourishing Business Model Canvas**. This allows them to connect their idea to a broader understanding of value creation, including economic, environmental, and societal dimensions.
+
+From a teaching perspective, this format is a good example of how I like to work: conceptual input, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The goal is that participants leave the workshop with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
 
 ## Assessment and Learning Outcomes
 
@@ -180,7 +200,15 @@ This section is currently being expanded.
 
 My teaching aims to connect learning outcomes, learning activities, and assessment formats. I use transfer tasks, case analyses, worksheets, group products, presentations, rubrics, and reflective discussions to support competence-oriented learning.
 
-A recurring principle in my course design is that students should produce visible outputs: organizational charts, matrices, posters, business model elements, persona profiles, market sizing exercises, pitch feedback, or written business plan sections. These outputs make learning more concrete and give us something to discuss, compare, and improve in class.
+A recurring principle in my course design is that students should produce visible outputs: organizational charts, matrices, posters, business model elements, persona profiles, market sizing exercises, pitch feedback, written business plan sections, or prototypes. These outputs make learning more concrete and give us something to discuss, compare, and improve in class.
+
+In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent.
+
+In the Entrepreneurship course, the rubric supports the assessment of student business plans. It provides a shared reference point for evaluating the different parts of the business plan and helps align expectations between lecturers, students, and external startup guests involved in the course.
+
+In General Management and Organization, I introduced a rubric for student presentations. This makes it easier to assess presentations consistently and to provide more structured feedback.
+
+For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
 
 [Add later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
@@ -192,7 +220,9 @@ I use feedback as a central part of my teaching development. In the past, I have
 
 I try to translate feedback into concrete improvements. When feedback points to possible changes, I document it directly in my teaching materials so that it can inform the next course iteration.
 
-[Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, and examples of changes made in response to feedback.]
+The Gründungsgarage / Startup Garage business model development workshop also includes feedback forms, which I plan to evaluate and incorporate into this teaching portfolio at a later point. This would allow me to document more systematically how students experience interactive formats such as the Leap Game.
+
+[Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, feedback from the Gründungsgarage / Startup Garage business model development workshop, and examples of changes made in response to feedback.]
 
 ## Professional Development in Teaching
 
@@ -228,3 +258,5 @@ This section is currently being expanded.
 In the future, I want to further strengthen experimentation and reflection in my courses. In entrepreneurship education especially, I see potential to create more structured opportunities for students to test assumptions, reflect on their learning process, and connect theoretical concepts with entrepreneurial action.
 
 I also want to continue developing teaching formats that move beyond slide-based input: more free teaching sequences, more active student work, more structured reflection, and more formats where students create visible outputs.
+
+In executive education and SME-oriented workshop formats, I want to further develop my teaching on sustainable business models, product-service systems, platform dynamics, and circular economy. These settings are especially interesting because participants bring professional experience and can connect conceptual frameworks directly to organizational transformation challenges.
