@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:
+description: Teaching philosophy, courses, methods, and selected formats.
 nav: true
 nav_order: 4
 calendar:  false
