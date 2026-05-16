@@ -13,7 +13,7 @@ nav_order: 4
   <a href="#my-path-into-teaching">My Path into Teaching</a>
   <a href="#course-overview">Course Overview</a>
   <a href="#selected-teaching-examples">Teaching Examples</a>
-  <a href="#supervision-of-student-projects-and-theses">Supervision</a>
+  <a href="#thesis-supervision">Thesis Supervision</a>
   <a href="#executive-mba-digital-and-green-transition">Executive MBA</a>
   <a href="#business-model-lab-sustainable-business-models">Business Model Lab</a>
   <a href="#assessment-and-learning-outcomes">Assessment</a>
@@ -148,7 +148,7 @@ In General Management and Organization, I introduced a rubric for student presen
 
 For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
 
-## Supervision of Student Projects and Theses
+## Thesis Supervision
 
 Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project. The table includes publicly listed theses where catalogue links are available, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
 
