@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher and university lecturer working at the intersection of entrepreneurship and the green transition.
+
+My teaching focuses on helping students understand complex concepts and apply them in practical, reflective, and entrepreneurial contexts. I am particularly interested in teaching formats that connect theoretical clarity with real-world application, including case-based learning, problem-based learning, game-based learning and design thinking.
+
+Beyond regular teaching, I am involved in entrepreneurship education, public workshops, and student-centered innovation formats. 
+
+ld about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
