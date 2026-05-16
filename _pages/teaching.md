@@ -157,8 +157,8 @@ This section is currently being expanded.
 | Master thesis | Robin Moroder | [Analysis of the methods and processes in the laboratories of the Andritz hydropower division](https://permalink.obvsg.at/AC17761794) | TU Graz | Co-supervisor | Published / 2025 |
 | Bachelor thesis | Marius Vincent Schober | Geschäftsmodellmuster bei KI Startups im Bereich Bilderkennung und -verstehen | TU Graz | Supervisor | Completed / 2025 |
 | Master thesis | Pradeep Anandrao Tuljapure | [Business model and market potential of second-life lithium-ion traction batteries in battery energy storage systems: a comprehensive analysis](https://permalink.obvsg.at/AC17523011) | TU Graz | Co-supervisor | Published / 2025 |
-| Master thesis | Yvonne Richter | [Development of a method for the evaluation of antiestrogenic activity in wastewater samples indirectly with the T47D-KBluc estrogen assay](https://permalink.obvsg.at/AC17155395) | FH Technikum Wien | Reviewer | Published / 2016 |
-| Master thesis | Petra Antonia Deimbacher | [Vergleich von Bisphenol A und Bisphenol S bei ökotoxikologischen Testmethoden mit der Grünalgenart *Pseudokirchneriella subcapitata* und der Fischzelllinie RTgill-W1](https://permalink.obvsg.at/AC17164501) | FH Technikum Wien | Reviewer | Published / 2016 |
+| Master thesis | Yvonne Richter | [Development of a method for the evaluation of antiestrogenic activity in wastewater samples indirectly with the T47D-KBluc estrogen assay](https://permalink.obvsg.at/AC17155395) | UAS Technikum Wien | Reviewer | Published / 2016 |
+| Master thesis | Petra Antonia Deimbacher | [Vergleich von Bisphenol A und Bisphenol S bei ökotoxikologischen Testmethoden mit der Grünalgenart *Pseudokirchneriella subcapitata* und der Fischzelllinie RTgill-W1](https://permalink.obvsg.at/AC17164501) | UAS Technikum Wien | Reviewer | Published / 2016 |
 
 ## Executive MBA: Digital and Green Transition
 
