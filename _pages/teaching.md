@@ -1,19 +1,19 @@
 ---
 layout: page
 title: teaching
-description: Teaching philosophy, courses, methods, and selected formats.
+description:
 permalink: /teaching/
 nav: true
 nav_order: 4
 ---
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
-  <a href="#my-path-into-teaching">Path</a>
-  <a href="#teaching-areas">Areas</a>
-  <a href="#teaching-methods-and-learning-formats">Methods</a>
-  <a href="#entrepreneurship-education">Entrepreneurship</a>
-  <a href="#digital-teaching-innovation">Digital Innovation</a>
-  <a href="#teaching-development">Development</a>
+  <a href="#my-path-into-teaching">My Path into Teaching</a>
+  <a href="#teaching-areas">Teaching Areas</a>
+  <a href="#teaching-methods-and-learning-formats">Methods & Formats</a>
+  <a href="#entrepreneurship-education">Entrepreneurship Education</a>
+  <a href="#digital-teaching-innovation">Digital Teaching Innovation</a>
+  <a href="#teaching-development">Professional Development</a>
   <a href="#future-development">Future Development</a>
 </div>
 
