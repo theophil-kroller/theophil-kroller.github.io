@@ -1,189 +1,367 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Theophil Kroller
+  label: Doctoral Researcher & Lecturer | Green Transition | Entrepreneurship Education
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Doctoral researcher and lecturer at Graz University of Technology with experience in higher education,
+    intralogistics, energy, and environmental research. My teaching focuses on entrepreneurship, general
+    management, organization, and applied learning. My research interests include the green transition,
+    circular and regenerative economic systems, technology leadership, and business model innovation.
+    My academic background spans engineering, ecotoxicology, business administration, China studies,
+    and psychosocial counseling, with international experience in Austria, China, Japan, and the USA.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: theophil-kroller
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: theophilkroller
+    - network: ORCID
+      username: 0009-0002-7472-6771
+    - network: ResearchGate
+      username: Theophil-Kroller
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Graz University of Technology
+        location: Graz, Austria
+        area: Techno-Economics
+        studyType: Doctor of Technical Sciences, Dr. techn. candidate
+        start_date: 2024
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Doctoral School of Techno-Economics
+          - Research interests include green transition, circular and regenerative economic systems, technology leadership, and business model innovation.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Graz
+        location: Graz, Austria
+        area: Psychosocial Counseling
+        studyType: Master of Science, 180 ECTS
+        start_date: 2021
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Focus on psychosocial counseling, counseling practice, and reflective professional development.
+
+      - institution: University of Applied Sciences Technikum Wien
+        location: Vienna, Austria
+        area: Environmental Management and Ecotoxicology
+        studyType: Master of Science in Engineering, 120 ECTS
+        start_date: 2012
+        end_date: 2014
+        highlights:
+          - Focus on environmental management, ecotoxicology, applied research, and data analysis.
+
+      - institution: University of Applied Sciences Technikum Wien
+        location: Vienna, Austria
+        area: Engineering and International Business Administration
+        studyType: Bachelor of Science in Engineering, 180 ECTS
+        start_date: 2008
+        end_date: 2011
+        highlights:
+          - Interdisciplinary education combining engineering, international business, and applied management.
+
+      - institution: University of Vienna
+        location: Vienna, Austria
+        area: China Studies
+        studyType: Bachelor of Philosophy, 180 ECTS
+        start_date: 2004
+        end_date: 2009
+        highlights:
+          - Academic focus on Chinese language, culture, history, politics, and society.
+
+      - institution: Vienna University of Economics and Business
+        location: Vienna, Austria
+        area: International Business and Chinese
+        studyType: Degree Program
+        start_date: 2004
+        end_date: 2012
+        highlights:
+          - Specialization in tourism analysis and leisure marketing.
+          - Specialization in information management.
+          - Coursework included applied multivariate statistics, data analysis with R, SPSS and Excel, market research, strategic analysis, IT governance, programming, modeling, and IT project management.
+
+    International Education:
+      - institution: Kobe University
+        location: Kobe, Japan
+        area: International Business, Advanced Macroeconomics, Japanese
+        studyType: Exchange Studies
+        start_date: 2011
+        end_date: 2012
+
+      - institution: Qiqihar University
+        location: Qiqihar, China
+        area: Mandarin Chinese
+        studyType: Language and Cultural Studies
+        start_date: 2003
+        end_date: 2004
+
+      - institution: Winton Woods High School
+        location: Cincinnati, Ohio, USA
+        area: High School Diploma
+        studyType: U.S. High School Diploma
+        start_date: 2000
+        end_date: 2001
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Graz University of Technology
+        position: Dr. techn. Candidate | Research and Teaching Fellow
+        location: Graz, Austria
+        start_date: 2023-12
+        end_date: Present
+        summary: >
+          Research and teaching in general management, organization, entrepreneurship, and business models.
         highlights:
-          - Relativity
-          - Description 2.
+          - Teaching and co-teaching in general management, organization, and entrepreneurship.
+          - Supporting students in applying conceptual frameworks to real-world cases, startup ideas, and organizational challenges.
+          - Research interests include green transition, circular and regenerative economy, technology leadership, and business model innovation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: KNAPP AG
+        position: Logistics and Process Design Engineer | Lead Software Engineer
+        location: Austria
+        start_date: 2018-03
+        end_date: 2023-09
+        summary: >
+          Designed and implemented intralogistics solutions for international customers.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Designed automated warehouse solutions and streamlined business processes for customers in the EU, LATAM, and China.
+          - Created business process specifications and acceptance test specifications.
+          - Collaborated with mechanical engineering, electrical engineering, software development, commissioning, and project management teams.
+          - Facilitated customer workshops and supported requirements engineering.
+          - Oversaw factory acceptance tests.
+          - Strengthened cross-functional and cross-cultural collaboration skills.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Pöyry Management Consulting Austria
+        position: Energy Market Analyst | Internship
+        location: Austria
+        start_date: 2017-08
+        end_date: 2017-12
+        summary: >
+          Conducted energy market research and data analysis for Central and South-Eastern European markets.
+        highlights:
+          - Analyzed energy market information using Excel and R.
+          - Created presentations for national clients.
+          - Contributed to wholesale electricity market reports.
+          - Conducted research on the energy market of Kazakhstan, including regulatory frameworks, market structures, and potential policy developments.
+          - Processed and visualized large-scale datasets with R.
+          - Supported business development through target screening and translation of promotional material.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: University of Applied Sciences Technikum Wien
+        position: Lecturer | Junior Researcher
+        location: Vienna, Austria
+        start_date: 2014-01
+        end_date: 2017-02
+        summary: >
+          Taught undergraduate and graduate courses and contributed to applied environmental research.
+        highlights:
+          - Taught courses at undergraduate and graduate level.
+          - Coached students in applied research projects in ecotoxicology and air pollution monitoring.
+          - Supervised master thesis work.
+          - Coordinated external lecturers.
+          - Set up and carried out experiments.
+          - Analyzed data with R and Excel.
+          - Optimized and validated a novel method for screening samples for endocrine disruptors.
+          - Presented research results at an international academic conference.
+          - Designed cases for problem-based learning.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: SINOC Automotive Ltd. / Zhou Dynasty International
+        position: Management Trainee | Internship
+        location: Beijing, China
+        start_date: 2007-07
+        end_date: 2007-09
+        summary: >
+          Supported business development, strategy-related research, and cross-cultural project work.
+        highlights:
+          - Managed a small team.
+          - Collected and analyzed data for a knowledge database.
+          - Revised a lecture series on Chinese strategies and strategic management.
+          - Translated technical documents.
+          - Researched and liaised with authorities regarding an investment location in Northern China.
+          - Identified and contacted potential customers for the aftersales market.
+
+      - company: Qiqihar University / SOS Children's Village China
+        position: Instructor and Community Servant
+        location: Qiqihar, China
+        start_date: 2003-08
+        end_date: 2004-09
+        summary: >
+          Taught English conversation and supported community activities in China.
+        highlights:
+          - Developed lesson plans.
+          - Taught more than 600 first- and second-year university students in English conversation.
+          - Planned and carried out weekend activities for children at local SOS Children's Villages.
+          - Taught at Hermann Gmeiner Vocational School.
+
+    Teaching:
+      - institution: Graz University of Technology
+        location: Graz, Austria
+        area: Entrepreneurship, General Management, Organization
+        studyType: University Teaching
+        start_date: 2023
+        end_date: Present
+        highlights:
+          - Entrepreneurship education
+          - General management and organization
+          - Business models and startup development
+          - Case-based and application-oriented teaching formats
+
+      - institution: University of Applied Sciences Technikum Wien
+        location: Vienna, Austria
+        area: Environmental Research and Applied Learning
+        studyType: Lecturer
+        start_date: 2014
+        end_date: 2017
+        highlights:
+          - Undergraduate and graduate teaching
+          - Applied research projects
+          - Student coaching and thesis supervision
+          - Problem-based learning cases
+
+      - institution: Qiqihar University
+        location: Qiqihar, China
+        area: English Conversation
+        studyType: Instructor
+        start_date: 2003
+        end_date: 2004
+        highlights:
+          - English conversation teaching at university level
+          - Lesson planning and intercultural classroom experience
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Gründungsgarage
+        position: Board Member | Programme Management
+        location: Graz, Austria
+        start_date: 2024-07
+        end_date: Present
+        summary: >
+          Supporting entrepreneurship education and startup ecosystem activities through programme management.
+
+      - company: Psychosocial Counseling Practice
+        position: Psychosocial Counselor in Training
+        location: Austria
+        start_date: 2022-02
+        end_date: 2025-02
+        summary: >
+          Guided and supported clients through life transitions as part of psychosocial counseling training.
+
+      - company: mpi English Schools
+        position: Co-Facilitator
+        location: Kobe, Japan
+        start_date: 2011-09
+        end_date: 2012-02
+        summary: >
+          Co-facilitated English lessons for children.
+
+      - company: University of Vienna
+        position: Initiator and Instructor
+        location: Vienna, Austria
+        start_date: 2003-02
+        end_date: 2003-06
+        summary: >
+          Initiated, organized, and taught an Austria Studies course for Chinese exchange students.
+
+      - company: Austrian Service Abroad
+        position: Volunteer Coordinator
+        location: Austria / China
+        start_date: 2001-07
+        end_date: 2003-08
+        summary: >
+          Recruited, prepared, and supported interns for community service in China.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Young Scientist Poster Award, 2nd Place
+        date: 2015
+        awarder: SETAC Europe GLB
+        summary: Award for scientific poster presentation.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Scientific Award
+        date: 2015
+        awarder: City of Vienna Environmental Protection Department
+        summary: Award for outstanding academic achievement.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Certificates:
+      - name: Higher Education Teaching Certificate
+        date:
+        issuer: TU Graz Teaching Academy
+        summary: Advanced level higher education didactics certificate.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Teaching and Facilitation
+        level:
+        icon: fa-solid fa-chalkboard-user
+        keywords:
+          - University teaching
+          - Public speaking
+          - Student coaching
+          - Case-based learning
+          - Problem-based learning
+          - Workshop facilitation
+
+      - name: Research and Analysis
+        level:
+        icon: fa-solid fa-chart-line
+        keywords:
+          - Qualitative research
+          - Data analysis
+          - Technical report writing
+          - Scientific literature review
+          - Statistical analysis
+          - Research design
+
+      - name: Digital and Analytical Tools
+        level:
+        icon: fa-solid fa-laptop-code
+        keywords:
+          - R
+          - Excel
+          - LaTeX
+          - UML
+          - MS Office
+          - Data visualization
+
+      - name: Professional and Intercultural Skills
+        level:
+        icon: fa-solid fa-people-arrows
+        keywords:
+          - Cross-cultural collaboration
+          - Project management
+          - Requirements engineering
+          - Counseling and coaching
+          - Business process design
+          - Customer workshops
 
     Languages:
       - name: German
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: English
-        summary: "Fluent"
+        summary: Fluent
+
+      - name: Chinese
+        summary: Working knowledge
+
+      - name: Spanish
+        summary: Basic knowledge
+
+      - name: French
+        summary: Basic knowledge
+
+      - name: Japanese
+        summary: Basic knowledge
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Research Interests
+        icon: fa-solid fa-magnifying-glass-chart
+        keywords:
+          - Green transition
+          - Circular economy
+          - Regenerative economy
+          - Technology leadership
+          - Entrepreneurship
+          - Greentech startups
+          - Business model innovation
+          - AI-supported teaching and learning
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Activities and Interests
+        icon: fa-solid fa-person-running
+        keywords:
+          - Bujinkan
+          - Brazilian Zouk
