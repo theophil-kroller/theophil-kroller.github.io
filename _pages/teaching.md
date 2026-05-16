@@ -79,7 +79,36 @@ I use feedback as a central part of my teaching development. In the past, I have
 
 I try to translate feedback into concrete teaching improvements. When feedback points to possible improvements, I document it directly in my teaching materials or slides so that it can inform the next course iteration.
 
-My teaching development at TU Graz has also been shaped by a broad range of didactic training courses, including higher education didactics, assessment, digital teaching, rhetoric, voice training, diversity in the international classroom, generative AI in teaching, education for sustainable development, and teaching portfolio development.
+## Teaching Development
+
+My teaching has developed in very different contexts: first through language teaching and intercultural classroom experiences, later through laboratory teaching, research seminars, problem-based learning, and today through entrepreneurship and management education.
+
+Looking back, a lot of my early teaching development was learning by doing. When I taught English conversation in China, I had to prepare lessons for large groups of students and quickly learned how important structure, variety, and energy are in the classroom. Later, at UAS Technikum Wien, I learned a lot by observing good lecturers, working with colleagues, and helping to introduce problem-based learning in our study programme.
+
+Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. I have made extensive use of the TU Graz Teaching Academy and related didactic training opportunities — not just to collect certificates, but to actively refine my teaching practice, my classroom presence, my use of digital tools, and my understanding of student learning.
+
+| Semester | Course / Workshop | Hours | Focus |
+|---|---:|---:|---|
+| WS23 | Hochschuldidaktik 1 | 16 | Foundations of higher education teaching, learning processes, and course design |
+| WS23 | Hochschuldidaktik 2 | 16 | Further development of didactic planning, methods, and student activation |
+| WS23 | Teaching and Learning at TU Graz | 8 | Institutional teaching culture, teaching standards, and learning support at TU Graz |
+| SS24 | Einführung in die TUbe Video Plattform | 4 | Use of the TU Graz video platform for digital and asynchronous teaching |
+| SS24 | Kompetent Prüfen | 16 | Assessment design, constructive alignment, and competence-oriented examination |
+| SS24 | Digitalisierung in der Lehre | 16 | Digital teaching formats, online tools, and technology-supported learning |
+| SS24 | Stimm- und Sprechtraining für die Lehre | 8 | Voice, speech, presence, and communication in teaching |
+| WS24 | Sprechtechnik und Sprechgestaltung | 8 | Speech technique, clarity, rhythm, and expressive classroom communication |
+| WS24 | Interaktiv Lehren durch effektive Rhetorik | 16 | Rhetorical strategies, interaction, and activation in lectures and seminars |
+| WS24 | Navigating Diversity in the International Classroom | 5 | Diversity-sensitive teaching and intercultural classroom dynamics |
+| WS24 | Hochschuldidaktik 3: Lehrveranstaltungen mit digitalen Technologien | 16 | Digital course design and integration of educational technologies |
+| WS24 | Einsatz von generativer KI für die Lehre: Potentiale und Begrenzungen | 10 | Opportunities and limits of generative AI in teaching and learning |
+| SS25 | Hochschuldidaktik 3: Lehrverhaltenstraining | 16 | Reflection and development of concrete teaching behavior |
+| SS25 | Für eine nachhaltige Zukunft Lehren: Bildung für nachhaltige Entwicklung | 14 | Education for sustainable development and sustainability-oriented teaching |
+| WS25 | KI in die Lehre integrieren (Einführung) | 6 | Introductory strategies for integrating AI into teaching |
+| SS26 | Workshop Teaching Expert | 16 | Advanced reflection and consolidation of teaching expertise |
+| SS26 | Lehr-Portfolio | 30 | Documentation, reflection, and development of a teaching portfolio |
+| WS26/SS26 | Beitrag zur TeachingCommunity @ TU Graz | 30 | Contribution to teaching community, exchange, and peer learning |
+
+This development path also reflects a broader shift in how I understand teaching. Good teaching is not just about knowing a subject well. It also requires voice and presence, didactic flexibility, sensitivity to different student backgrounds, competence-oriented assessment, digital literacy, and the ability to design learning experiences that students remember.
 
 ## Future Development
 
