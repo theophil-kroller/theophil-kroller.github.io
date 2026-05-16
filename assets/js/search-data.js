@@ -424,11 +424,6 @@ ninja.data = [{
           description: "International entrepreneurship education across the UNITE! alliance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
