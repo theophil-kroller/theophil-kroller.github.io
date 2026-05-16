@@ -2,7 +2,7 @@
 layout: page
 title: UNITE! Pre-Incubation Program
 description: International entrepreneurship education across the UNITE! alliance
-img:
+img: assets/img/4.jpg
 importance: 2
 category: transfer
 published: true
