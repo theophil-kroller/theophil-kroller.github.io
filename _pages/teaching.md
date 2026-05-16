@@ -22,6 +22,9 @@ nav_order: 4
   <a href="#future-development">Future Development</a>
 </div>
 
+<div class="row align-items-start mb-5">
+  <div class="col-md-8" markdown="1">
+
 ## Teaching Philosophy
 
 My teaching is application-oriented, experiential, and reflective. I want students to work with ideas, not just listen to them. In management and entrepreneurship education, concepts should become useful: students should be able to apply them to cases, startup ideas, organizational challenges, and uncertain decision-making situations.
@@ -29,6 +32,15 @@ My teaching is application-oriented, experiential, and reflective. I want studen
 For me, good teaching creates moments that stay with students. A role play, a group puzzle, a poster, a difficult case discussion, a first business model, or a moment where a concept suddenly becomes clear — these are the moments where learning becomes more than information transfer.
 
 I am interested in teaching formats that combine conceptual clarity with experience. Students need models, language, and structure. They also need opportunities to try things out, compare perspectives, discuss with others, and reflect on what they have learned.
+
+  </div>
+
+  <div class="col-md-4" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy2.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
 
 ## My Role as a Teacher
 
