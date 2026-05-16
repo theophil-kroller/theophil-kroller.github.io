@@ -414,9 +414,9 @@ ninja.data = [{
           description: "Strategic decision-making and business model adaptation in sustainability transitions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-unite-pre-incubation-program",
-          title: 'UNITE! Pre-Incubation Program',
-          description: "International entrepreneurship education across the UNITE! alliance",
+            },},{id: "projects-business-model-lab",
+          title: 'Business Model Lab',
+          description: "Sustainable business models for SMEs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
