@@ -22,7 +22,7 @@ nav_order: 4
   <a href="#future-development">Future Development</a>
 </div>
 
-## <i class="fa-solid fa-compass"></i> Teaching Philosophy
+<a href="#teaching-philosophy">✨ Teaching Philosophy</a>
 
 My teaching is application-oriented, experiential, and reflective. I want students to work with ideas, not just listen to them. In management and entrepreneurship education, concepts should become useful: students should be able to apply them to cases, startup ideas, organizational challenges, and uncertain decision-making situations.
 
