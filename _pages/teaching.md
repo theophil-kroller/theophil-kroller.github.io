@@ -15,13 +15,17 @@ In my courses, I aim to create learning experiences that remain memorable. Stude
 
 I see myself less as a “sage on the stage” and more as a “guide on the side”: someone who structures learning environments, creates meaningful tasks, supports reflection, and helps students connect theory with practice.
 
-## Teaching Experience and Context
+## My Path into Teaching
 
-My teaching experience spans different institutional, cultural, and disciplinary contexts. Early teaching experiences included German as a foreign language for Chinese exchange students at the University of Vienna and English conversation courses at Qiqihar University in China.
+Teaching has appeared several times throughout my life, in very different contexts. My first teaching experience took place during my high school year in the United States, where I taught a short unit on PowerPoint. A few years later, I taught German language and Austrian studies for Chinese exchange students at the University of Vienna while attending a course on German as a foreign and second language.
 
-From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in areas such as aquatic ecotoxicology, measurement technology, laboratory work, applied research projects, and environmental management. These courses included lectures, laboratory formats, research seminars, and student project supervision.
+At 20, I spent fourteen months teaching English communication at Qiqihar University and the Hermann Gmeiner Vocational School in China. This was my first intensive classroom experience: around sixteen teaching hours per week, large student groups, self-developed materials, and a lot of learning by doing. What initially felt stressful gradually became a formative experience in planning, classroom presence, variation, and learner engagement.
 
-Since 2024, my teaching at Graz University of Technology has focused on general management, organization, entrepreneurship, business models, bachelor and master project supervision, and the Gründungsgarage seminar.
+From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in ecotoxicology, environmental management, laboratory courses, applied statistics with R, measurement technology, applied research projects, and thesis supervision. This period professionalized many aspects of my teaching, including Moodle-based course organization, laboratory entrance tests, assessment rubrics, LaTeX-based exams, and problem-based learning.
+
+Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing: I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously develop my teaching practice. Through the TU Graz Teaching Academy, I have worked intensively on higher education didactics, assessment, digital teaching, rhetoric, voice, diversity, generative AI, sustainability-oriented teaching, and teaching portfolio development.
+
+This path has shaped my current understanding of teaching: good teaching needs preparation and conceptual clarity, but also presence, flexibility, interaction, experimentation, and the courage to move beyond slides.
 
 ## Teaching Areas
 
