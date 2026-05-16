@@ -56,3 +56,36 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+/* Teaching page internal navigation */
+
+.teaching-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2.25rem 0;
+}
+
+.teaching-nav a {
+  display: inline-block;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.teaching-nav a:hover {
+  background-color: var(--global-theme-color);
+  color: var(--global-bg-color);
+  text-decoration: none;
+}
+
+.teaching-nav a:focus {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 2px;
+}
