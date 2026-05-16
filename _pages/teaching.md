@@ -170,11 +170,22 @@ In General Management and Organization, I introduced a rubric for student presen
 
 For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
 
+<div class="row align-items-start mb-5">
+  <div class="col-md-8" markdown="1">
+
 ## Thesis Supervision
 
 Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project. The table includes publicly listed theses where catalogue links are available, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
 
 This section is currently being expanded.
+ </div>
+
+  <div class="col-md-4" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/master_thesis_supervision.png" title="Thesis Supervision" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
 
 | Level | Student | Title / Topic | Institution | Role | Status / Year |
 |---|---|---|---|---|---|
