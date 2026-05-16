@@ -1,21 +1,45 @@
 ---
 layout: page
-title: UNITE! Pre-Incubation Program
-description: International entrepreneurship education across the UNITE! alliance
-img:
-importance: 2
+title: Business Model Lab
+description: Sustainable business models for SMEs
+img: assets/img/3.jpg
+importance: 3
 category: transfer
 published: true
 ---
 
-The **UNITE! Entrepreneurship Development – Pre-Incubation Program (PIP)** is an international Seed Fund initiative developed together with partners from Wrocław University of Science and Technology, TU Darmstadt, and TU Graz.
+<div class="row align-items-start">
+  <div class="col-md-7" markdown="1">
 
-The programme is designed as a hands-on, experience-based learning journey for students and PhD candidates from universities within the UNITE! alliance. It combines entrepreneurship, AI and business informatics, business psychology, and startup development methodologies.
+In the **Business Model Lab**, I contribute to a workshop format on sustainable business models for small and medium-sized enterprises. The format is designed to help participants move from sustainability challenges toward concrete business model ideas and prototypes.
 
-A central aim of the programme is to support the commercialization of research and patents by connecting interdisciplinary student teams with technology transfer centres, incubators, legal experts, industry specialists, and startup practitioners.
+The workshop starts with an introduction to circular economy and sustainability. This creates a shared conceptual foundation and helps participants understand sustainability not simply as compliance or efficiency improvement, but as a starting point for rethinking value creation.
 
-In March 2026, the project team met in Wrocław to co-develop the programme structure and shape its educational and organizational framework. The planned programme launch is March 2027.
+After this input, we introduce design thinking and guide participants toward formulating a design challenge. Participants then work with **45 sustainable business model patterns** to generate a broad range of ideas and move beyond the first obvious solutions.
 
-**Status:** in development  
-**Partners:** Wrocław University of Science and Technology, TU Darmstadt, TU Graz  
-**Fields:** entrepreneurship education, deep-tech startups, research commercialization, technology transfer, international collaboration
+In the next step, participants develop a prototype based on selected ideas. In the afternoon, they use this prototype as input for working with the **Flourishing Business Model Canvas**. This allows them to connect their idea to a broader understanding of value creation, including economic, environmental, and societal dimensions.
+
+  </div>
+
+  <div class="col-md-5" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/3.jpg" title="Business Model Lab" class="img-fluid rounded z-depth-1" %}
+
+**Status:** upcoming / in development  
+
+**Format:** workshop for SMEs  
+
+**Methods:**  
+design thinking  
+business model patterns  
+prototyping  
+Flourishing Business Model Canvas  
+
+**Fields:**  
+sustainable business models  
+circular economy  
+SME transformation  
+business model innovation
+
+  </div>
+</div>
