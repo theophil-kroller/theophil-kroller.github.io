@@ -22,6 +22,14 @@ cv:
 
   sections:
     Experience:
+      - company: Gründungsgarage
+        position: Board Member | Programme Management
+        location: Graz, Austria
+        start_date: 2024-07
+        end_date: Present
+        summary: >
+          Volunteer board role supporting entrepreneurship education and startup ecosystem activities through programme management.
+
       - company: Graz University of Technology
         position: Dr. techn. Candidate | Research and Teaching Fellow
         location: Graz, Austria
@@ -33,6 +41,14 @@ cv:
           - Teaching and co-teaching in general management, organization, and entrepreneurship.
           - Supporting students in applying conceptual frameworks to real-world cases, startup ideas, and organizational challenges.
           - Research interests include green transition, circular and regenerative economy, technology leadership, and business model innovation.
+
+      - company: Psychosocial Counseling Practice
+        position: Psychosocial Counselor in Training
+        location: Austria
+        start_date: 2022-02
+        end_date: 2025-02
+        summary: >
+          Counseling training role focused on guiding and supporting clients through life transitions.
 
       - company: KNAPP AG
         position: Logistics and Process Design Engineer | Lead Software Engineer
@@ -82,6 +98,14 @@ cv:
           - Presented research results at an international academic conference.
           - Designed cases for problem-based learning.
 
+      - company: mpi English Schools
+        position: Co-Facilitator
+        location: Kobe, Japan
+        start_date: 2011-09
+        end_date: 2012-02
+        summary: >
+          Co-facilitated English lessons for children during an international stay in Japan.
+
       - company: SINOC Automotive Ltd. / Zhou Dynasty International
         position: Management Trainee | Internship
         location: Beijing, China
@@ -109,6 +133,22 @@ cv:
           - Taught more than 600 first- and second-year university students in English conversation.
           - Planned and carried out weekend activities for children at local SOS Children's Villages.
           - Taught at Hermann Gmeiner Vocational School.
+
+      - company: University of Vienna
+        position: Initiator and Instructor | Austria Studies Course
+        location: Vienna, Austria
+        start_date: 2003-02
+        end_date: 2003-06
+        summary: >
+          Initiated, organized, and taught an Austria Studies course for Chinese exchange students.
+
+      - company: Austrian Service Abroad
+        position: Volunteer Coordinator
+        location: Austria / China
+        start_date: 2001-07
+        end_date: 2003-08
+        summary: >
+          Recruited, prepared, and supported interns for community service in China.
 
     Education:
       - institution: Graz University of Technology
@@ -140,6 +180,16 @@ cv:
         highlights:
           - Focus on environmental management, ecotoxicology, applied research, and data analysis.
 
+      - institution: Kobe University
+        location: Kobe, Japan
+        area: International Business, Advanced Macroeconomics, Japanese
+        studyType: International Exchange Studies
+        start_date: 2011
+        end_date: 2012
+        highlights:
+          - International academic experience in Japan.
+          - Coursework in international business, advanced macroeconomics, and Japanese language.
+
       - institution: University of Applied Sciences Technikum Wien
         location: Vienna, Austria
         area: Engineering and International Business Administration
@@ -169,16 +219,6 @@ cv:
           - Specialization in information management.
           - Coursework included applied multivariate statistics, data analysis with R, SPSS and Excel, market research, strategic analysis, IT governance, programming, modeling, and IT project management.
 
-      - institution: Kobe University
-        location: Kobe, Japan
-        area: International Business, Advanced Macroeconomics, Japanese
-        studyType: International Exchange Studies
-        start_date: 2011
-        end_date: 2012
-        highlights:
-          - International academic experience in Japan.
-          - Coursework in international business, advanced macroeconomics, and Japanese language.
-
       - institution: Qiqihar University
         location: Qiqihar, China
         area: Mandarin Chinese
@@ -197,47 +237,6 @@ cv:
         end_date: 2001
         highlights:
           - International school experience in the United States.
-
-    Volunteer:
-      - company: Gründungsgarage
-        position: Board Member | Programme Management
-        location: Graz, Austria
-        start_date: 2024-07
-        end_date: Present
-        summary: >
-          Supporting entrepreneurship education and startup ecosystem activities through programme management.
-
-      - company: Psychosocial Counseling Practice
-        position: Psychosocial Counselor in Training
-        location: Austria
-        start_date: 2022-02
-        end_date: 2025-02
-        summary: >
-          Guided and supported clients through life transitions as part of psychosocial counseling training.
-
-      - company: mpi English Schools
-        position: Co-Facilitator
-        location: Kobe, Japan
-        start_date: 2011-09
-        end_date: 2012-02
-        summary: >
-          Co-facilitated English lessons for children.
-
-      - company: University of Vienna
-        position: Initiator and Instructor
-        location: Vienna, Austria
-        start_date: 2003-02
-        end_date: 2003-06
-        summary: >
-          Initiated, organized, and taught an Austria Studies course for Chinese exchange students.
-
-      - company: Austrian Service Abroad
-        position: Volunteer Coordinator
-        location: Austria / China
-        start_date: 2001-07
-        end_date: 2003-08
-        summary: >
-          Recruited, prepared, and supported interns for community service in China.
 
     Awards:
       - title: Young Scientist Poster Award, 2nd Place
