@@ -234,22 +234,23 @@ Many of the changes I introduced in Entrepreneurship and General Management and 
 
 | Date | Course / Workshop | Level | Units |
 |---|---|---:|---:|
-| 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
-| 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
-| 06.02.2024 | Higher Education Didactics 2: Delivering Effective Teaching Sessions | Foundational | 16 |
-| 15.04.2024 | Competent Assessment | Advanced | 16 |
-| 25.04.2024 | Digitalization in Teaching | Advanced | 16 |
-| 09.05.2024 | Introduction to the TUbe Video Platform | Advanced | 4 |
-| 05.07.2024 | Voice and Speech Training for Teaching | Advanced | 8 |
-| 19.09.2024 | Navigating Diversity in the International Classroom | Advanced | 5 |
-| 04.11.2024 | Using Generative AI in Teaching: Potentials and Limitations | Advanced | 10 |
-| 16.01.2025 | Interactive Teaching Through Effective Rhetoric | Advanced | 16 |
-| 31.01.2025 | Speech Technique and Delivery for Teaching | Advanced | 8 |
-| 20.02.2025 | Higher Education Didactics 3: Teaching with Digital Technologies | Advanced | 16 |
-| 02.04.2025 | Teaching for a Sustainable Future – Education for Sustainable Development (ESD) | Advanced | 14 |
+| 11.11.2025 | Integrating AI into Teaching (Introduction) | Advanced | 6 |
 | 25.04.2025 | Higher Education Didactics 3: Teaching Behavior Training | Advanced | 16 |
+| 02.04.2025 | Teaching for a Sustainable Future – Education for Sustainable Development (ESD) | Advanced | 14 |
+| 20.02.2025 | Higher Education Didactics 3: Teaching with Digital Technologies | Advanced | 16 |
+| 31.01.2025 | Speech Technique and Delivery for Teaching | Advanced | 8 |
+| 16.01.2025 | Interactive Teaching Through Effective Rhetoric | Advanced | 16 |
+| 04.11.2024 | Using Generative AI in Teaching: Potentials and Limitations | Advanced | 10 |
+| 19.09.2024 | Navigating Diversity in the International Classroom | Advanced | 5 |
+| 05.07.2024 | Voice and Speech Training for Teaching | Advanced | 8 |
+| 09.05.2024 | Introduction to the TUbe Video Platform | Advanced | 4 |
+| 25.04.2024 | Digitalization in Teaching | Advanced | 16 |
+| 15.04.2024 | Competent Assessment | Advanced | 16 |
+| 06.02.2024 | Higher Education Didactics 2: Delivering Effective Teaching Sessions | Foundational | 16 |
+| 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
+| 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
 
-Taken together, these courses reflect a broad and deliberate development path: from basic course design and constructive alignment to assessment, digital teaching, voice and rhetoric, intercultural classroom dynamics, generative AI, and education for sustainable development.
+Taken together, these courses reflect a broad and deliberate development path. They cover foundational course design, constructive alignment, competence-oriented assessment, digital teaching, voice and rhetoric, intercultural classroom dynamics, generative AI, teaching behavior training, and education for sustainable development.
 
 ## Future Development
 
