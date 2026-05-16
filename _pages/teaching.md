@@ -37,7 +37,7 @@ I am interested in teaching formats that combine conceptual clarity with experie
 
   <div class="col-md-4" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy2.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1" %}
 
   </div>
 </div>
