@@ -312,8 +312,8 @@ The table below includes publicly listed theses with catalogue links, as well as
 | Bachelor thesis | Muhammad Musa Müller | Adoption digitaler Lernplattformen im regulierten öffentlichen Bildungssystem: Institutionelle Barrieren und Erfolgsfaktoren bei der Einführung | TU Graz | Supervisor | Ongoing / not yet listed |
 | Master thesis | Michael Sanin | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
 | Master thesis | Oana Emilia Bodirnea | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
-| Master thesis | Anna-Caterina Amann | Fostering cooperative urban logistics hubs | TU Graz | Internal co-supervisor | Ongoing |
-| Master thesis | Gregor Moritz | Konzept zur multidisziplinären Umsetzung von technologischen Innovationen bei voestalpine Tubulars | TU Graz | Internal co-supervisor | Ongoing |
+| Master thesis | Anna-Caterina Amann | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing |
+| Master thesis | Gregor Moritz | Konzept zur multidisziplinären Umsetzung von technologischen Innovationen bei voestalpine Tubulars | TU Graz | Co-supervisor | Ongoing |
 | Master thesis | Sebastian Harringer | [Impact strategy optimization in the case of the Horizon Europe project EM-TECH](https://permalink.obvsg.at/AC17770060) | TU Graz | Co-supervisor | Published / 2026 |
 | Master thesis | Robin Moroder | [Analysis of the methods and processes in the laboratories of the Andritz hydropower division](https://permalink.obvsg.at/AC17761794) | TU Graz | Co-supervisor | Published / 2025 |
 | Bachelor thesis | Marius Vincent Schober | Geschäftsmodellmuster bei KI Startups im Bereich Bilderkennung und -verstehen | TU Graz | Supervisor | Completed / 2025 |
