@@ -20,129 +20,137 @@ cv:
     - network: ResearchGate
       username: Theophil-Kroller
 
-  sections:
-    Experience:
-      - company: Graz University of Technology
-        position: Dr. techn. Candidate | Research and Teaching Fellow
-        location: Graz, Austria
-        start_date: 2023-12
-        end_date: Present
-        summary: >
-          Research and teaching in general management, organization, entrepreneurship, business models,
-          and sustainability-oriented transformation.
-        highlights:
-          - Teaching and co-teaching in general management, organization, entrepreneurship, business model development, and startup education.
-          - Designing application-oriented learning formats such as case studies, role plays, group puzzles, workshops, assessment rubrics, and business model exercises.
-          - Supervising and co-supervising bachelor’s and master’s theses in management, organization, technology, sustainability, and business model innovation.
-          - Research on sustainability-oriented transformation, circular and regenerative economic systems, strategic decision-making, technology leadership, and business model innovation.
+Experience:
+  - company: Graz University of Technology
+    position: Dr. techn. Candidate | Research and Teaching Fellow
+    location: Graz, Austria
+    start_date: 2023-12
+    end_date: Present
+    summary: >
+      My current academic work brings together research, teaching, and entrepreneurship education.
+      I teach and co-teach in general management, organization, entrepreneurship, business model
+      development, and startup-related formats. In my doctoral research, I focus on sustainability-oriented
+      transformation, circular and regenerative economic systems, strategic decision-making, and business
+      model innovation.
+    highlights:
+      - Designing application-oriented learning formats that connect conceptual frameworks with real-world cases, startup ideas, organizational questions, and business model challenges.
+      - Supervising and co-supervising bachelor’s and master’s theses in management, organization, technology, sustainability, and business model innovation.
+      - Developing my academic profile at the intersection of green transition, entrepreneurship education, and techno-economic research.
 
-      - company: Gründungsgarage
-        position: Board Member | Programme Management
-        location: Graz, Austria
-        start_date: 2024-07
-        end_date: Present
-        summary: >
-          Volunteer board role supporting entrepreneurship education, programme management, and startup ecosystem activities.
-        highlights:
-          - Supporting programme management and the development of practice-oriented entrepreneurship education activities.
-          - Contributing to formats that connect students, startup teams, mentors, and the regional innovation ecosystem.
+  - company: Gründungsgarage
+    position: Board Member | Programme Management
+    location: Graz, Austria
+    start_date: 2024-07
+    end_date: Present
+    summary: >
+      In this voluntary board role, I support an entrepreneurship education format that connects students,
+      startup teams, mentors, and the regional innovation ecosystem. The role complements my university
+      teaching by keeping me close to early-stage venture development and practice-oriented learning.
 
-      - company: Psychosocial Counseling Practice
-        position: Psychosocial Counselor in Training
-        location: Austria
-        start_date: 2022-02
-        end_date: 2025-02
-        summary: >
-          Counseling training and practice focused on communication, reflective professional development,
-          and supporting clients in personal and relational transition processes.
-        highlights:
-          - Developed competencies in active listening, reflective dialogue, process documentation, and ethical practice.
-          - Strengthened communication, facilitation, and mentoring skills relevant to teaching and supervision.
+  - company: Psychosocial Counseling Practice
+    position: Psychosocial Counselor in Training
+    location: Austria
+    start_date: 2022-02
+    end_date: 2025-02
+    summary: >
+      This training and practice experience strengthened my understanding of communication, listening,
+      reflection, process guidance, and ethical responsibility. It also informs the way I approach mentoring,
+      thesis supervision, feedback, and learning environments in higher education.
 
-      - company: KNAPP AG
-        position: Logistics and Process Design Engineer | Lead Software Engineer
-        location: Austria
-        start_date: 2018-03
-        end_date: 2023-09
-        summary: >
-          Designed and implemented intralogistics and warehouse control solutions for international customers.
-        highlights:
-          - Designed automated warehouse processes for customers in the EU, Latin America, and China.
-          - Created business process specifications and acceptance test specifications.
-          - Facilitated customer workshops and supported requirements engineering.
-          - Collaborated with mechanical engineering, electrical engineering, software development, commissioning, and project management teams.
+  - company: KNAPP AG
+    position: Logistics and Process Design Engineer | Lead Software Engineer
+    location: Austria
+    start_date: 2018-03
+    end_date: 2023-09
+    summary: >
+      Working in intralogistics gave me several years of experience in complex socio-technical systems,
+      international customer projects, and cross-functional implementation work. I designed business
+      processes and warehouse control solutions for customers in Europe, Latin America, and China.
+    highlights:
+      - Worked at the interface of customer requirements, software development, engineering, commissioning, and project management.
+      - Facilitated workshops, translated operational needs into process specifications, and supported acceptance testing.
+      - Gained practical insight into organizational complexity, implementation processes, and technology adoption in industrial contexts.
 
-      - company: Pöyry Management Consulting Austria
-        position: Energy Market Analyst
-        location: Austria
-        start_date: 2017-08
-        end_date: 2017-12
-        summary: >
-          Conducted energy market research and data analysis for Central and South-Eastern European markets.
-        highlights:
-          - Analyzed energy market information using Excel and R.
-          - Contributed to wholesale electricity market reports and client presentations.
-          - Researched regulatory frameworks and market structures in Kazakhstan.
+  - company: Pöyry Management Consulting Austria
+    position: Energy Market Analyst
+    location: Austria
+    start_date: 2017-08
+    end_date: 2017-12
+    summary: >
+      This role introduced me to energy market analysis, regulatory research, and data-based consulting
+      work in Central and South-Eastern European energy markets. It strengthened my analytical perspective
+      on energy systems, market structures, and policy environments.
+    highlights:
+      - Analyzed market data using Excel and R and contributed to wholesale electricity market reports.
+      - Conducted research on regulatory frameworks and market structures, including the energy market of Kazakhstan.
 
-      - company: University of Applied Sciences Technikum Wien
-        position: Lecturer | Junior Researcher
-        location: Vienna, Austria
-        start_date: 2014-01
-        end_date: 2017-02
-        summary: >
-          Taught undergraduate and graduate courses and contributed to applied environmental research
-          in ecotoxicology and environmental management.
-        highlights:
-          - Taught lectures, laboratory courses, research seminars, and problem-based learning formats.
-          - Coached students in applied research projects and thesis-related work.
-          - Conducted laboratory experiments and analyzed data with R and Excel.
-          - Optimized and validated a method for screening environmental samples for endocrine-disrupting activity.
+  - company: University of Applied Sciences Technikum Wien
+    position: Lecturer | Junior Researcher
+    location: Vienna, Austria
+    start_date: 2014-01
+    end_date: 2017-02
+    summary: >
+      This was my first longer academic teaching and research role. I taught in environmental management,
+      ecotoxicology, laboratory methods, applied research, and environmental analysis. The experience
+      shaped my understanding of higher education teaching, laboratory-based learning, problem-based
+      learning, assessment, and thesis-related student support.
+    highlights:
+      - Designed and facilitated lectures, laboratory courses, research seminars, and applied student projects.
+      - Conducted environmental research, laboratory experiments, and data analysis with R and Excel.
+      - Developed teaching materials, assessments, and problem-based learning formats in an applied science context.
 
-      - company: mpi English Schools
-        position: Co-Facilitator
-        location: Kobe, Japan
-        start_date: 2011-09
-        end_date: 2012-02
-        summary: >
-          Co-facilitated English lessons for children during an international academic stay in Japan.
+  - company: mpi English Schools
+    position: Co-Facilitator
+    location: Kobe, Japan
+    start_date: 2011-09
+    end_date: 2012-02
+    summary: >
+      During an academic stay in Japan, I co-facilitated English lessons for children. This was a small but
+      meaningful continuation of my earlier language teaching experience.
 
-      - company: SINOC Automotive Ltd. / Zhou Dynasty International
-        position: Management Trainee
-        location: Beijing, China
-        start_date: 2007-07
-        end_date: 2007-09
-        summary: >
-          Early international business experience in strategy-related research, business development,
-          translation, and cross-cultural project work.
+  - company: SINOC Automotive Ltd. / Zhou Dynasty International
+    position: Management Trainee
+    location: Beijing, China
+    start_date: 2007-07
+    end_date: 2007-09
+    summary: >
+      This early international business role in Beijing gave me insight into strategy-related research,
+      business development, translation work, and cross-cultural communication in an automotive and
+      consulting-related context.
 
-      - company: Qiqihar University / Hermann Gmeiner Vocational School
-        position: Language Instructor
-        location: Qiqihar, China
-        start_date: 2003-08
-        end_date: 2004-09
-        summary: >
-          Early international teaching experience in English communication and listening classes
-          at university and vocational school level in China.
-        highlights:
-          - Developed lesson plans and teaching materials independently.
-          - Taught large groups of first- and second-year university students.
-          - Gained formative classroom experience in intercultural teaching, lesson planning, and student engagement.
+  - company: Qiqihar University / Hermann Gmeiner Vocational School
+    position: Language Instructor
+    location: Qiqihar, China
+    start_date: 2003-08
+    end_date: 2004-09
+    summary: >
+      This early teaching experience in China was formative for my development as an educator. I taught
+      English communication and listening classes at university and vocational school level, developed
+      teaching materials independently, and learned how to create structure, presence, and interaction in
+      intercultural classroom settings.
+    highlights:
+      - Taught large groups of first- and second-year university students.
+      - Developed lesson plans and teaching materials independently.
 
-      - company: University of Vienna
-        position: Instructor | German Language and Austrian Studies
-        location: Vienna, Austria
-        start_date: 2003-02
-        end_date: 2003-06
-        summary: >
-          Initiated, organized, and taught a German language and Austrian studies course for Chinese exchange students.
+  - company: University of Vienna
+    position: Instructor | German Language and Austrian Studies
+    location: Vienna, Austria
+    start_date: 2003-02
+    end_date: 2003-06
+    summary: >
+      I initiated, organized, and taught a German language and Austrian studies course for Chinese exchange
+      students. Together with my didactic training in German as a foreign and second language, this was one
+      of my first structured teaching experiences.
 
-      - company: Austrian Service Abroad
-        position: Volunteer Coordinator
-        location: Austria / China
-        start_date: 2001-07
-        end_date: 2003-08
-        summary: >
-          Coordinated and supported preparation processes for international service placements in China.
+  - company: Austrian Service Abroad
+    position: Volunteer Coordinator
+    location: Austria / China
+    start_date: 2001-07
+    end_date: 2003-08
+    summary: >
+      In this early coordination role, I supported preparation processes for international service placements
+      in China. It belongs to the broader international and intercultural background that later shaped my
+      teaching and academic interests.
 
     Education:
       - institution: Graz University of Technology
