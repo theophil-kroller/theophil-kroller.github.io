@@ -419,4 +419,4 @@ In the future, I want to further strengthen experimentation and reflection in my
 
 I also want to continue developing teaching formats that move beyond slide-based input: more free teaching sequences, more active student work, more structured reflection, and more formats where students create visible outputs.
 
-In executive education and SME-oriented workshop formats, I want to further develop my teaching on sustainable business models, product-service systems, platform dynamics, and circular economy. These settings are especially interesting because participants bring professional experience and can connect conceptual frameworks directly to organizational transformation challenges.
+In upcoming workshops, I want to bring in sustainable business model thinking more strongly and help participants move from broad sustainability challenges toward concrete business model ideas.
