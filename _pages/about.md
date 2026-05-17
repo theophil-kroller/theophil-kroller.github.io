@@ -2,37 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: Teaching Portfolio
+subtitle: Academic Profile & Teaching Portfolio
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Kopernikusgasse 24 / IV</p>
-    <p>8010 Graz</p>
-    <p>Styria, Austria (E.U.)</p>
+    <p>Graz University of Technology</p>
+    <p>Institute of General Management and Organization</p>
+    <p>Graz, Austria</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am a Research and Teaching Fellow at Graz University of Technology, where I co-teach courses in general management, organization, and entrepreneurship. 
+I am a Research and Teaching Fellow at Graz University of Technology, where I teach and co-teach courses in general management, organization, entrepreneurship, and business model development.
 
-In my teaching, I focus on helping students apply conceptual frameworks from strategic management, organizational theory, and entrepreneurship to real-world cases and startup ideas. My teaching emphasizes experiential learning. Students work with practical tools such as business model frameworks, case analyses, and startup development exercises to understand how ideas can be transformed into viable ventures. My research focuses on the transition toward circular and regenerative economic systems and the role of business model innovation in enabling sustainable value creation.
+My teaching is application-oriented and experiential. I work with case studies, role plays, group puzzles, business model frameworks, market analysis tools, and startup development exercises to help students apply conceptual knowledge to real-world challenges.
 
-Before joining TU Graz, I worked in industry and consulting in the intralogistics, energy, and automotive sectors, focusing on business process design, market research, and data analysis. I have also taught at universities in China and Austria in fields ranging from environmental science to entrepreneurship to teaching English and German as a foreign language.
+My research focuses on business model innovation, circular and regenerative economic systems, and strategic decision-making in sustainability-oriented transformation contexts.
 
-My interdisciplinary academic background includes studies in industrial engineering, environmental management and ecotoxicology, China studies, international business administration, and human behavior and counseling.
-
-This website is currently being developed as a teaching portfolio and academic profile.
+Before joining TU Graz, I worked in industry and consulting in the intralogistics, energy, and automotive sectors. My interdisciplinary background includes industrial engineering, environmental management and ecotoxicology, China studies, international business administration, and psychosocial counseling.
