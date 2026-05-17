@@ -77,6 +77,7 @@ The following overview summarizes selected teaching activities across different 
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
 
+
 ## Selected Teaching Examples
 
 The following examples illustrate how I translate conceptual frameworks into applied learning formats. Many of these formats emerged from a very practical question: how can I move students from listening to concepts toward working with them?
