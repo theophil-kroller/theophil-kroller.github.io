@@ -53,6 +53,23 @@ I try to create a classroom atmosphere that is warm, respectful, and intellectua
 
 A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use slides when they help, but I also want students to think, discuss, draw, classify, test, present, question, and create visible outputs. This makes learning more concrete and gives us something to work with together.
 
+## Didactic Influences and Design Principles
+
+My teaching is informed by a set of didactic approaches and design principles that I use as practical orientations rather than as abstract labels. I am interested in teaching formats that activate students, support application, and create space for reflection, feedback, and perspective-taking.
+
+A central reference point is **constructive alignment**. For me, this means that learning outcomes, teaching activities, and assessment should be meaningfully connected. Students should not only hear about concepts, but work with them in ways that prepare them for the kinds of outputs and performances that are later assessed.
+
+I also draw on **Bloom’s Taxonomy** when thinking about the level of learning that a teaching activity should support. Especially in entrepreneurship and management education, I find it important to move beyond remembering and understanding toward application, analysis, evaluation, and creation.
+
+Another important influence is **Education for Sustainable Development (ESD)**. In sustainability-related teaching, and especially in formats such as the Business Model Lab, I see strong value in problem-based and challenge-based learning. Students should work with open questions, complex systems, and real-world tensions rather than only receiving finished answers.
+
+My teaching is also shaped by approaches from entrepreneurship education and experiential learning. I value formats that create what I think of as productive spaces for action and reflection: role plays, case work, workshops, group puzzles, visual thinking, and peer exchange. These are the kinds of settings in which students often begin to connect theory with action.
+
+A further influence on my entrepreneurship teaching is the practice-based approach associated with Babson College and the work of Neck, Greene, and Brush. Their five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for what I try to create in the classroom. In my courses, these practices appear in formats such as role plays, group puzzles, customer personas, business model games, prototyping exercises, pitch feedback, and reflective discussion.
+
+The practice of **play** is visible when students experiment with perspectives, scenarios, and business model options. **Empathy** appears in customer segmentation, persona work, and stakeholder-oriented feedback. **Creation** is central whenever students develop visible outputs such as posters, canvases, prototypes, or business plan sections. **Experimentation** is addressed when students test assumptions, compare alternatives, and revise their ideas. **Reflection** happens through peer feedback, discussion, debriefing, and structured evaluation of what has been learned.
+
+In this sense, my teaching design combines conceptual structure with experiential learning. I want students to encounter frameworks, apply them actively, reflect on their use, receive feedback, and gradually build confidence in dealing with complexity.
 
 ## My Path into Teaching
 
@@ -231,6 +248,7 @@ A central part of the workshop is the use of **45 sustainable business model pat
 In the next step, participants develop a prototype based on selected ideas. In the afternoon, they use this prototype as input for working with the **Flourishing Business Model Canvas**. This allows them to connect their idea to a broader understanding of value creation, including economic, environmental, and societal dimensions.
 
 From a teaching perspective, this format is a good example of how I like to work: conceptual input, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The goal is that participants leave the workshop with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
+
 
 ## Assessment and Learning Outcomes
 
