@@ -7,8 +7,8 @@ first_name: Theophil
 middle_name: 
 last_name: Kroller
 contact_note: >
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >
+  Academic profile and teaching portfolio of Theophil Kroller, Research and Teaching Fellow at Graz University of Technology, focusing on entrepreneurship education, management, organization, business model innovation, and sustainability-oriented transformation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
