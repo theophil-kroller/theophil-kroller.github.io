@@ -107,17 +107,17 @@ My teaching design is shaped by several didactic frameworks that I use as practi
 
 A central reference point is **constructive alignment**. For me, this means that learning outcomes, teaching and learning activities, and assessment should form a coherent whole. Students should not only hear about concepts, but work with them in ways that prepare them for the kinds of outputs, decisions, and performances that are later assessed. This principle has influenced how I design worksheets, rubrics, presentation tasks, business plan assignments, and case-based classroom activities.
 
-I also use **Bloom’s Taxonomy** as a practical lens for thinking about the depth of learning. In entrepreneurship and management education, I do not want students to remain only at the level of remembering or understanding. They should apply concepts, analyze situations, evaluate alternatives, and create their own outputs — for example organizational charts, leadership classifications, business model ideas, market analyses, personas, pitch feedback, or sustainable business model prototypes.
+I also use **Bloom’s Taxonomy** as a practical lens for thinking about the depth of learning. In entrepreneurship and management education, I do not want students to remain only at the level of remembering or understanding. They should apply concepts, analyze situations, evaluate alternatives, and create their own outputs, for example through organizational charts, leadership classifications, business model ideas, market analyses, personas, pitch feedback, or sustainable business model prototypes.
 
-In sustainability-oriented teaching, especially in the **Business Model Lab** and related formats, I draw on principles of **Education for Sustainable Development**. These include systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence. Such competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection.
+Whenever possible I draw on principles of **Education for Sustainable Development**. These include systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence. Such competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection.
 
 A further influence on my entrepreneurship teaching is the practice-based approach associated with Babson College. The five practices of entrepreneurship education (**play, empathy, creation, experimentation, and reflection**) provide a useful language for what I try to create in the classroom. In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, prototyping exercises, peer feedback, and reflective discussion.
 
-Taken together, these frameworks support the way I understand teaching: students need conceptual structure, but they also need space to try things out, compare perspectives, make decisions, receive feedback, and reflect on what they have learned. Good teaching therefore combines clarity and openness, structure and experimentation, knowledge and action.
+All of these frameworks support the way that I understand teaching: students need conceptual structure, but they also need space to try things out, compare perspectives, make decisions, receive feedback, and reflect on what they have learned. Good teaching, in my eyes, combines clarity and openness, structure and experimentation and knowledge and action.
 
 ### Visual Frameworks
 
-The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations in which students become active, reflective, and capable of applying knowledge.
+The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations for students. I value active learning, reflective practices by discussion with a partner, and the capability of applying knowledge.
 
 <div class="row align-items-start mt-4 mb-5">
   <div class="col-md-5" markdown="1">
@@ -130,9 +130,9 @@ The following frameworks are central reference points for how I design teaching,
 
 #### Constructive Alignment
 
-Constructive alignment helps me connect intended learning outcomes, teaching and learning activities, and assessment formats. In practice, this means that I try to design sessions backwards: first asking what students should be able to do, then choosing activities that allow them to practice this, and finally using assessment formats that make these competences visible.
+Constructive alignment helps me connect intended learning outcomes, teaching and learning activities, and assessment formats. In my teaching practice, this means that I try to design sessions backwards: first asking what students should be able to do, then choosing activities that allow them to practice this, and finally using assessment formats that make these competences visible.
 
-In my teaching, this becomes concrete in business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, and group products. Students are not only asked to reproduce content, but to apply concepts in ways that correspond to the intended learning outcomes.
+In my teaching, this then becomes concrete in the form of business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, and group artefacts. I ask students to apply concepts in ways that correspond to the intended learning outcomes.
 
   </div>
 </div>
@@ -148,9 +148,9 @@ In my teaching, this becomes concrete in business plan rubrics, presentation ass
 
 #### Bloom’s Taxonomy
 
-Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
+When I devise a new teaching activity, it is Bloom’s Taxonomy that supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
 
-I use this especially when designing tasks in entrepreneurship and management education. Students classify leadership behavior, analyze organizational structures, evaluate business model options, develop personas, create market-sizing logic, design business plan sections, and reflect on the strategic quality of startup ideas.
+I use this especially when designing tasks. Examples are: students classify leadership behavior, analyze organizational structures, evaluate business model options, develop personas and organizatas, create market-sizing logic, design business plan sections, and reflect the quality of their startup ideas.
 
   </div>
 </div>
@@ -166,9 +166,7 @@ I use this especially when designing tasks in entrepreneurship and management ed
 
 #### Education for Sustainable Development
 
-Education for Sustainable Development is important for my sustainability-oriented teaching because it emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
-
-I implement these principles especially in formats such as the Business Model Lab and sustainable business model workshops. Students work with open-ended challenges, stakeholder perspectives, circular economy concepts, sustainable business model patterns, and the Flourishing Business Model Canvas. The aim is not only to understand sustainability concepts, but to translate them into concrete business model ideas and reflect on their broader implications.
+Education for Sustainable Development ihas become an important tool for all courses that I teach. It is a framework that makes sure that our students stay competitive in todays global economy. What I love about it is that it emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
 
   </div>
 </div>
@@ -184,9 +182,9 @@ I implement these principles especially in formats such as the Business Model La
 
 #### Five Practices of Entrepreneurship Education
 
-The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning about entrepreneurship toward practicing entrepreneurial thinking and action.
+The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
 
-In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
+In my courses, these practices appear in the form of role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
 
   </div>
 </div>
@@ -325,15 +323,15 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 ## Executive MBA: Digital and Green Transition
 
-As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. One teaching format I developed is the class **From Data to Value**, which connects circular economy thinking, digital economy, product-service systems, and platform dynamics.
+As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. Within the module, I teach selected sessions on digital economy, data-driven value creation, servitization, and platform dynamics.
 
-The first part of the class introduces different schools of thought in the circular economy as well as core ideas of the digital economy. Students work with a mini case and discussion questions to connect these conceptual perspectives to real business situations.
+One part of the module focuses on the question of how companies can transform data into value. In this context, I work with topics such as customer experience, changing customer expectations in the digital economy, Big Data and Thick Data, and the connection between data, business strategy, and value creation. The aim is to help participants reflect on data not as an end in itself, but as something that becomes meaningful when it supports better customer understanding, better services, and better strategic decisions.
 
-A central element of the class is the topic of **product-service systems**. Students explore how companies can move from selling products toward creating value through service-based, usage-oriented, or performance-oriented solutions. They then work on product-service ideas for their own companies or professional contexts.
+Another part of the module addresses digitalization and servitization. Here, participants engage with the shift from product-centered business models toward service-based, usage-oriented, or performance-oriented value creation. This connects well with questions of digital transformation, customer relationships, and product-service systems.
 
-On the second day, I use the MIT simulation **Platform Wars** to explore platform systems and platform dynamics. Students play through different scenarios, experience how strategic decisions unfold in platform markets, and participate in structured debriefings. This allows us to discuss network effects, ecosystem positioning, competitive dynamics, and the strategic challenges of platform-based business models.
+On the second day, I facilitate the MIT Sloan simulation **Platform Wars**, developed by John Sterman. The simulation allows participants to experience platform market dynamics in a concrete way. Working in teams, they make strategic decisions on console pricing, royalties for complementors, and subsidies for initial game development. In the debriefing, we discuss reinforcing feedback loops, direct and indirect network effects, complementors, installed base, lock-in, and winner-take-all dynamics.
 
-From a teaching perspective, this format combines conceptual input, case-based discussion, simulation-based learning, and direct transfer to participants’ own organizational contexts. This is particularly valuable in executive education, where participants bring professional experience and can immediately connect theoretical frameworks to strategic transformation challenges.
+From a teaching perspective, I value this format because it combines conceptual input, discussion, simulation-based learning, and transfer to participants’ own organizational contexts. This is particularly useful in executive education, where participants bring substantial professional experience and can immediately connect theoretical frameworks to strategic transformation challenges.
 
 ## Business Model Lab: Sustainable Business Models
 
