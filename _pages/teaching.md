@@ -27,9 +27,6 @@ nav_order: 4
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-## Teaching Philosophy
-
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
 My teaching is shaped by a simple idea: students should not only understand concepts, but become able to work with them. In management, entrepreneurship, and sustainability-related education, knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, organizational questions, and problems that do not yet have a finished answer.
 
