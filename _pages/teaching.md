@@ -199,6 +199,8 @@ From a teaching perspective, this format combines conceptual input, case-based d
 
 ## Business Model Lab: Sustainable Business Models
 
+{% include figure.liquid loading="eager" path="assets/img/Workshop2.png" title="Business Model Lab Workshop" class="img-fluid rounded z-depth-1 mb-4" %}
+
 In the **Business Model Lab**, I teach a workshop on sustainable business models for small and medium-sized enterprises. The format is designed to help participants move from sustainability challenges toward concrete business model ideas and prototypes.
 
 The workshop starts with an introduction to circular economy and sustainability. This creates a shared conceptual foundation and helps participants understand sustainability not simply as compliance or efficiency improvement, but as a starting point for rethinking value creation.
@@ -242,6 +244,8 @@ The Gründungsgarage / Startup Garage business model development workshop also i
 [Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, feedback from the Gründungsgarage / Startup Garage business model development workshop, and examples of changes made in response to feedback.]
 
 ## Professional Development in Teaching
+
+{% include figure.liquid loading="eager" path="assets/img/professional_development.png" title="Professional Development in Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
 
 My teaching has developed in very different contexts: first through language teaching and intercultural classroom experiences, later through laboratory teaching, research seminars, problem-based learning, and today through entrepreneurship and management education.
 
