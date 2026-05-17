@@ -233,7 +233,7 @@ In the marketing part of the Entrepreneurship course, I introduced several works
 
 I use a similar approach for traditional marketing numbers such as market volume, market potential, and related concepts. These terms can easily remain abstract if they are only explained verbally. By turning them into a matching and application exercise, students engage with the distinctions more actively.
 
-I also introduced visual organizers and persona work to support customer segmentation. These materials help students move from abstract market definitions toward a more concrete understanding of customer groups, needs, frustrations, and decision-making contexts.
+I also introduced visual organizers such as personas (B2C) and organizatas (B2B) to help students better understand customer segmentation and customer targeting. These materials help students move from abstract market definitions toward a more concrete understanding of customer groups, needs, frustrations, and decision-making contexts.
 
 ### Entrepreneurship: Entrepreneurial Marketing Activities
 
