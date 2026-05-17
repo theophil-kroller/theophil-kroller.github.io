@@ -92,17 +92,13 @@ This path has shaped my current understanding of teaching: good teaching needs p
 
 ## My Role as a Teacher
 
-## My Role as a Teacher
-
 A concept that has stayed with me since my time at the University of Applied Sciences Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning, and it has become an important orientation point for how I understand my role as a teacher.
 
-This does not mean that clear input is unimportant. Students need orientation, frameworks, examples, and sometimes also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
+Students need orientation, frameworks, examples, and sometimes also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
 
 I understand my role more as designing and facilitating learning situations. I try to create settings in which students can work with concepts, ask questions, test ideas, compare perspectives, and gradually develop their own understanding. Depending on the situation, this may involve slides, blackboard work, flipcharts, worksheets, role plays, group discussions, case studies, peer feedback, or visible outputs such as posters, canvases, models, and presentations.
 
-I also try to create a classroom atmosphere that is warm, respectful, and intellectually alive. I value it when students bring in their own experiences, disciplinary perspectives, professional knowledge, or critical questions. Especially in entrepreneurship and management education, this diversity makes the classroom richer.
-
-This is still an ongoing development for me. I am not claiming to have moved completely beyond input-oriented teaching. Rather, I see it as a continuous process of expanding my teaching repertoire: keeping what works, using structured input where it is useful, and creating more moments in which students actively engage, discuss, create, and reflect.
+I also try to create a classroom atmosphere that is warm, respectful, and intellectually alive. I value it when students bring in their own experiences, disciplinary perspectives, professional knowledge, or critical questions. This diversity makes the classroom richer.
 
 
 ## Didactic Influences and Design Principles
