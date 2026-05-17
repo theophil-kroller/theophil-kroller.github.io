@@ -386,9 +386,14 @@ The Gründungsgarage / Startup Garage business model development workshop also i
 
 My teaching has developed in very different contexts: first through language teaching and intercultural classroom experiences, later through laboratory teaching, research seminars, problem-based learning, and today through entrepreneurship and management education.
 
-Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. I have made extensive use of the TU Graz Teaching Academy and related didactic training opportunities — not to collect certificates, but to refine my teaching practice, my classroom presence, my use of digital tools, and my understanding of student learning.
+Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. The TU Graz Teaching Academy and related didactic training opportunities have helped me refine my teaching practice, become more attentive to classroom presence and interaction, make better use of digital tools, and think more carefully about how students learn.
 
-Many of the changes I introduced in Entrepreneurship and General Management and Organization were influenced by my work in the TU Graz Teaching Academy. The workshops encouraged me to move beyond long input blocks, to create more active phases, and to experiment with role play, worksheets, blackboard work, peer feedback, and structured assessment formats. In that sense, the Teaching Academy did not remain abstract professional development for me; it directly changed the way I design sessions.
+Many of the changes I introduced in Entrepreneurship and General Management and Organization were influenced by my work in the TU Graz Teaching Academy. I am grateful for this programme because it has given me a structured space to think about teaching together with colleagues, try out new ideas, and reflect on my own classroom practice.
+
+For myself, I have made it a principle to take at least one concrete idea from each didactic course I attend and implement it in one of my own courses. This has worked very well so far. Some ideas have influenced the structure of my sessions, others have changed how I use worksheets, role plays, blackboard work, peer feedback, assessment rubrics, digital tools, or active learning phases.
+
+I especially value the courses on voice and speech training, interactive rhetoric, assessment, digital teaching, generative AI, and education for sustainable development. Some of these workshops helped me become more aware of classroom presence and communication. Others created space for critical reflection with colleagues, for example on the use of AI in teaching, course design, video-based teaching, or the question of how students can work more actively with complex problems.
+
 
 | Date | Course / Workshop | Level | Units |
 |---|---|---:|---:|
@@ -408,7 +413,6 @@ Many of the changes I introduced in Entrepreneurship and General Management and 
 | 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
 | 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
 
-Taken together, these courses reflect a broad and deliberate development path. They cover foundational course design, constructive alignment, competence-oriented assessment, digital teaching, voice and rhetoric, intercultural classroom dynamics, generative AI, teaching behavior training, and education for sustainable development.
 
 ## Future Development
 
