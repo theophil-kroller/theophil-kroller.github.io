@@ -129,7 +129,7 @@ I implement these principles especially in formats such as the Business Model La
 <div class="row align-items-start mt-4 mb-5">
   <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/Babson_5_practices.png" title="Five Practices of Entrepreneurship Education" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/Babson_5_practices2.png" title="Five Practices of Entrepreneurship Education" class="img-fluid rounded z-depth-1" %}
 
   </div>
 
