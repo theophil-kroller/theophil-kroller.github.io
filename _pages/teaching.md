@@ -10,6 +10,7 @@ nav_order: 4
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
   <a href="#my-role-as-a-teacher">Teacher Role</a>
+  <a href="#didactic-influences-and-design-principles">Design Principles</a>
   <a href="#my-path-into-teaching">My Path into Teaching</a>
   <a href="#course-overview">Course Overview</a>
   <a href="#selected-teaching-examples">Teaching Examples</a>
@@ -149,17 +150,35 @@ In my courses, these practices appear in role plays, group puzzles, customer per
 
 {% include figure.liquid loading="eager" path="assets/img/my_path_to_teaching.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
 
+Thinking back, teaching seems to have entered my life several times, often in unexpected and very different ways.
+
+## My Path into Teaching
+
 Teaching has appeared several times throughout my life, in very different contexts.
 
-My first teaching experience took place during my high school year in the United States, where I was asked to teach a short unit on PowerPoint. It was a small moment, but it introduced me early to the experience of explaining something to others and structuring knowledge in a way that becomes accessible.
+One of my first teaching-related experiences took place during my high school year in the United States. In a marketing course, we had a competition in which I won first prize with a PowerPoint presentation. At that time, PowerPoint was not yet as common and taken for granted as it is today. After the competition, my teacher asked me to prepare and teach a two-hour session for my classmates on how to create PowerPoint presentations. I remember this as both exciting and rewarding: for the first time, I had to think about how to explain a tool to others, structure a session, and make knowledge accessible to a group of learners.
 
 At 19, I attended a didactic course on teaching German as a foreign and second language at the University of Vienna. At the same time, I taught a course in German language and Austrian studies for Chinese exchange students. I prepared each session carefully and began to understand teaching as something that requires planning, rhythm, sensitivity, and attention to the learners’ perspective.
 
-At 20, I spent fourteen months teaching English communication and listening classes at Qiqihar University and the Hermann Gmeiner Vocational School in China. I also taught middle school students and worked with a private student in English and German. Much of the teaching material had to be created independently. This period was challenging at first: I had to learn how to stand in front of large groups, create structure, vary methods, and keep students engaged. By the second semester, I had grown into the role and started to experience teaching as a craft that develops through practice.
+At 20, I spent fourteen months teaching English communication and listening classes at Qiqihar University and the Hermann Gmeiner Vocational School in China. I also taught middle school students and worked with a private student in English and German. Especially at the beginning, the conditions were quite simple: for the first months, we had no computer and no internet access. This forced me to work experimentally and creatively. I developed much of the teaching material myself, wrote role plays, prepared students for job interviews, worked with scenes from films, built vocabulary exercises around them, and gained my first experience conducting oral exams.
 
-From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in areas such as aquatic ecotoxicology, environmental management, metrology, applied research projects, selected topics of environmental management, introductory chemistry laboratory work, endocrine disruptors including laboratory work, environmental chemistry, cell culture techniques, and environmental analysis. This period professionalized many aspects of my teaching: Moodle-based course organization, laboratory entrance tests, assessment rubrics, LaTeX-based exams, problem-based learning, and thesis supervision.
+This period was challenging at first. I had to learn how to stand in front of large groups, create structure, vary methods, and keep students engaged. But it was also a formative experience. By the second semester, I had grown into the role and started to experience teaching as a craft that develops through practice, improvisation, observation, and reflection.
 
-Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing. I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously develop my teaching practice.
+From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in areas such as aquatic ecotoxicology, environmental management, metrology, applied research projects, selected topics of environmental management, introductory chemistry laboratory work, endocrine disruptors including laboratory work, environmental chemistry, cell culture techniques, and environmental analysis.
+
+This teaching role emerged quite organically from my master’s thesis work. My thesis had been very well received, and the head of the institute wanted me to stay longer so that the method I had developed could be further used and taught to students. I also had ideas about how the study programme could be developed further. He eventually asked me whether I would be willing to teach, as this would allow him to make me a more substantial offer. I accepted, and this became my first longer academic teaching and research position.
+
+During this period, many aspects of my teaching became more professional. I worked with Moodle-based course organization, laboratory entrance tests, assessment rubrics, LaTeX-based exams, problem-based learning, case studies, and thesis supervision. I was also among the first in the programme to work more explicitly with case studies and later actively contributed to the introduction of problem- and challenge-based learning.
+
+One experience that stayed with me was the Applied Research Project. I developed a case study for the course and coached a group of students through their project work. They became highly engaged and eventually won first prize with their poster. I remember this as a particularly rewarding mentoring experience, because I could see how students grew into the topic, took ownership of their work, and became proud of the result.
+
+I also supervised my first master’s theses during this period. This taught me how important it is to find the right level of feedback: not too directive, not too detailed, but structured enough to help students move forward. I began to understand supervision as a process of orientation, encouragement, and gradual academic independence.
+
+Another important development was assessment. I introduced a grading rubric for laboratory reports based on the IMRAD structure, which created a more transparent basis for evaluating student work and later became useful for other lecturers as well. I also developed a grading rubric for student presentations. In lectures, I worked strongly with visual material and personal stories from laboratory work and research experience, because I wanted students to connect abstract concepts with concrete scientific practice.
+
+Since joining Graz University of Technology, I have approached teaching development much more systematically. After several years in industry, returning to academia felt energizing. I value the intellectual exchange, the work with students, the possibility to teach in a team, and the opportunity to continuously refine my teaching practice.
+
+At this stage, I also bring a different kind of experience into the classroom. My years in industry, consulting, environmental research, and psychosocial counseling have changed how I look at teaching. I am more interested in transfer, application, dialogue, feedback, and the question of how students can develop confidence in dealing with complex and open-ended problems.
 
 This path has shaped my current understanding of teaching: good teaching needs preparation and conceptual clarity, but also presence, flexibility, interaction, experimentation, and the courage to move beyond slides.
 
@@ -173,8 +192,8 @@ The following overview summarizes selected teaching activities across different 
 | Period | Institution | Courses / Teaching Areas | Format |
 |---|---|---|---|
 | 2026 | Business Model Lab | Sustainable Business Models for SMEs | Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas |
-| 2026–present | Executive MBA in Digital and Green Transition | From Data to Value; Circular Economy; Digital Economy; Product-Service Systems; Platform Wars simulation | Executive education, case discussion, simulation, transfer exercises |
-| 2024–present | Graz University of Technology | General Management and Organization; Unternehmensführung und Organisation; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage; Bachelor and Master Projects | Lectures, practical courses, workshops, seminars, project supervision |
+| 2026–present | Executive MBA in Digital and Green Transition | Moddules: Digital & Green Economy; Digital Strategies & Business Modelling | Executive education, case discussion, simulation, transfer exercises |
+| 2024–present | Graz University of Technology | General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects | Lectures, practical courses, workshops, seminars, project supervision |
 | 2014–2017 | UAS Technikum Wien | Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory | Lectures, laboratories, research seminars, thesis supervision |
 | 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
