@@ -22,10 +22,9 @@ nav_order: 4
   <a href="#future-development">Future Development</a>
 </div>
 
-<div class="row align-items-start mb-5">
-  <div class="col-md-6" markdown="1">
-
 ## Teaching Philosophy
+
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
 My teaching is application-oriented, experiential, and reflective. I want students to work with ideas, not just listen to them. In management and entrepreneurship education, concepts should become useful: students should be able to apply them to cases, startup ideas, organizational challenges, and uncertain decision-making situations.
 
@@ -33,14 +32,6 @@ For me, good teaching creates moments that stay with students. A role play, a gr
 
 I am interested in teaching formats that combine conceptual clarity with experience. Students need models, language, and structure. They also need opportunities to try things out, compare perspectives, discuss with others, and reflect on what they have learned.
 
-  </div>
-
- <div class="col-md-6" markdown="1">
-
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1" %}
-
-  </div>
-</div>
 
 ## My Role as a Teacher
 
@@ -51,10 +42,10 @@ I try to create a classroom atmosphere that is warm, respectful, and intellectua
 A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use slides when they help, but I also want students to think, discuss, draw, classify, test, present, question, and create visible outputs. This makes learning more concrete and gives us something to work with together.
 
 
-
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy2.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
-
 ## My Path into Teaching
+
+{% include figure.liquid loading="eager" path="assets/img/my_path_to_teaching.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
+
 Teaching has appeared several times throughout my life, in very different contexts.
 
 My first teaching experience took place during my high school year in the United States, where I was asked to teach a short unit on PowerPoint. It was a small moment, but it introduced me early to the experience of explaining something to others and structuring knowledge in a way that becomes accessible.
@@ -164,22 +155,19 @@ In General Management and Organization, I introduced a rubric for student presen
 
 For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
 
-<div class="row align-items-start mb-5">
-  <div class="col-md-8" markdown="1">
 
 ## Thesis Supervision
 
-Supervision is an important part of my teaching profile. I understand thesis and project supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or entrepreneurial project. The table includes publicly listed theses where catalogue links are available, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
+{% include figure.liquid loading="eager" path="assets/img/master_thesis_supervision.png" title="Thesis Supervision" class="img-fluid rounded z-depth-1 mb-4" %}
 
-This section is currently being expanded.
- </div>
+Thesis supervision is an important part of my teaching profile. I understand bachelor’s and master’s thesis supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or applied research project.
 
-  <div class="col-md-4" markdown="1">
+My supervision activities include completed and ongoing theses at TU Graz and previous thesis-related assessment activities at UAS Technikum Wien. The topics are located at the intersection of management, organization, sustainability, technology, business models, process analysis, environmental research, and applied ecotoxicology.
 
-{% include figure.liquid loading="eager" path="assets/img/master_thesis_supervision.png" title="Thesis Supervision" class="img-fluid rounded z-depth-1" %}
+The table below includes publicly listed theses with catalogue links, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
 
-  </div>
-</div>
+
+<div class="table-responsive" markdown="1">
 
 | Level | Student | Title / Topic | Institution | Role | Status / Year |
 |---|---|---|---|---|---|
@@ -192,8 +180,10 @@ This section is currently being expanded.
 | Master thesis | Robin Moroder | [Analysis of the methods and processes in the laboratories of the Andritz hydropower division](https://permalink.obvsg.at/AC17761794) | TU Graz | Co-supervisor | Published / 2025 |
 | Bachelor thesis | Marius Vincent Schober | Geschäftsmodellmuster bei KI Startups im Bereich Bilderkennung und -verstehen | TU Graz | Supervisor | Completed / 2025 |
 | Master thesis | Pradeep Anandrao Tuljapure | [Business model and market potential of second-life lithium-ion traction batteries in battery energy storage systems: a comprehensive analysis](https://permalink.obvsg.at/AC17523011) | TU Graz | Co-supervisor | Published / 2025 |
-| Master thesis | Yvonne Richter | [Development of a method for the evaluation of antiestrogenic activity in wastewater samples indirectly with the T47D-KBluc estrogen assay](https://permalink.obvsg.at/AC17155395) | UAS Technikum Wien | Reviewer | Published / 2016 |
-| Master thesis | Petra Antonia Deimbacher | [Vergleich von Bisphenol A und Bisphenol S bei ökotoxikologischen Testmethoden mit der Grünalgenart *Pseudokirchneriella subcapitata* und der Fischzelllinie RTgill-W1](https://permalink.obvsg.at/AC17164501) | UAS Technikum Wien | Reviewer | Published / 2016 |
+| Master thesis | Yvonne Richter | [Development of a method for the evaluation of antiestrogenic activity in wastewater samples indirectly with the T47D-KBluc estrogen assay](https://permalink.obvsg.at/AC17155395) | FH Technikum Wien | Reviewer | Published / 2016 |
+| Master thesis | Petra Antonia Deimbacher | [Vergleich von Bisphenol A und Bisphenol S bei ökotoxikologischen Testmethoden mit der Grünalgenart *Pseudokirchneriella subcapitata* und der Fischzelllinie RTgill-W1](https://permalink.obvsg.at/AC17164501) | FH Technikum Wien | Reviewer | Published / 2016 |
+
+</div>
 
 ## Executive MBA: Digital and Green Transition
 
