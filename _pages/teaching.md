@@ -199,7 +199,7 @@ The following overview summarizes selected teaching activities across different 
 | Period | Institution | Courses / Teaching Areas | Format |
 |---|---|---|---|
 | 2026 | Business Model Lab | Sustainable Business Models for SMEs | Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas |
-| 2026–present | Executive MBA in Digital and Green Transition | Moddules: Digital & Green Economy; Digital Strategies & Business Modelling | Executive education, case discussion, simulation, transfer exercises |
+| 2026–present | Executive MBA in Digital and Green Transition | Modules: Digital & Green Economy; Digital Strategies & Business Modelling | Executive education, case discussion, simulation, transfer exercises |
 | 2024–present | Graz University of Technology | General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects | Lectures, practical courses, workshops, seminars, project supervision |
 | 2014–2017 | UAS Technikum Wien | Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory | Lectures, laboratories, research seminars, thesis supervision |
 | 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
