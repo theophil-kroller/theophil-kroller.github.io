@@ -73,23 +73,35 @@ Taken together, these frameworks support the way I understand teaching: students
 
 The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations in which students become active, reflective, and capable of applying knowledge.
 
-<div class="row mt-4 mb-4">
-  <div class="col-md-6" markdown="1">
+<div class="row align-items-start mt-4 mb-5">
+  <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/constructive_alignment.png" title="Constructive Alignment" class="img-fluid rounded z-depth-1 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/constructive_alignment.png" title="Constructive Alignment" class="img-fluid rounded z-depth-1" %}
 
-**Constructive Alignment**  
+  </div>
+
+  <div class="col-md-7" markdown="1">
+
+#### Constructive Alignment
+
 Constructive alignment helps me connect intended learning outcomes, teaching and learning activities, and assessment formats. In practice, this means that I try to design sessions backwards: first asking what students should be able to do, then choosing activities that allow them to practice this, and finally using assessment formats that make these competences visible.
 
 In my teaching, this becomes concrete in business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, and group products. Students are not only asked to reproduce content, but to apply concepts in ways that correspond to the intended learning outcomes.
 
   </div>
+</div>
 
-  <div class="col-md-6" markdown="1">
+<div class="row align-items-start mt-4 mb-5">
+  <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/blooms_taxonomy.png" title="Bloom's Taxonomy" class="img-fluid rounded z-depth-1 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/blooms_taxonomy.png" title="Bloom's Taxonomy" class="img-fluid rounded z-depth-1" %}
 
-**Bloom’s Taxonomy**  
+  </div>
+
+  <div class="col-md-7" markdown="1">
+
+#### Bloom’s Taxonomy
+
 Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
 
 I use this especially when designing tasks in entrepreneurship and management education. Students classify leadership behavior, analyze organizational structures, evaluate business model options, develop personas, create market-sizing logic, design business plan sections, and reflect on the strategic quality of startup ideas.
@@ -97,23 +109,35 @@ I use this especially when designing tasks in entrepreneurship and management ed
   </div>
 </div>
 
-<div class="row mt-4 mb-5">
-  <div class="col-md-6" markdown="1">
+<div class="row align-items-start mt-4 mb-5">
+  <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/education_for_sustainable_development.png" title="Education for Sustainable Development" class="img-fluid rounded z-depth-1 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/education_for_sustainable_development.png" title="Education for Sustainable Development" class="img-fluid rounded z-depth-1" %}
 
-**Education for Sustainable Development**  
+  </div>
+
+  <div class="col-md-7" markdown="1">
+
+#### Education for Sustainable Development
+
 Education for Sustainable Development is important for my sustainability-oriented teaching because it emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
 
 I implement these principles especially in formats such as the Business Model Lab and sustainable business model workshops. Students work with open-ended challenges, stakeholder perspectives, circular economy concepts, sustainable business model patterns, and the Flourishing Business Model Canvas. The aim is not only to understand sustainability concepts, but to translate them into concrete business model ideas and reflect on their broader implications.
 
   </div>
+</div>
 
-  <div class="col-md-6" markdown="1">
+<div class="row align-items-start mt-4 mb-5">
+  <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/Babson_5_practices.png" title="Five Practices of Entrepreneurship Education" class="img-fluid rounded z-depth-1 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/Babson_5_practices.png" title="Five Practices of Entrepreneurship Education" class="img-fluid rounded z-depth-1" %}
 
-**Five Practices of Entrepreneurship Education**  
+  </div>
+
+  <div class="col-md-7" markdown="1">
+
+#### Five Practices of Entrepreneurship Education
+
 The five practices of entrepreneurship education — play, empathy, creation, experimentation, and reflection — provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning about entrepreneurship toward practicing entrepreneurial thinking and action.
 
 In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
