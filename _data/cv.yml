@@ -1,6 +1,6 @@
 cv:
   name: Theophil Kroller
-  label: Doctoral Researcher & Lecturer | Green Transition | Entrepreneurship Education
+  label: Doctoral Researcher & Lecturer | Green Transition | Entrepreneurship
   image: ""
   summary: >
     Doctoral researcher and lecturer at Graz University of Technology with an interdisciplinary background
@@ -250,14 +250,10 @@ cv:
         summary: Award for outstanding academic achievement.
 
     Certificates:
-      - name: TU Graz Teaching Academy
+      - name: TU Graz Teaching Academy – Advanced Certificate in Higher Education Didactics, with focus on course design, assessment, digital teaching, AI in teaching, rhetoric, diversity, teaching behavior training, and education for sustainable development
         date: 2025
         issuer: Graz University of Technology
-        summary: >
-          Higher education didactics training with foundational and advanced modules in course design,
-          assessment, digital teaching, AI in teaching, rhetoric, diversity, teaching behavior training,
-          and education for sustainable development.
-
+          
     Skills:
       - name: Teaching, Facilitation and Supervision
         level:
