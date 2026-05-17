@@ -53,7 +53,6 @@ I try to create a classroom atmosphere that is warm, respectful, and intellectua
 
 A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use slides when they help, but I also want students to think, discuss, draw, classify, test, present, question, and create visible outputs. This makes learning more concrete and gives us something to work with together.
 
-## Didactic Influences and Design Principles
 
 ## Didactic Influences and Design Principles
 
