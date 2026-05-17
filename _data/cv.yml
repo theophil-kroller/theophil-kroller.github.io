@@ -3,13 +3,12 @@ cv:
   label: Doctoral Researcher & Lecturer | Green Transition | Entrepreneurship Education
   image: ""
   summary: >
-    Doctoral researcher and lecturer at Graz University of Technology with experience in higher education,
-    intralogistics, energy markets, environmental research, and applied management. My teaching focuses on
-    entrepreneurship, general management, organization, business model development, and application-oriented
-    learning. My research interests include sustainability-oriented transformation, circular and regenerative
-    economic systems, strategic decision-making, and business model innovation. My interdisciplinary background
-    spans industrial engineering, environmental management and ecotoxicology, business studies, China studies,
-    and psychosocial counseling, with international experience in Austria, China, Japan, and the United States.
+    Doctoral researcher and lecturer at Graz University of Technology with an interdisciplinary background
+    in industrial engineering, environmental management and ecotoxicology, business studies, China studies,
+    and psychosocial counseling. My teaching focuses on entrepreneurship, general management, organization,
+    business model development, and application-oriented learning. My research interests include
+    sustainability-oriented transformation, circular and regenerative economic systems, strategic decision-making,
+    technology leadership, and business model innovation.
 
   social_networks:
     - network: GitHub
@@ -32,10 +31,10 @@ cv:
           Research and teaching in general management, organization, entrepreneurship, business models,
           and sustainability-oriented transformation.
         highlights:
-          - Teaching and co-teaching courses in general management, organization, entrepreneurship, business model development, and startup education.
+          - Teaching and co-teaching in general management, organization, entrepreneurship, business model development, and startup education.
           - Designing application-oriented learning formats such as case studies, role plays, group puzzles, workshops, assessment rubrics, and business model exercises.
           - Supervising and co-supervising bachelor’s and master’s theses in management, organization, technology, sustainability, and business model innovation.
-          - Research interests include circular and regenerative economy, green transition, strategic decision-making, technology leadership, and business model innovation.
+          - Research on sustainability-oriented transformation, circular and regenerative economic systems, strategic decision-making, technology leadership, and business model innovation.
 
       - company: Gründungsgarage
         position: Board Member | Programme Management
@@ -43,10 +42,9 @@ cv:
         start_date: 2024-07
         end_date: Present
         summary: >
-          Volunteer board role supporting entrepreneurship education, startup ecosystem development,
-          and programme management.
+          Volunteer board role supporting entrepreneurship education, programme management, and startup ecosystem activities.
         highlights:
-          - Supporting programme management and development of entrepreneurship education activities.
+          - Supporting programme management and the development of practice-oriented entrepreneurship education activities.
           - Contributing to formats that connect students, startup teams, mentors, and the regional innovation ecosystem.
 
       - company: Psychosocial Counseling Practice
@@ -58,7 +56,7 @@ cv:
           Counseling training and practice focused on communication, reflective professional development,
           and supporting clients in personal and relational transition processes.
         highlights:
-          - Developed professional competencies in active listening, reflective dialogue, process documentation, and ethical practice.
+          - Developed competencies in active listening, reflective dialogue, process documentation, and ethical practice.
           - Strengthened communication, facilitation, and mentoring skills relevant to teaching and supervision.
 
       - company: KNAPP AG
@@ -69,11 +67,10 @@ cv:
         summary: >
           Designed and implemented intralogistics and warehouse control solutions for international customers.
         highlights:
-          - Designed automated warehouse solutions and business processes for customers in the EU, Latin America, and China.
+          - Designed automated warehouse processes for customers in the EU, Latin America, and China.
           - Created business process specifications and acceptance test specifications.
           - Facilitated customer workshops and supported requirements engineering.
           - Collaborated with mechanical engineering, electrical engineering, software development, commissioning, and project management teams.
-          - Strengthened competencies in process design, technical communication, project coordination, and cross-cultural collaboration.
 
       - company: Pöyry Management Consulting Austria
         position: Energy Market Analyst
@@ -85,8 +82,7 @@ cv:
         highlights:
           - Analyzed energy market information using Excel and R.
           - Contributed to wholesale electricity market reports and client presentations.
-          - Conducted research on the energy market of Kazakhstan, including regulatory frameworks and market structures.
-          - Processed and visualized large-scale datasets with R.
+          - Researched regulatory frameworks and market structures in Kazakhstan.
 
       - company: University of Applied Sciences Technikum Wien
         position: Lecturer | Junior Researcher
@@ -97,10 +93,9 @@ cv:
           Taught undergraduate and graduate courses and contributed to applied environmental research
           in ecotoxicology and environmental management.
         highlights:
-          - Taught courses in aquatic ecotoxicology, environmental management, metrology, environmental chemistry, laboratory methods, applied research, and environmental analysis.
-          - Designed and facilitated lectures, laboratory courses, research seminars, and problem-based learning formats.
-          - Coached students in applied research projects and supervised thesis-related work.
-          - Set up and carried out laboratory experiments and analyzed data with R and Excel.
+          - Taught lectures, laboratory courses, research seminars, and problem-based learning formats.
+          - Coached students in applied research projects and thesis-related work.
+          - Conducted laboratory experiments and analyzed data with R and Excel.
           - Optimized and validated a method for screening environmental samples for endocrine-disrupting activity.
 
       - company: mpi English Schools
@@ -118,11 +113,7 @@ cv:
         end_date: 2007-09
         summary: >
           Early international business experience in strategy-related research, business development,
-          and cross-cultural project work.
-        highlights:
-          - Supported research and communication tasks in an international business context.
-          - Revised material on Chinese strategies and strategic management.
-          - Translated technical documents and supported customer and authority-related communication.
+          translation, and cross-cultural project work.
 
       - company: Qiqihar University / Hermann Gmeiner Vocational School
         position: Language Instructor
@@ -163,7 +154,7 @@ cv:
         highlights:
           - Doctoral School of Techno-Economics.
           - Estimated completion in 2028.
-          - Research focus on sustainability-oriented transformation, circular and regenerative economic systems, strategic decision-making, and business model innovation.
+          - Research focus on sustainability-oriented transformation, circular and regenerative economic systems, strategic decision-making, technology leadership, and business model innovation.
 
       - institution: University of Graz
         location: Graz, Austria
@@ -191,7 +182,6 @@ cv:
         end_date: 2012
         highlights:
           - International academic experience in Japan.
-          - Coursework in international business, advanced macroeconomics, and Japanese language.
 
       - institution: University of Applied Sciences Technikum Wien
         location: Vienna, Austria
@@ -229,7 +219,6 @@ cv:
         end_date: 2004
         highlights:
           - Intensive Chinese language and cultural studies.
-          - Early international academic and intercultural experience in China.
 
       - institution: Winton Woods High School
         location: Cincinnati, Ohio, USA
@@ -239,6 +228,40 @@ cv:
         end_date: 2001
         highlights:
           - International school experience in the United States.
+
+    Teaching Profile:
+      - name: Current Teaching
+        summary: >
+          General Management and Organization; Unternehmensführung und Organisation; Entrepreneurship VO;
+          Entrepreneurship UE; Gründungsgarage SE / Startup Garage; bachelor and master projects.
+
+      - name: Executive and Professional Education
+        summary: >
+          Executive MBA in Digital and Green Transition; From Data to Value; Circular Economy;
+          Digital Economy; Product-Service Systems; Platform Wars simulation.
+
+      - name: Applied Workshop Formats
+        summary: >
+          Business Model Lab; sustainable business models for SMEs; design thinking; sustainable business model patterns;
+          prototyping; Flourishing Business Model Canvas.
+
+      - name: Previous Higher Education Teaching
+        summary: >
+          Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management;
+          Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry;
+          Cell Culture Techniques Laboratory; Environmental Analysis Laboratory.
+
+      - name: Early International Teaching
+        summary: >
+          English communication and listening classes in China; German language and Austrian studies
+          for Chinese exchange students at the University of Vienna.
+
+    Thesis Supervision:
+      - name: Bachelor’s and Master’s Thesis Supervision
+        summary: >
+          Supervision and co-supervision of bachelor’s and master’s theses in management, organization,
+          sustainability, technology, process analysis, business models, environmental research, and applied ecotoxicology.
+          A detailed list is available on the teaching portfolio page.
 
     Awards:
       - title: Young Scientist Poster Award, 2nd Place
@@ -343,7 +366,7 @@ cv:
       - name: Japanese
         summary: Basic knowledge
 
-    Interests:
+    Research Interests:
       - name: Research Interests
         icon: fa-solid fa-magnifying-glass-chart
         keywords:
@@ -356,9 +379,3 @@ cv:
           - Greentech startups
           - Business model innovation
           - AI-supported teaching and learning
-
-      - name: Personal Interests
-        icon: fa-solid fa-person-running
-        keywords:
-          - Bujinkan
-          - Brazilian Zouk
