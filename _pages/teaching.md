@@ -152,10 +152,6 @@ In my courses, these practices appear in role plays, group puzzles, customer per
 
 Thinking back, teaching seems to have entered my life several times, often in unexpected and very different ways.
 
-## My Path into Teaching
-
-Teaching has appeared several times throughout my life, in very different contexts.
-
 One of my first teaching-related experiences took place during my high school year in the United States. In a marketing course, we had a competition in which I won first prize with a PowerPoint presentation. At that time, PowerPoint was not yet as common and taken for granted as it is today. After the competition, my teacher asked me to prepare and teach a two-hour session for my classmates on how to create PowerPoint presentations. I remember this as both exciting and rewarding: for the first time, I had to think about how to explain a tool to others, structure a session, and make knowledge accessible to a group of learners.
 
 At 19, I attended a didactic course on teaching German as a foreign and second language at the University of Vienna. At the same time, I taught a course in German language and Austrian studies for Chinese exchange students. I prepared each session carefully and began to understand teaching as something that requires planning, rhythm, sensitivity, and attention to the learners’ perspective.
