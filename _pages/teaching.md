@@ -213,7 +213,7 @@ From a teaching perspective, this format is a good example of how I like to work
 
 ## Assessment and Learning Outcomes
 
-This section is currently being expanded.
+{% include figure.liquid loading="eager" path="assets/img/assessment.png" title="Assessment and Learning Outcomes" class="img-fluid rounded z-depth-1 mb-4" %}
 
 My teaching aims to connect learning outcomes, learning activities, and assessment formats. I use transfer tasks, case analyses, worksheets, group products, presentations, rubrics, and reflective discussions to support competence-oriented learning.
 
