@@ -40,7 +40,7 @@ I also believe that good teaching requires a warm and non-threatening learning e
 
 Feedback is another central element of my teaching. I use teacher feedback, peer feedback, discussion, presentation feedback, and structured assessment formats to support learning. Feedback should not only evaluate performance; it should help students see what already works, where their thinking can become sharper, and how they can take the next step.
 
-In this sense, I understand teaching as the design of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action — and gradually develop the confidence to engage with complex problems responsibly.
+In this sense, I understand teaching as the design of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action, and gradually develop the confidence to engage with complex problems responsibly.
 
 ## My Path into Teaching
 
