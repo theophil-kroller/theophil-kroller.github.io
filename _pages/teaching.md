@@ -26,11 +26,23 @@ nav_order: 4
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
+## Teaching Philosophy
+
 My teaching is application-oriented, experiential, and reflective. I want students to work with ideas, not just listen to them. In management and entrepreneurship education, concepts should become useful: students should be able to apply them to cases, startup ideas, organizational challenges, and uncertain decision-making situations.
 
-For me, good teaching creates moments that stay with students. A role play, a group puzzle, a poster, a difficult case discussion, a first business model, or a moment where a concept suddenly becomes clear — these are the moments where learning becomes more than information transfer.
+A central element of my teaching philosophy is curiosity. I like teaching situations in which questions open up the learning process: What do we see here? Why could this be the case? What would happen if we looked at the problem from another perspective? I have always appreciated teachers who developed understanding through questions rather than simply presenting content. This does not mean that structured input is unimportant. Good slides, strong visualizations, clear frameworks, and well-designed explanations can be very valuable. But for me, they should support thinking rather than replace it.
 
-I am interested in teaching formats that combine conceptual clarity with experience. Students need models, language, and structure. They also need opportunities to try things out, compare perspectives, discuss with others, and reflect on what they have learned.
+My teaching is strongly shaped by experiential and problem-oriented formats. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, and challenge-based learning formats. These formats are particularly important in entrepreneurship, management, and sustainability-related education, because students need to learn how to deal with open-ended problems, incomplete information, different stakeholder perspectives, and uncertainty.
+
+I also draw on my own experience with language learning and language teaching. In this context, I learned early that role plays, interaction, experimentation, and trying things out can create a different kind of learning than explanation alone. Students often understand concepts more deeply when they have to use them actively, argue from a particular role, test an idea, receive feedback, and then revise their thinking.
+
+For me, good teaching also requires a non-threatening learning environment. Students should feel that they can ask questions, offer ideas, disagree, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, this is what makes a classroom truly alive. A student who has work experience, a technical background, startup experience, or deep knowledge of a specific topic can enrich the learning process for everyone.
+
+Feedback is another central element of my teaching. I use feedback from the teacher, peer feedback, discussion, presentation feedback, and structured assessment formats to help students grow. Feedback should not only evaluate performance, but support learning. Ideally, it helps students see what already works, where their thinking can become sharper, and how they can take the next step.
+
+In this sense, I understand teaching as the design of learning spaces. These spaces need structure, clarity, and conceptual orientation, but also openness, interaction, experimentation, and moments of uncertainty. Learning happens when students engage with frameworks, apply them to concrete situations, compare perspectives, create visible outputs, and reflect on what they have done.
+
+My teaching development is influenced by higher education didactics, entrepreneurship education, education for sustainable development, problem-based and challenge-based learning, constructive alignment, Bloom’s Taxonomy, and current discussions on generative AI in teaching. I do not treat these frameworks as abstract theory, but as practical lenses for designing sessions in which students become active, reflective, and capable of applying knowledge.
 
 
 ## My Role as a Teacher
