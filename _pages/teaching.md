@@ -138,7 +138,7 @@ I implement these principles especially in formats such as the Business Model La
 
 #### Five Practices of Entrepreneurship Education
 
-The five practices of entrepreneurship education — play, empathy, creation, experimentation, and reflection — provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning about entrepreneurship toward practicing entrepreneurial thinking and action.
+The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning about entrepreneurship toward practicing entrepreneurial thinking and action.
 
 In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
 
