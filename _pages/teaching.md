@@ -63,6 +63,8 @@ This path has shaped my current understanding of teaching: good teaching needs p
 
 ## Course Overview
 
+{% include figure.liquid loading="eager" path="assets/img/Courses.png" title="Course Overview" class="img-fluid rounded z-depth-1 mb-4" %}
+
 The following overview summarizes selected teaching activities across different institutions and phases of my teaching biography. It starts with my current teaching and then moves back chronologically.
 
 | Period | Institution | Courses / Teaching Areas | Format |
