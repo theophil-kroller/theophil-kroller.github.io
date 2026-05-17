@@ -55,21 +55,63 @@ A recurring aim in my teaching is to move beyond pure PowerPoint logic. I use sl
 
 ## Didactic Influences and Design Principles
 
-My teaching is informed by a set of didactic approaches and design principles that I use as practical orientations rather than as abstract labels. I am interested in teaching formats that activate students, support application, and create space for reflection, feedback, and perspective-taking.
+## Didactic Influences and Design Principles
 
-A central reference point is **constructive alignment**. For me, this means that learning outcomes, teaching activities, and assessment should be meaningfully connected. Students should not only hear about concepts, but work with them in ways that prepare them for the kinds of outputs and performances that are later assessed.
+My teaching design is shaped by several didactic frameworks that I use as practical orientation points. They help me think more clearly about what students should learn, how learning activities should be structured, how assessment can support learning, and how students can become active participants in their own competence development.
 
-I also draw on **Bloom’s Taxonomy** when thinking about the level of learning that a teaching activity should support. Especially in entrepreneurship and management education, I find it important to move beyond remembering and understanding toward application, analysis, evaluation, and creation.
+A central reference point is **constructive alignment**. For me, this means that learning outcomes, teaching and learning activities, and assessment should form a coherent whole. Students should not only hear about concepts, but work with them in ways that prepare them for the kinds of outputs, decisions, and performances that are later assessed. This principle has influenced how I design worksheets, rubrics, presentation tasks, business plan assignments, and case-based classroom activities.
 
-Another important influence is **Education for Sustainable Development (ESD)**. In sustainability-related teaching, and especially in formats such as the Business Model Lab, I see strong value in problem-based and challenge-based learning. Students should work with open questions, complex systems, and real-world tensions rather than only receiving finished answers.
+I also use **Bloom’s Taxonomy** as a practical lens for thinking about the depth of learning. In entrepreneurship and management education, I do not want students to remain only at the level of remembering or understanding. They should apply concepts, analyze situations, evaluate alternatives, and create their own outputs — for example organizational charts, leadership classifications, business model ideas, market analyses, personas, pitch feedback, or sustainable business model prototypes.
 
-My teaching is also shaped by approaches from entrepreneurship education and experiential learning. I value formats that create what I think of as productive spaces for action and reflection: role plays, case work, workshops, group puzzles, visual thinking, and peer exchange. These are the kinds of settings in which students often begin to connect theory with action.
+In sustainability-oriented teaching, especially in the **Business Model Lab** and related formats, I draw on principles of **Education for Sustainable Development**. These include systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence. Such competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection.
 
-A further influence on my entrepreneurship teaching is the practice-based approach associated with Babson College and the work of Neck, Greene, and Brush. Their five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for what I try to create in the classroom. In my courses, these practices appear in formats such as role plays, group puzzles, customer personas, business model games, prototyping exercises, pitch feedback, and reflective discussion.
+A further influence on my entrepreneurship teaching is the practice-based approach associated with Babson College. The five practices of entrepreneurship education — **play, empathy, creation, experimentation, and reflection** — provide a useful language for what I try to create in the classroom. In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, prototyping exercises, peer feedback, and reflective discussion.
 
-The practice of **play** is visible when students experiment with perspectives, scenarios, and business model options. **Empathy** appears in customer segmentation, persona work, and stakeholder-oriented feedback. **Creation** is central whenever students develop visible outputs such as posters, canvases, prototypes, or business plan sections. **Experimentation** is addressed when students test assumptions, compare alternatives, and revise their ideas. **Reflection** happens through peer feedback, discussion, debriefing, and structured evaluation of what has been learned.
+Taken together, these frameworks support the way I understand teaching: students need conceptual structure, but they also need space to try things out, compare perspectives, make decisions, receive feedback, and reflect on what they have learned. Good teaching therefore combines clarity and openness, structure and experimentation, knowledge and action.
 
-In this sense, my teaching design combines conceptual structure with experiential learning. I want students to encounter frameworks, apply them actively, reflect on their use, receive feedback, and gradually build confidence in dealing with complexity.
+### Visual Frameworks
+
+The following frameworks are particularly important for how I design teaching, learning activities, and assessment.
+
+<div class="row mt-4 mb-4">
+  <div class="col-md-6" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/constructive_alignment.png" title="Constructive Alignment" class="img-fluid rounded z-depth-1 mb-2" %}
+
+**Constructive Alignment**  
+I use constructive alignment to connect learning outcomes, teaching and learning activities, and assessment formats more coherently.
+
+  </div>
+
+  <div class="col-md-6" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/blooms_taxonomy.png" title="Bloom's Taxonomy" class="img-fluid rounded z-depth-1 mb-2" %}
+
+**Bloom’s Taxonomy**  
+Bloom’s Taxonomy helps me design learning activities that move from understanding toward application, analysis, evaluation, and creation.
+
+  </div>
+</div>
+
+<div class="row mt-4 mb-5">
+  <div class="col-md-6" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/education_for_sustainable_development.png" title="Education for Sustainable Development" class="img-fluid rounded z-depth-1 mb-2" %}
+
+**Education for Sustainable Development**  
+ESD is important for sustainability-oriented teaching because it emphasizes systems thinking, collaboration, critical reflection, problem solving, and responsible action.
+
+  </div>
+
+  <div class="col-md-6" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Babson_5_practices.png" title="Five Practices of Entrepreneurship Education" class="img-fluid rounded z-depth-1 mb-2" %}
+
+**Five Practices of Entrepreneurship Education**  
+The five practices — play, empathy, creation, experimentation, and reflection — help me design entrepreneurship teaching as active, practice-based learning.
+
+  </div>
+</div>
 
 ## My Path into Teaching
 
