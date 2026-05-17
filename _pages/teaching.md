@@ -163,7 +163,11 @@ For me, these rubrics are assessment tools, but they are also communication tool
 
 {% include figure.liquid loading="eager" path="assets/img/master_thesis_supervision.png" title="Thesis Supervision" class="img-fluid rounded z-depth-1 mb-4" %}
 
-Thesis supervision is an important part of my teaching profile. I understand bachelor’s and master’s thesis supervision as a structured learning process in which students develop their own questions, refine their thinking, work through uncertainty, and gradually take ownership of their academic or applied research project.
+Thesis supervision is an important part of my teaching profile. I understand bachelor’s and master’s thesis supervision not only as an assessment-related task, but as a mentoring process in which students are introduced more deeply to academic work.
+
+What I enjoy most about supervising theses is the opportunity to accompany students at a formative moment in their academic development. Many students are still learning what it means to work scientifically: how to find good sources, how to distinguish description from analysis, how to build an argument, how to reflect critically, and how to handle uncertainty in a research process. I see my role as helping them enter this way of thinking with more confidence and orientation.
+
+For me, thesis supervision means helping students move from a first idea toward a clearly structured academic project. This includes orientation, feedback, methodological guidance, encouragement, and sometimes also the reassurance that uncertainty is a normal part of research. Ideally, students leave the process not only with a completed thesis, but with a stronger understanding of how scientific inquiry works.
 
 My supervision activities include completed and ongoing theses at TU Graz and previous thesis-related assessment activities at UAS Technikum Wien. The topics are located at the intersection of management, organization, sustainability, technology, business models, process analysis, environmental research, and applied ecotoxicology.
 
