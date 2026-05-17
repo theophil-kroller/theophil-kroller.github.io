@@ -7,7 +7,7 @@ subtitle: Teaching Portfolio
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kopernikusgasse 24 / IV</p>
     <p>8010 Graz</p>
