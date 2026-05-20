@@ -239,10 +239,11 @@ In the entrepreneurial marketing section, I use another mix-and-match worksheet 
 The purpose of the exercise is to make students actively work with the language of entrepreneurial marketing. Instead of only hearing examples, they identify, compare, and classify different activities. This has made the marketing section more interactive and easier to grasp.
 
 ### Entrepreneurship: Pitch Feedback Role Cards
+{% include figure.liquid loading="eager" path="assets/img/roleplay_feedback_cards.png" title="Pitching Feedback Cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
-For the next iteration of the course, I am developing a role-card format for pitch feedback. Students will listen to the pitch of another group from a specific perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
+For the summer semester 2026 iteration of the course, I developed a role-card format for pitch feedback. Students listened to the pitch of another group from a specific role perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
 
-The goal is to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students will be encouraged to ask questions and give feedback from a defined role. I expect this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective.
+The goal was to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students are encouraged to ask questions and give feedback from a defined role. I expected this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective. The activity was very well received by both my colleague that I am co-teaching this course with and the student groups and led to deeper, more alive and more honest feedback and audience questions. 
 
 ### General Management and Organization: Leadership Module
 
