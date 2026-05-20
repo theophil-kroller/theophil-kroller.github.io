@@ -239,7 +239,7 @@ In the entrepreneurial marketing section, I use another mix-and-match worksheet 
 The purpose of the exercise is to make students actively work with the language of entrepreneurial marketing. Instead of only hearing examples, they identify, compare, and classify different activities. This has made the marketing section more interactive and easier to grasp.
 
 ### Entrepreneurship: Pitch Feedback Role Cards
-{% include figure.liquid loading="eager" path="assets/img/roleplay_feedback_cards.png" title="Pitching Feedback Cards" class="img-fluid rounded z-depth-1 mb-4" %}
+{% include figure.liquid loading="eager" path="assets/img/roleplay_feedback_cards3.png" title="Pitching Feedback Cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
 For the summer semester 2026 iteration of the course, I developed a role-card format for pitch feedback. Students listened to the pitch of another group from a specific role perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
 
