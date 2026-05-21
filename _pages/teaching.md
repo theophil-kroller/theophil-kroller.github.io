@@ -204,31 +204,42 @@ The following overview summarizes selected teaching activities across different 
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
 
----
-layout: page
-title: teaching
-description:
-permalink: /teaching/
-nav: true
-nav_order: 4
----
+## Selected Educational Videos
 
-<div class="teaching-nav">
-  <a href="#teaching-philosophy">Teaching Philosophy</a>
-  <a href="#my-path-into-teaching">My Path into Teaching</a>
-  <a href="#my-role-as-a-teacher">Teacher Role</a>
-  <a href="#didactic-influences-and-design-principles">Design Principles</a>
-  <a href="#course-overview">Course Overview</a>
-  <a href="#selected-educational-videos">Educational Videos</a>
-  <a href="#selected-teaching-examples">Teaching Examples</a>
-  <a href="#thesis-supervision">Thesis Supervision</a>
-  <a href="#executive-mba-digital-and-green-transition">Executive MBA</a>
-  <a href="#business-model-lab-sustainable-business-models">Business Model Lab</a>
-  <a href="#assessment-and-learning-outcomes">Assessment</a>
-  <a href="#feedback-and-evidence">Feedback</a>
-  <a href="#professional-development-in-teaching">Professional Development</a>
-  <a href="#future-development">Future Development</a>
-</div>
+In addition to classroom-based teaching, I develop educational videos that support asynchronous learning, flipped classroom elements, and conceptual preparation for students. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system and are available through TU Graz TUbe where access rights allow.
+
+Some videos may require TU Graz login credentials or course-related access rights.
+
+### Business Model Innovation
+
+This educational video introduces the concept of business model innovation and explains how firms create, deliver, and capture value through the design of their business models. It discusses why technological innovation alone does not automatically generate economic value and why adapting or redesigning the business model can be crucial.
+
+The video also explains how companies develop new business models by moving beyond their core business, exploring adjacent opportunities, and identifying white-space opportunities.
+
+**Language:** English  
+**Subtitle:** How firms create, deliver and capture value through innovative business models  
+**Video:** [Watch on TUbe](https://tube.tugraz.at/portal/watch/c2ff631f-cd15-4fe7-947b-4bc1d26aea36)  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/business-model-innovation-how-firms-create-deliver-and-capture-va/)
+
+### Circular Economy
+
+This educational video introduces the circular economy as a systemic perspective on material and energy flows between the technosphere and the biosphere. It explains why circularity was historically the default condition of materially constrained societies and how industrialization enabled the emergence of the linear economy.
+
+The video presents circular economy as a design challenge that goes beyond recycling and focuses on reducing resource inflows, strengthening internal loops, preserving product and material value, and limiting waste outflows. It also introduces the R-Hierarchy of circularity and connects circular economy to the ecological-economic distinction between an “empty world” and a “full world”.
+
+**Language:** English  
+**Video:** [Watch on TUbe](https://tube.tugraz.at/portal/watch/17135f83-51fb-4b15-8d98-4e198e1e4766)  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/circular-economy/)
+
+### Sustainable Business Models
+
+This educational video introduces the concept of sustainable business models and explains how business models can contribute to addressing sustainability challenges. It discusses different levels of sustainability ambition, ranging from eco-efficiency and net-zero approaches to circular economy, sufficiency, net-positive, and flourishing perspectives.
+
+The video explains how business models create, deliver, and capture value, and how sustainable, circular, and regenerative business models extend this logic by integrating environmental and social value creation.
+
+**Language:** English  
+**Video:** [Watch on TUbe](https://tube.tugraz.at/portal/watch/e0b27f0e-aa28-4ca1-93af-d3a1bd01dd5a)  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/sustainable-business-models-2/)
 
 ## Teaching Philosophy
 
