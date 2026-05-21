@@ -13,6 +13,7 @@ nav_order: 4
   <a href="#my-role-as-a-teacher">Teacher Role</a>
   <a href="#didactic-influences-and-design-principles">Design Principles</a>
   <a href="#course-overview">Course Overview</a>
+  <a href="#selected-educational-videos">Educational Videos</a>
   <a href="#selected-teaching-examples">Teaching Examples</a>
   <a href="#thesis-supervision">Thesis Supervision</a>
   <a href="#executive-mba-digital-and-green-transition">Executive MBA</a>
@@ -203,6 +204,103 @@ The following overview summarizes selected teaching activities across different 
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
 
+## Selected Educational Videos
+
+In addition to classroom-based teaching, I develop educational videos that support asynchronous learning, flipped classroom elements, and conceptual preparation for students. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system.
+
+Where available, the videos can be accessed through TU Graz systems. Some recordings may require TU Graz login credentials or course-related access rights.
+
+<div class="alert alert-info" role="alert">
+  <strong>Access note:</strong> Some embedded videos may only be visible after logging in with a TU Graz account. If the embedded player does not load, please use the linked TU Graz entry or open the video directly in the TU Graz video platform.
+</div>
+
+<div class="teaching-video-list">
+
+  <details class="mb-4">
+    <summary><strong>Business Model Innovation</strong> <span class="text-muted">(2026)</span></summary>
+
+    <div class="mt-3" markdown="1">
+
+This educational video introduces the concept of business model innovation and explains how firms create, deliver, and capture value through the design of their business models. It discusses why technological innovation alone does not automatically generate economic value and why adapting or redesigning the business model can be crucial.
+
+The video also explains how companies develop new business models by moving beyond their core business, exploring adjacent opportunities, and identifying white-space opportunities.
+
+**Language:** English  
+**Subtitle:** How firms create, deliver and capture value through innovative business models  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/8a81ac33-f603-484b-925a-cb8b65de9e49)
+
+<!-- Optional TUbe embed. Replace TUBE_VIDEO_ID_BUSINESS_MODEL_INNOVATION with the actual TUbe video ID. -->
+<!--
+<div class="ratio ratio-16x9 mt-3 mb-3">
+  <iframe
+    src="https://tube.tugraz.at/Shibboleth.sso/Login?target=/paella/ui/embed.html?id=TUBE_VIDEO_ID_BUSINESS_MODEL_INNOVATION"
+    title="Business Model Innovation"
+    allowfullscreen
+    frameborder="0">
+  </iframe>
+</div>
+-->
+
+    </div>
+  </details>
+
+
+  <details class="mb-4">
+    <summary><strong>Circular Economy</strong> <span class="text-muted">(2026)</span></summary>
+
+    <div class="mt-3" markdown="1">
+
+This educational video introduces the circular economy as a systemic perspective on material and energy flows between the technosphere and the biosphere. It explains why circularity was historically the default condition of materially constrained societies and how industrialization enabled the emergence of the linear economy.
+
+The video presents circular economy as a design challenge that goes beyond recycling and focuses on reducing resource inflows, strengthening internal loops, preserving product and material value, and limiting waste outflows. It also introduces the R-Hierarchy of circularity and connects circular economy to the ecological-economic distinction between an “empty world” and a “full world”.
+
+**Language:** English  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/10a32044-b3a4-4084-ae7c-56371199886e)
+
+<!-- Optional TUbe embed. Replace TUBE_VIDEO_ID_CIRCULAR_ECONOMY with the actual TUbe video ID. -->
+<!--
+<div class="ratio ratio-16x9 mt-3 mb-3">
+  <iframe
+    src="https://tube.tugraz.at/Shibboleth.sso/Login?target=/paella/ui/embed.html?id=TUBE_VIDEO_ID_CIRCULAR_ECONOMY"
+    title="Circular Economy"
+    allowfullscreen
+    frameborder="0">
+  </iframe>
+</div>
+-->
+
+    </div>
+  </details>
+
+
+  <details class="mb-4">
+    <summary><strong>Sustainable Business Models</strong> <span class="text-muted">(2026)</span></summary>
+
+    <div class="mt-3" markdown="1">
+
+This educational video introduces the concept of sustainable business models and explains how business models can contribute to addressing sustainability challenges. It discusses different levels of sustainability ambition, ranging from eco-efficiency and net-zero approaches to circular economy, sufficiency, net-positive, and flourishing perspectives.
+
+The video explains how business models create, deliver, and capture value, and how sustainable, circular, and regenerative business models extend this logic by integrating environmental and social value creation.
+
+**Language:** English  
+**Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/b3b43608-0091-46c6-b97b-865efebe5f92)
+
+<!-- Optional TUbe embed. Replace TUBE_VIDEO_ID_SUSTAINABLE_BUSINESS_MODELS with the actual TUbe video ID. -->
+<!--
+<div class="ratio ratio-16x9 mt-3 mb-3">
+  <iframe
+    src="https://tube.tugraz.at/Shibboleth.sso/Login?target=/paella/ui/embed.html?id=TUBE_VIDEO_ID_SUSTAINABLE_BUSINESS_MODELS"
+    title="Sustainable Business Models"
+    allowfullscreen
+    frameborder="0">
+  </iframe>
+</div>
+-->
+
+    </div>
+  </details>
+
+</div>
 
 ## Selected Teaching Examples
 
