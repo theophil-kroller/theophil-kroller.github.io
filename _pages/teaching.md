@@ -291,20 +291,22 @@ The following overview provides a compact view of selected teaching activities a
 
 <div class="teaching-timeline">
 
-  <div class="teaching-entry">
-    <div class="teaching-period">2026–present</div>
-    <div class="teaching-content">
-      <h4>Executive MBA in Digital and Green Transition</h4>
+<div class="teaching-entry">
+  <div class="teaching-period">2026–present</div>
+  <div class="teaching-content">
+    <h4>TU Graz Life Long Learning</h4>
 
-      <p><strong>Courses / Teaching Areas:</strong></p>
-      <div class="course-tags">
-        <span><span class="course-type">MOD</span> Digital & Green Economy</span>
-        <span><span class="course-type">MOD</span> Digital Strategies & Business Modelling</span>
-      </div>
+    <p><strong>Programme:</strong> Executive MBA in Digital and Green Transition</p>
 
-      <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
+    <p><strong>Courses / Teaching Areas:</strong></p>
+    <div class="course-tags">
+      <span><span class="course-type">MOD</span> Digital & Green Economy</span>
+      <span><span class="course-type">MOD</span> Digital Strategies & Business Modelling</span>
     </div>
+
+    <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
   </div>
+</div>
 
   <div class="teaching-entry">
     <div class="teaching-period">2024–present</div>
