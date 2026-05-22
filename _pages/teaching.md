@@ -24,8 +24,26 @@ nav_order: 4
   --teaching-tag-border: #e2e2e2;
   --teaching-tag-text: #222;
 
+  --teaching-type-bg: #eeeeee;<style>
+.teaching-timeline {
+  margin-top: 1.5rem;
+
+  /* Light mode defaults */
+  --teaching-border: #e5e5e5;
+  --teaching-text: #222;
+  --teaching-muted: #666;
+  --teaching-strong: #111;
+
+  --teaching-period-bg: #f5f5f5;
+  --teaching-period-text: #222;
+
+  --teaching-tag-bg: #fafafa;
+  --teaching-tag-border: #e2e2e2;
+  --teaching-tag-text: #222;
+
   --teaching-type-bg: #eeeeee;
   --teaching-type-text: #555;
+  --teaching-type-border: transparent;
 }
 
 /* Dark mode: al-folio / common theme variants */
@@ -34,20 +52,21 @@ body[data-theme="dark"] .teaching-timeline,
 [data-bs-theme="dark"] .teaching-timeline,
 html.dark .teaching-timeline,
 body.dark .teaching-timeline {
-  --teaching-border: #444;
+  --teaching-border: #3a3a3a;
   --teaching-text: #f2f2f2;
-  --teaching-muted: #cfcfcf;
+  --teaching-muted: #c8c8c8;
   --teaching-strong: #ffffff;
 
   --teaching-period-bg: #f1f1f1;
   --teaching-period-text: #111;
 
-  --teaching-tag-bg: #2a2a2a;
-  --teaching-tag-border: #555;
-  --teaching-tag-text: #f2f2f2;
+  --teaching-tag-bg: rgba(255, 255, 255, 0.06);
+  --teaching-tag-border: rgba(255, 255, 255, 0.18);
+  --teaching-tag-text: #f1f1f1;
 
-  --teaching-type-bg: #f1f1f1;
-  --teaching-type-text: #111;
+  --teaching-type-bg: rgba(255, 255, 255, 0.10);
+  --teaching-type-text: #ffffff;
+  --teaching-type-border: rgba(255, 255, 255, 0.18);
 }
 
 .teaching-entry {
@@ -108,6 +127,7 @@ body.dark .teaching-timeline {
   display: inline-block;
   margin-right: 0.38rem;
   padding: 0.05rem 0.34rem;
+  border: 1px solid var(--teaching-type-border);
   border-radius: 999px;
   background: var(--teaching-type-bg);
   color: var(--teaching-type-text);
