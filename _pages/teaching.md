@@ -122,7 +122,7 @@ nav_order: 4
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-My teaching is shaped the idea that students should not only understand concepts, but become able to work with them. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
+My teaching is shaped by the idea that students should move behind understanding concepts and become able to work with them. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
 
 I therefore design learning situations that combine structure and openness. Students need clear explanations, useful frameworks, good examples, and conceptual orientation. At the same time, they need opportunities to ask questions, test ideas, compare perspectives, create visible outputs, receive feedback, and reflect on what they have learned.
 
