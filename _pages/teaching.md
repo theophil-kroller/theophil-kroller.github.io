@@ -317,9 +317,12 @@ While the previous section presents my teaching biography as a narrative, the fo
         <span><span class="course-type">UE</span> Unternehmensführung und Organisation</span>
         <span><span class="course-type">VO</span> Entrepreneurship</span>
         <span><span class="course-type">UE</span> Entrepreneurship</span>
+        <span><span class="course-type">VO</span> Unternehmensgründung</span>
+        <span><span class="course-type">UE</span> Unternehmensgründung</span>
         <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage</span>
-        <span><span class="course-type">PR</span> Bachelor and Master Projects</span>
-        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs / Business Model Lab</span>
+        <span><span class="course-type">PR</span> Bachelor Projects</span>
+        <span><span class="course-type">PR</span> Master Projects</span>
+        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs</span>
       </div>
 
       <p><strong>Format:</strong> Lectures, practical courses, seminars, project supervision, business model development workshops</p>
@@ -335,13 +338,14 @@ While the previous section presents my teaching biography as a narrative, the fo
       <div class="course-tags">
         <span><span class="course-type">VO</span> Aquatic Ecotoxicology</span>
         <span><span class="course-type">VO</span> Metrology</span>
-        <span><span class="course-type">PR</span> Applied Research Project</span>
+        <span><span class="course-type">PR</span> Applied Research Project Ecotoxicology</span>
+        <span><span class="course-type">PR</span> Applied Research Project Environmental Management</span>
         <span><span class="course-type">VO</span> Selected Topics in Environmental Management</span>
         <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory</span>
         <span><span class="course-type">LAB</span> Endocrine Disruptors including Laboratory</span>
         <span><span class="course-type">VO</span> Environmental Chemistry</span>
         <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory</span>
-        <span><span class="course-type">LAB</span> Environmental Analysis Laboratory</span>
+        <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory</span>
       </div>
 
       <p><strong>Format:</strong> Lectures, laboratories, research seminars, project supervision, thesis supervision</p>
@@ -371,10 +375,9 @@ While the previous section presents my teaching biography as a narrative, the fo
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
         <span><span class="course-type">COURSE</span> English Communication</span>
-        <span><span class="course-type">COURSE</span> Communication-oriented English</span>
       </div>
 
-      <p><strong>Format:</strong> Regular vocational school language courses with compulsory attendance and final oral assessment/examination</p>
+      <p><strong>Format:</strong> Regular vocational school language course with compulsory attendance and final oral assessment/examination</p>
     </div>
   </div>
 
@@ -385,10 +388,7 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span><span class="course-type">TUT</span> German language teaching</span>
-        <span><span class="course-type">TUT</span> Austrian studies</span>
-        <span><span class="course-type">TUT</span> Intercultural learning</span>
-        <span><span class="course-type">TUT</span> Writing assignments</span>
+        <span><span class="course-type">TUT</span> German as a Foreign Language</span>
       </div>
 
       <p><strong>Format:</strong> Tutorial / language teaching for Chinese and Taiwanese exchange students</p>
@@ -402,12 +402,10 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span><span class="course-type">UNIT</span> Introductory PowerPoint unit</span>
-        <span><span class="course-type">UNIT</span> Peer teaching</span>
-        <span><span class="course-type">UNIT</span> Presentation skills</span>
+        <span><span class="course-type">TUT</span> Introductory PowerPoint session</span>
       </div>
 
-      <p><strong>Format:</strong> Short peer teaching unit</p>
+      <p><strong>Format:</strong> Short peer tutorial</p>
     </div>
   </div>
 
@@ -415,7 +413,7 @@ While the previous section presents my teaching biography as a narrative, the fo
 
 <p class="course-legend">
   <strong>Course type abbreviations:</strong>
-  VO = lecture, UE = practical course/tutorial, SE = seminar, PR = project, LAB = laboratory, WS = workshop, MOD = module, TUT = tutorial, UNIT = short teaching unit.
+  VO = lecture, UE = practical course/tutorial, SE = seminar, PR = project, LAB = laboratory, WS = workshop, MOD = module, TUT = tutorial.
 </p>
 
 ## Selected Educational Videos
