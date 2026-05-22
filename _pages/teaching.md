@@ -24,49 +24,32 @@ nav_order: 4
   --teaching-tag-border: #e2e2e2;
   --teaching-tag-text: #222;
 
-  --teaching-type-bg: #eeeeee;<style>
-.teaching-timeline {
-  margin-top: 1.5rem;
-
-  /* Light mode defaults */
-  --teaching-border: #e5e5e5;
-  --teaching-text: #222;
-  --teaching-muted: #666;
-  --teaching-strong: #111;
-
-  --teaching-period-bg: #f5f5f5;
-  --teaching-period-text: #222;
-
-  --teaching-tag-bg: #fafafa;
-  --teaching-tag-border: #e2e2e2;
-  --teaching-tag-text: #222;
-
   --teaching-type-bg: #eeeeee;
   --teaching-type-text: #555;
-  --teaching-type-border: transparent;
+  --teaching-type-border: #e2e2e2;
 }
 
-/* Dark mode: al-folio / common theme variants */
+/* Dark mode */
 html[data-theme="dark"] .teaching-timeline,
 body[data-theme="dark"] .teaching-timeline,
 [data-bs-theme="dark"] .teaching-timeline,
 html.dark .teaching-timeline,
 body.dark .teaching-timeline {
-  --teaching-border: #3a3a3a;
+  --teaching-border: #444;
   --teaching-text: #f2f2f2;
-  --teaching-muted: #c8c8c8;
+  --teaching-muted: #cfcfcf;
   --teaching-strong: #ffffff;
 
   --teaching-period-bg: #f1f1f1;
   --teaching-period-text: #111;
 
-  --teaching-tag-bg: rgba(255, 255, 255, 0.06);
-  --teaching-tag-border: rgba(255, 255, 255, 0.18);
-  --teaching-tag-text: #f1f1f1;
+  --teaching-tag-bg: #252525;
+  --teaching-tag-border: #4a4a4a;
+  --teaching-tag-text: #f2f2f2;
 
-  --teaching-type-bg: rgba(255, 255, 255, 0.10);
-  --teaching-type-text: #ffffff;
-  --teaching-type-border: rgba(255, 255, 255, 0.18);
+  --teaching-type-bg: #e9e9e9;
+  --teaching-type-text: #111;
+  --teaching-type-border: #d7d7d7;
 }
 
 .teaching-entry {
@@ -111,7 +94,7 @@ body.dark .teaching-timeline {
   margin: 0.35rem 0 0.9rem 0;
 }
 
-.course-tags span {
+.course-tags > span {
   display: inline-flex;
   align-items: center;
   padding: 0.28rem 0.65rem;
@@ -123,7 +106,7 @@ body.dark .teaching-timeline {
   line-height: 1.35;
 }
 
-.course-type {
+.course-tags > span .course-type {
   display: inline-block;
   margin-right: 0.38rem;
   padding: 0.05rem 0.34rem;
