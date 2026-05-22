@@ -45,6 +45,23 @@ nav_order: 4
   color: #111;
 }
 
+.course-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.35rem 0 0.9rem 0;
+}
+
+.course-tags span {
+  display: inline-block;
+  padding: 0.28rem 0.65rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 999px;
+  background: #fafafa;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -243,8 +260,7 @@ In my courses, these practices appear in role plays, group puzzles, customer per
 
 {% include figure.liquid loading="eager" path="assets/img/Courses.png" title="Course Overview" class="img-fluid rounded z-depth-1 mb-4" %}
 
-While the previous section presents my teaching biography as a narrative, the following table provides a compact overview of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
-
+While the previous section presents my teaching biography as a narrative, the following overview provides a compact view of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
 
 <div class="teaching-timeline">
 
@@ -252,7 +268,16 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2026–present</div>
     <div class="teaching-content">
       <h4>Executive MBA in Digital and Green Transition</h4>
-      <p><strong>Courses / Teaching Areas:</strong> Modules: Digital & Green Economy; Digital Strategies & Business Modelling</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>Digital & Green Economy</span>
+        <span>Digital Strategies & Business Modelling</span>
+        <span>Data-driven value creation</span>
+        <span>Servitization</span>
+        <span>Platform dynamics</span>
+      </div>
+
       <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
     </div>
   </div>
@@ -261,7 +286,18 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2024–present</div>
     <div class="teaching-content">
       <h4>Graz University of Technology</h4>
-      <p><strong>Courses / Teaching Areas:</strong> General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects; Sustainable Business Models for SMEs / Business Model Lab</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>General Management and Organization UE</span>
+        <span>Unternehmensführung und Organisation UE</span>
+        <span>Entrepreneurship VO</span>
+        <span>Entrepreneurship UE</span>
+        <span>Gründungsgarage SE / Startup Garage SE</span>
+        <span>Bachelor and Master Projects</span>
+        <span>Sustainable Business Models for SMEs / Business Model Lab</span>
+      </div>
+
       <p><strong>Format:</strong> Lectures, practical courses, workshops, seminars, project supervision, business model development workshops</p>
     </div>
   </div>
@@ -270,7 +306,20 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2014–2017</div>
     <div class="teaching-content">
       <h4>UAS Technikum Wien</h4>
-      <p><strong>Courses / Teaching Areas:</strong> Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>Aquatic Ecotoxicology</span>
+        <span>Metrology</span>
+        <span>Applied Research Project</span>
+        <span>Selected Topics in Environmental Management</span>
+        <span>Introduction to Chemistry Laboratory</span>
+        <span>Endocrine Disruptors including Laboratory</span>
+        <span>Environmental Chemistry</span>
+        <span>Cell Culture Techniques Laboratory</span>
+        <span>Environmental Analysis Laboratory</span>
+      </div>
+
       <p><strong>Format:</strong> Lectures, laboratories, research seminars, thesis supervision</p>
     </div>
   </div>
@@ -279,7 +328,13 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2003–2004</div>
     <div class="teaching-content">
       <h4>Qiqihar University</h4>
-      <p><strong>Courses / Teaching Areas:</strong> English communication and listening classes</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>English communication</span>
+        <span>English listening classes</span>
+      </div>
+
       <p><strong>Format:</strong> University language teaching</p>
     </div>
   </div>
@@ -288,7 +343,14 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2003–2004</div>
     <div class="teaching-content">
       <h4>Hermann Gmeiner Vocational School, China</h4>
-      <p><strong>Courses / Teaching Areas:</strong> English communication and communication-oriented language classes</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>English communication</span>
+        <span>Communication-oriented language teaching</span>
+        <span>Vocational language learning</span>
+      </div>
+
       <p><strong>Format:</strong> Vocational school language teaching</p>
     </div>
   </div>
@@ -297,7 +359,15 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2003</div>
     <div class="teaching-content">
       <h4>University of Vienna</h4>
-      <p><strong>Courses / Teaching Areas:</strong> German language and Austrian studies for Chinese and Taiwanese exchange students</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>German language teaching</span>
+        <span>Austrian studies</span>
+        <span>Intercultural learning</span>
+        <span>Writing assignments</span>
+      </div>
+
       <p><strong>Format:</strong> Tutorial / language teaching</p>
     </div>
   </div>
@@ -306,13 +376,19 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2001</div>
     <div class="teaching-content">
       <h4>Winton Woods High School, USA</h4>
-      <p><strong>Courses / Teaching Areas:</strong> Introductory PowerPoint unit</p>
+
+      <p><strong>Courses / Teaching Areas:</strong></p>
+      <div class="course-tags">
+        <span>Introductory PowerPoint unit</span>
+        <span>Peer teaching</span>
+        <span>Presentation skills</span>
+      </div>
+
       <p><strong>Format:</strong> Short peer teaching unit</p>
     </div>
   </div>
 
 </div>
-
 <div class="mb-5"></div>
 
 ## Selected Educational Videos
