@@ -28,24 +28,32 @@ nav_order: 4
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
+My teaching is shaped by a simple idea: students should not only understand concepts, but become able to work with them. In management, entrepreneurship, and sustainability-related education, knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, organizational questions, and problems that do not yet have a finished answer.
 
-My teaching is shaped by a simple idea: students should not only understand concepts, but become able to work with them. In management, entrepreneurship, and sustainability-related education, knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, organizational questions, and problems that do not yet have a finished answer. 
+I therefore design learning situations that combine structure and openness. Students need clear explanations, useful frameworks, good examples, and conceptual orientation. At the same time, they need opportunities to ask questions, test ideas, compare perspectives, create visible outputs, receive feedback, and reflect on what they have learned.
 
-I therefore try to design learning situations that combine structure and openness. Students need clear explanations, useful frameworks, good examples, and conceptual orientation. At the same time, they need opportunities to ask questions, test ideas, compare perspectives, create visible outputs, receive feedback, and reflect on what they have learned.
+Curiosity is central to this process. I value teaching situations in which questions open up the learning space: What do we see here? Why might this be the case? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive.
 
-Curiosity is central to this process. I like teaching situations in which questions open up the learning space: What do we see here? Why might this be the case? What changes if we look at the problem from another perspective? I have always appreciated teachers who developed understanding through questions and dialogue. In my own teaching, I try to keep this spirit alive.
+My teaching is strongly influenced by experiential, problem-oriented, and competence-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, simulations, and challenge-based formats. These approaches are especially valuable in entrepreneurship and management education, because students need to learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
-My teaching is strongly influenced by experiential and problem-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, simulations, and challenge-based formats. These approaches are especially valuable in entrepreneurship and management education, because students need to learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
-
-I also believe that good teaching requires a warm and non-threatening learning environment. Students should feel able to ask questions, offer ideas, disagree, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
+I also believe that good teaching requires a warm and non-threatening learning environment. Students should feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
 
 Feedback is another central element of my teaching. I use teacher feedback, peer feedback, discussion, presentation feedback, and structured assessment formats to support learning. Feedback should not only evaluate performance; it should help students see what already works, where their thinking can become sharper, and how they can take the next step.
 
-In this sense, I understand teaching as the design of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action, and gradually develop the confidence to engage with complex problems responsibly.
+In this sense, I understand teaching as the design of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develop the confidence to engage with complex problems responsibly.
 
 ## My Path into Teaching
 
 {% include figure.liquid loading="eager" path="assets/img/my_path_to_teaching.png" title="My Path into Teaching" class="img-fluid rounded z-depth-1 mb-4" %}
+
+Teaching entered my life early and in several very different contexts: first through a short PowerPoint teaching session during my high school year in the United States, then through language teaching with Chinese and Taiwanese students in Vienna, later through fourteen months of English teaching in China, and eventually through academic teaching in environmental science, ecotoxicology, management, entrepreneurship, and sustainability.
+
+Looking back, these experiences shaped my understanding of teaching in a very practical way. I learned that good teaching needs preparation, structure, and clarity, but also presence, flexibility, experimentation, and a willingness to respond to the people in the room. My early teaching experiences were often improvised and resource-constrained; later, my academic teaching became more systematic through Moodle-based course organization, assessment rubrics, case studies, problem-based learning, thesis supervision, and higher education didactics.
+
+Today, at Graz University of Technology, I approach teaching as an ongoing design and learning process. My work in industry, consulting, environmental research, and psychosocial counseling has strengthened my interest in helping students connect concepts with action, ask better questions, and gain confidence when dealing with complex and open-ended problems. This path has led me to see higher education as a space where students prepare not only to reproduce knowledge, but to engage responsibly with the problems of their time.
+
+<details>
+<summary><strong>Read the full teaching biography</strong></summary>
 
 Thinking back, teaching seems to have entered my life several times, often in unexpected and very different ways.
 
@@ -55,13 +63,13 @@ At 19, shortly before going to China, I realized that I would soon be teaching w
 
 I attended the course and was introduced to concepts of language didactics, lesson planning, and learner-oriented teaching. As part of this experience, I also observed teaching practice at a German-as-a-foreign-language institution. I remember the teacher’s style as warm, encouraging, and supportive. This made a strong impression on me, because it showed me that teaching could be structured and professional, but at the same time personal, motivating, and relational.
 
-Around the same time, I taught a small group of Chinese and Taiwanese exchange students who wanted to deepen their German language skills and learn more about Austrian culture. The group was small (around eight or nine students) and this created a very personal learning atmosphere. I prepared lesson plans, gave writing assignments, and worked closely with the texts the students produced. Some of them wrote beautiful reflections on how they perceived Austria and Vienna. I used these texts to identify recurring language patterns and mistakes and then created targeted exercises to help them improve.
+Around the same time, I taught a small group of Chinese and Taiwanese exchange students who wanted to deepen their German language skills and learn more about Austrian culture. The group was small, around eight or nine students, and this created a very personal learning atmosphere. I prepared lesson plans, gave writing assignments, and worked closely with the texts the students produced. Some of them wrote beautiful reflections on how they perceived Austria and Vienna. I used these texts to identify recurring language patterns and mistakes and then created targeted exercises to help them improve.
 
 This was one of my first real experiences of stepping into the role of a teacher. It was not a hierarchical or distant teaching situation, but a warm, authentic, and motivating setting. Looking back, I think this experience shaped something important in my understanding of teaching. Good teaching, as I experienced it there, creates a space in which explanation, attention, trust, dialogue, and curiosity can come together.
 
 At 20, I spent fourteen months teaching English communication and listening classes at Qiqihar University and the Hermann Gmeiner Vocational School in China, with a teaching load of 16 hours per week. I also taught middle school students and worked with a private student in English and German. For someone still very young and still learning how to teach, this was a demanding but formative experience. Especially at the beginning, the conditions were quite simple: for the first months, we had no computer and no internet access. This forced me to work experimentally and creatively. I developed much of the teaching material myself, wrote role plays, prepared students for job interviews, worked with scenes from films, built vocabulary exercises around them, and gained my first experience conducting oral exams.
 
-This period was challenging at first. I had to learn how to stand in front of large groups, create structure, vary methods, and keep students engaged. But it was also a formative experience. By the second semester, I had grown into the role and started to experience teaching as a craft that develops through practice, improvisation, observation, and reflection.
+This period was challenging at first. I had to learn how to stand in front of large groups, create structure, vary methods, and keep students engaged. But it was also formative. By the second semester, I had grown into the role and started to experience teaching as a craft that develops through practice, improvisation, observation, and reflection.
 
 From 2014 to 2017, I taught at the University of Applied Sciences Technikum Wien in areas such as aquatic ecotoxicology, environmental management, metrology, applied research projects, selected topics of environmental management, introductory chemistry laboratory work, endocrine disruptors including laboratory work, environmental chemistry, cell culture techniques, and environmental analysis.
 
@@ -87,6 +95,7 @@ For me, this is also connected to a broader responsibility of university teachin
 
 This path has shaped my current understanding of teaching: good teaching needs preparation and conceptual clarity, but also presence, flexibility, interaction, experimentation, and the courage to let students work with real uncertainty rather than only with finished answers.
 
+</details>
 
 ## My Role as a Teacher
 
