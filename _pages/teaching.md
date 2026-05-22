@@ -97,6 +97,8 @@ This path has shaped my current understanding of teaching: good teaching needs p
 
 </details>
 
+<div class="mb-5"></div>
+
 ## My Role as a Teacher
 
 A concept that has stayed with me since my time at the University of Applied Sciences Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning, and it has become an important orientation point for how I understand my role as a teacher.
