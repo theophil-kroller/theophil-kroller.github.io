@@ -296,7 +296,7 @@ The following overview provides a compact view of selected teaching activities a
   <div class="teaching-content">
     <h4>TU Graz Life Long Learning</h4>
 
-    <p><strong>Programme:</strong> Executive MBA in Digital and Green Transition</p>
+    <p><strong>Programme:</strong> Executive MBA Digital Leadership - Green Microelectronics</p>
 
     <p><strong>Courses / Teaching Areas:</strong></p>
     <div class="course-tags">
@@ -566,7 +566,7 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 <div class="mb-5"></div>
 
-## Executive MBA: Digital and Green Transition
+## Executive MBA: Digital Leadership - Green Microelectronics
 
 As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. I teach within the modules **Digital & Green Economy** and **Digital Strategies & Business Modelling**, focusing on digital transformation, data-driven value creation, servitization, platform dynamics, and strategic business model change.
 
