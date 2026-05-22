@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+<style>
 .teaching-timeline {
   margin-top: 1.5rem;
 }
@@ -54,7 +55,8 @@ nav_order: 4
     width: fit-content;
   }
 }
-
+</style>
+  
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
   <a href="#my-path-into-teaching">My Path into Teaching</a>
