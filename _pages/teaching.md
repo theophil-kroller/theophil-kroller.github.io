@@ -354,16 +354,22 @@ The following overview provides a compact view of selected teaching activities a
     </div>
   </div>
 
-  <div class="teaching-entry">
-    <div class="teaching-period">2003–2004</div>
-    <div class="teaching-content">
-      <h4>Qiqihar University</h4>
+<div class="teaching-entry">
+  <div class="teaching-period">2003–2004</div>
+  <div class="teaching-content">
+    <h4>Qiqihar University</h4>
 
-      <p><strong>Courses / Teaching Areas:</strong></p>
-      <div class="course-tags">
-        <span><span class="course-type">COURSE</span> English Communication</span>
-        <span><span class="course-type">COURSE</span> English Listening</span>
-      </div>
+    <p><strong>Programme:</strong> Bachelor of Arts programme for English majors, first and second year</p>
+
+    <p><strong>Courses / Teaching Areas:</strong></p>
+  <div class="course-tags">
+    <span><span class="course-type">COURSE</span> Oral English / English Communication</span>
+    <span><span class="course-type">COURSE</span> English Listening</span>
+  </div>
+
+    <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination</p>
+  </div>
+</div>
 
       <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination</p>
     </div>
