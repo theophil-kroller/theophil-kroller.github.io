@@ -659,17 +659,23 @@ The Gründungsgarage / Startup Garage business model development workshop also i
 
 My teaching has developed in very different contexts: first through language teaching and intercultural classroom experiences, later through laboratory teaching, research seminars, problem-based learning, and today through entrepreneurship and management education.
 
-Since joining TU Graz, I have taken a much more systematic approach to developing my teaching. The TU Graz Teaching Academy and related didactic training opportunities have helped me refine my teaching practice, become more attentive to classroom presence and interaction, make better use of digital tools, and think more carefully about how students learn.
+Since joining TU Graz, I have taken a more systematic approach to developing my teaching. The TU Graz Teaching Academy and related higher education didactic training opportunities have helped me refine my teaching practice, become more attentive to classroom presence and interaction, make better use of digital tools, and think more carefully about how students learn.
 
-Many of the changes I introduced in Entrepreneurship and General Management and Organization were influenced by my work in the TU Graz Teaching Academy. I am grateful for this programme because it has given me a structured space to think about teaching together with colleagues, try out new ideas, and reflect on my own classroom practice.
+Many of the changes I introduced in Entrepreneurship and General Management and Organization were influenced by my work in the TU Graz Teaching Academy. The programme has given me a structured space to think about teaching together with colleagues, try out new ideas, and reflect on my own classroom practice.
 
 For myself, I have made it a principle to take at least one concrete idea from each didactic course I attend and implement it in one of my own courses. This has worked very well so far. Some ideas have influenced the structure of my sessions, others have changed how I use worksheets, role plays, blackboard work, peer feedback, assessment rubrics, digital tools, or active learning phases.
 
 I especially value the courses on voice and speech training, interactive rhetoric, assessment, digital teaching, generative AI, and education for sustainable development. Some of these workshops helped me become more aware of classroom presence and communication. Others created space for critical reflection with colleagues, for example on the use of AI in teaching, course design, video-based teaching, or the question of how students can work more actively with complex problems.
 
+I am currently completing the Expert Module of the TU Graz Teaching Academy. This module focuses on the documentation, further development, and visibility of professional teaching competence. As part of this process, I am developing this teaching portfolio as a reflective documentation of my teaching philosophy, teaching practice, assessment approaches, feedback culture, and future development goals. For me, the portfolio is not only a certification requirement, but also a way to make my teaching development more visible, coherent, and evidence-based.
 
-| Date | Course / Workshop | Level | Units |
+In addition, I am preparing a contribution to the Teaching Community@TU Graz. I understand this as an opportunity to make selected teaching approaches, materials, or reflections useful beyond my own courses and to contribute to collegial exchange on teaching practice at TU Graz.
+
+| Date / Status | Course / Activity | Level | Units |
 |---|---|---:|---:|
+| Ongoing | Teaching Expert Workshop | Expert | 16 |
+| Ongoing | Teaching Portfolio Development | Expert | 30 |
+| Planned / Ongoing | Contribution to Teaching Community@TU Graz | Expert | 30 |
 | 11.11.2025 | Integrating AI into Teaching (Introduction) | Advanced | 6 |
 | 25.04.2025 | Higher Education Didactics 3: Teaching Behavior Training | Advanced | 16 |
 | 02.04.2025 | Teaching for a Sustainable Future – Education for Sustainable Development (ESD) | Advanced | 14 |
@@ -685,6 +691,10 @@ I especially value the courses on voice and speech training, interactive rhetori
 | 06.02.2024 | Higher Education Didactics 2: Delivering Effective Teaching Sessions | Foundational | 16 |
 | 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
 | 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
+
+<p class="course-note">
+  Ongoing and planned entries refer to activities currently being completed as part of the TU Graz Teaching Academy Expert Module. The Expert Module comprises 76 work units in total: 16 units for the Teaching Expert Workshop, 30 units for the teaching portfolio and/or teaching project, and 30 units for a contribution to Teaching Community@TU Graz.
+</p>
 
 <div class="mb-5"></div>
 
