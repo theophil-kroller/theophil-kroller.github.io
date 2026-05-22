@@ -7,44 +7,53 @@ nav: true
 nav_order: 4
 ---
 
-<style>
 .teaching-timeline {
   margin-top: 1.5rem;
 }
 
 .teaching-entry {
   display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 1.5rem;
-  padding: 1.25rem 0;
+  grid-template-columns: 130px 1fr;
+  gap: 1.75rem;
+  padding: 1.5rem 0;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .teaching-period {
-  font-weight: 600;
-  color: #444;
+  font-weight: 700;
+  color: #222;
+  background: #f5f5f5;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  height: fit-content;
+  text-align: center;
+  font-size: 0.95rem;
 }
 
 .teaching-content h4 {
   margin-top: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.35rem;
 }
 
 .teaching-content p {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.45rem;
+}
+
+.teaching-content strong {
+  color: #111;
 }
 
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
-    gap: 0.3rem;
+    gap: 0.5rem;
   }
 
   .teaching-period {
-    font-size: 0.95rem;
+    width: fit-content;
   }
 }
-</style>
 
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
@@ -234,26 +243,8 @@ In my courses, these practices appear in role plays, group puzzles, customer per
 
 While the previous section presents my teaching biography as a narrative, the following table provides a compact overview of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
 
-| Period | Institution | Courses / Teaching Areas | Format |
-|---|---|---|---|
-| 2026 | Business Model Lab | Sustainable Business Models for SMEs | Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas |
-| 2026–present | Executive MBA in Digital and Green Transition | Modules: Digital & Green Economy; Digital Strategies & Business Modelling | Executive education, case discussion, simulation, transfer exercises |
-| 2024–present | Graz University of Technology | General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects | Lectures, practical courses, workshops, seminars, project supervision |
-| 2014–2017 | UAS Technikum Wien | Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory | Lectures, laboratories, research seminars, thesis supervision |
-| 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
-| 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
-| 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
 
 <div class="teaching-timeline">
-
-  <div class="teaching-entry">
-    <div class="teaching-period">2026</div>
-    <div class="teaching-content">
-      <h4>Business Model Lab</h4>
-      <p><strong>Courses / Teaching Areas:</strong> Sustainable Business Models for SMEs</p>
-      <p><strong>Format:</strong> Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas</p>
-    </div>
-  </div>
 
   <div class="teaching-entry">
     <div class="teaching-period">2026–present</div>
@@ -268,8 +259,8 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2024–present</div>
     <div class="teaching-content">
       <h4>Graz University of Technology</h4>
-      <p><strong>Courses / Teaching Areas:</strong> General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects</p>
-      <p><strong>Format:</strong> Lectures, practical courses, workshops, seminars, project supervision</p>
+      <p><strong>Courses / Teaching Areas:</strong> General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects; Sustainable Business Models for SMEs / Business Model Lab</p>
+      <p><strong>Format:</strong> Lectures, practical courses, workshops, seminars, project supervision, business model development workshops</p>
     </div>
   </div>
 
@@ -285,9 +276,18 @@ While the previous section presents my teaching biography as a narrative, the fo
   <div class="teaching-entry">
     <div class="teaching-period">2003–2004</div>
     <div class="teaching-content">
-      <h4>Qiqihar University / Hermann Gmeiner Vocational School, China</h4>
+      <h4>Qiqihar University</h4>
       <p><strong>Courses / Teaching Areas:</strong> English communication and listening classes</p>
-      <p><strong>Format:</strong> Language teaching</p>
+      <p><strong>Format:</strong> University language teaching</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2003–2004</div>
+    <div class="teaching-content">
+      <h4>Hermann Gmeiner Vocational School, China</h4>
+      <p><strong>Courses / Teaching Areas:</strong> English communication and communication-oriented language classes</p>
+      <p><strong>Format:</strong> Vocational school language teaching</p>
     </div>
   </div>
 
@@ -295,17 +295,17 @@ While the previous section presents my teaching biography as a narrative, the fo
     <div class="teaching-period">2003</div>
     <div class="teaching-content">
       <h4>University of Vienna</h4>
-      <p><strong>Courses / Teaching Areas:</strong> German language and Austrian studies for Chinese exchange students</p>
+      <p><strong>Courses / Teaching Areas:</strong> German language and Austrian studies for Chinese and Taiwanese exchange students</p>
       <p><strong>Format:</strong> Tutorial / language teaching</p>
     </div>
   </div>
 
   <div class="teaching-entry">
-    <div class="teaching-period">2002</div>
+    <div class="teaching-period">2001</div>
     <div class="teaching-content">
       <h4>Winton Woods High School, USA</h4>
       <p><strong>Courses / Teaching Areas:</strong> Introductory PowerPoint unit</p>
-      <p><strong>Format:</strong> Short teaching unit</p>
+      <p><strong>Format:</strong> Short peer teaching unit</p>
     </div>
   </div>
 
