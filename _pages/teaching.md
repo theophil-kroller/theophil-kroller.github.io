@@ -331,28 +331,30 @@ The following overview provides a compact view of selected teaching activities a
     </div>
   </div>
 
-  <div class="teaching-entry">
-    <div class="teaching-period">2014–2017</div>
-    <div class="teaching-content">
-      <h4>UAS Technikum Wien</h4>
+<div class="teaching-entry">
+  <div class="teaching-period">2014–2017</div>
+  <div class="teaching-content">
+    <h4>UAS Technikum Wien</h4>
 
-      <p><strong>Courses / Teaching Areas:</strong></p>
-      <div class="course-tags">
-        <span><span class="course-type">VO</span> Aquatic Ecotoxicology</span>
-        <span><span class="course-type">VO</span> Metrology</span>
-        <span><span class="course-type">PR</span> Applied Research Project Ecotoxicology</span>
-        <span><span class="course-type">PR</span> Applied Research Project Environmental Management</span>
-        <span><span class="course-type">VO</span> Selected Topics in Environmental Management</span>
-        <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory</span>
-        <span><span class="course-type">LAB</span> Endocrine Disruptors including Laboratory</span>
-        <span><span class="course-type">VO</span> Environmental Chemistry</span>
-        <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory</span>
-        <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory</span>
-      </div>
+    <p><strong>Programmes / Student Groups:</strong> Master students in Environmental Management and Ecotoxicology; bachelor students in Biomedical Engineering, Mechanical Engineering, and Industrial Engineering</p>
 
-      <p><strong>Format:</strong> Lectures, laboratories, research seminars, project supervision, thesis supervision</p>
+    <p><strong>Courses / Teaching Areas:</strong></p>
+    <div class="course-tags">
+      <span><span class="course-type">VO</span> Aquatic Ecotoxicology</span>
+      <span><span class="course-type">VO</span> Metrology</span>
+      <span><span class="course-type">PR</span> Applied Research Project Ecotoxicology</span>
+      <span><span class="course-type">PR</span> Applied Research Project Environmental Management</span>
+      <span><span class="course-type">VO</span> Selected Topics in Environmental Management</span>
+      <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory</span>
+      <span><span class="course-type">LAB</span> Endocrine Disruptors including Laboratory</span>
+      <span><span class="course-type">VO</span> Environmental Chemistry</span>
+      <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory</span>
+      <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory</span>
     </div>
+
+    <p><strong>Format:</strong> Lectures, laboratories, research seminars, project supervision, thesis supervision</p>
   </div>
+</div>
 
 <div class="teaching-entry">
   <div class="teaching-period">2003–2004</div>
