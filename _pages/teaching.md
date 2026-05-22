@@ -562,31 +562,19 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 ## Executive MBA: Digital and Green Transition
 
-As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. Within the module, I teach selected sessions on digital economy, data-driven value creation, servitization, and platform dynamics.
+As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. I teach within the modules **Digital & Green Economy** and **Digital Strategies & Business Modelling**, focusing on digital transformation, data-driven value creation, servitization, platform dynamics, and strategic business model change.
 
-One part of the module focuses on the question of how companies can transform data into value. In this context, I work with topics such as customer experience, changing customer expectations in the digital economy, Big Data and Thick Data, and the connection between data, business strategy, and value creation. The aim is to help participants reflect on data not as an end in itself, but as something that becomes meaningful when it supports better customer understanding, better services, and better strategic decisions.
-
-Another part of the module addresses digitalization and servitization. Here, participants engage with the shift from product-centered business models toward service-based, usage-oriented, or performance-oriented value creation. This connects well with questions of digital transformation, customer relationships, and product-service systems.
-
-On the second day, I facilitate the MIT Sloan simulation Platform Wars, developed by John Sterman. The simulation allows participants to experience platform market dynamics in a concrete way. Working in teams, they make strategic decisions on console pricing, royalties for complementors, and subsidies for initial game development. In the debriefing, we discuss reinforcing feedback loops, direct and indirect network effects, complementors, installed base, lock-in, and winner-take-all dynamics.
-
-From a teaching perspective, I value this format because it combines conceptual input, discussion, simulation-based learning, and transfer to participants’ own organizational contexts. This is particularly useful in executive education, where participants bring substantial professional experience and can immediately connect theoretical frameworks to strategic transformation challenges.
+From a teaching perspective, I value the executive education setting because it combines conceptual input, case-based discussion, simulation-based learning, and transfer to participants’ own organizational contexts. Participants bring substantial professional experience, which makes it possible to connect theoretical frameworks directly to strategic transformation challenges.
 
 ## Business Model Lab: Sustainable Business Models
 
 {% include figure.liquid loading="eager" path="assets/img/Workshop2.png" title="Business Model Lab Workshop" class="img-fluid rounded z-depth-1 mb-4" %}
 
-In the **Business Model Lab**, I teach a workshop on sustainable business models for small and medium-sized enterprises. The format is designed to help participants move from sustainability challenges toward concrete business model ideas and prototypes.
+In the **Business Model Lab**, I teach a workshop on sustainable business models for small and medium-sized enterprises. The format helps participants move from broad sustainability challenges toward concrete business model ideas and prototypes.
 
-The workshop starts with an introduction to circular economy and sustainability. This creates a shared conceptual foundation and helps participants understand sustainability not simply as compliance or efficiency improvement, but as a starting point for rethinking value creation.
+The workshop combines conceptual input on circular economy and sustainability with design thinking, sustainable business model patterns, prototyping, and work with the **Flourishing Business Model Canvas**. Participants use these tools to open up the solution space, develop initial ideas, and connect business model innovation with economic, environmental, and societal value creation.
 
-After this input, we introduce design thinking and guide participants toward formulating a design challenge. This step is important because it translates broad sustainability ambitions into a more concrete innovation task.
-
-A central part of the workshop is the use of **45 sustainable business model patterns**. Participants work with these patterns to generate a broad range of ideas. The aim is to open up the solution space and help participants move beyond the first obvious ideas.
-
-In the next step, participants develop a prototype based on selected ideas. In the afternoon, they use this prototype as input for working with the **Flourishing Business Model Canvas**. This allows them to connect their idea to a broader understanding of value creation, including economic, environmental, and societal dimensions.
-
-From a teaching perspective, this format is a good example of how I like to work: conceptual input, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The goal is that participants leave the workshop with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
+From a teaching perspective, this format reflects how I like to work: conceptual orientation, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The aim is that participants leave with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
 
 
 ## Assessment and Learning Outcomes
