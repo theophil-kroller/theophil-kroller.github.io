@@ -205,6 +205,8 @@ While the previous section presents my teaching biography as a narrative, the fo
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
 
+<div class="mb-5"></div>
+
 ## Selected Educational Videos
 
 In addition to classroom-based teaching, I develop educational videos that support asynchronous learning, flipped classroom elements, and conceptual preparation for students. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system and are available through TU Graz TUbe where access rights allow.
@@ -348,6 +350,8 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 </div>
 
+<div class="mb-5"></div>
+
 ## Executive MBA: Digital and Green Transition
 
 As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. Within the module, I teach selected sessions on digital economy, data-driven value creation, servitization, and platform dynamics.
@@ -436,6 +440,7 @@ I especially value the courses on voice and speech training, interactive rhetori
 | 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
 | 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
 
+<div class="mb-5"></div>
 
 ## Future Development
 
