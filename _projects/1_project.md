@@ -2,7 +2,7 @@
 layout: page
 title: Doctoral Research
 description: Strategic decision-making and business model adaptation in sustainability transitions
-img: assets/img/12.jpg
+img: assets/img/doctoral_research_desk.jpg
 importance: 1
 category: research
 published: true
@@ -23,7 +23,7 @@ The project combines a focused systematic literature review with qualitative exp
 
   <div class="col-md-5" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/12.jpg" title="Doctoral Research" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/doctoral_research_desk.jpg" title="Doctoral Research" class="img-fluid rounded z-depth-1" %}
 
 **Status:** ongoing doctoral research  
 
