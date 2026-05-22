@@ -53,13 +53,40 @@ nav_order: 4
 }
 
 .course-tags span {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   padding: 0.28rem 0.65rem;
   border: 1px solid #e2e2e2;
   border-radius: 999px;
   background: #fafafa;
   font-size: 0.92rem;
   line-height: 1.35;
+}
+
+.course-type {
+  display: inline-block;
+  margin-right: 0.38rem;
+  padding: 0.05rem 0.34rem;
+  border-radius: 999px;
+  background: #eeeeee;
+  color: #555;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+}
+
+.course-note {
+  margin-top: -0.3rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.92rem;
+  color: #666;
+}
+
+.course-legend {
+  margin-top: 1.25rem;
+  font-size: 0.9rem;
+  color: #666;
 }
 
 @media (max-width: 768px) {
@@ -271,11 +298,8 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>Digital & Green Economy</span>
-        <span>Digital Strategies & Business Modelling</span>
-        <span>Data-driven value creation</span>
-        <span>Servitization</span>
-        <span>Platform dynamics</span>
+        <span><span class="course-type">MOD</span> Digital & Green Economy</span>
+        <span><span class="course-type">MOD</span> Digital Strategies & Business Modelling</span>
       </div>
 
       <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
@@ -289,16 +313,16 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>General Management and Organization UE</span>
-        <span>Unternehmensführung und Organisation UE</span>
-        <span>Entrepreneurship VO</span>
-        <span>Entrepreneurship UE</span>
-        <span>Gründungsgarage SE / Startup Garage SE</span>
-        <span>Bachelor and Master Projects</span>
-        <span>Sustainable Business Models for SMEs / Business Model Lab</span>
+        <span><span class="course-type">UE</span> General Management and Organization</span>
+        <span><span class="course-type">UE</span> Unternehmensführung und Organisation</span>
+        <span><span class="course-type">VO</span> Entrepreneurship</span>
+        <span><span class="course-type">UE</span> Entrepreneurship</span>
+        <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage</span>
+        <span><span class="course-type">PR</span> Bachelor and Master Projects</span>
+        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs / Business Model Lab</span>
       </div>
 
-      <p><strong>Format:</strong> Lectures, practical courses, workshops, seminars, project supervision, business model development workshops</p>
+      <p><strong>Format:</strong> Lectures, practical courses, seminars, project supervision, business model development workshops</p>
     </div>
   </div>
 
@@ -309,18 +333,18 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>Aquatic Ecotoxicology</span>
-        <span>Metrology</span>
-        <span>Applied Research Project</span>
-        <span>Selected Topics in Environmental Management</span>
-        <span>Introduction to Chemistry Laboratory</span>
-        <span>Endocrine Disruptors including Laboratory</span>
-        <span>Environmental Chemistry</span>
-        <span>Cell Culture Techniques Laboratory</span>
-        <span>Environmental Analysis Laboratory</span>
+        <span><span class="course-type">VO</span> Aquatic Ecotoxicology</span>
+        <span><span class="course-type">VO</span> Metrology</span>
+        <span><span class="course-type">PR</span> Applied Research Project</span>
+        <span><span class="course-type">VO</span> Selected Topics in Environmental Management</span>
+        <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory</span>
+        <span><span class="course-type">LAB</span> Endocrine Disruptors including Laboratory</span>
+        <span><span class="course-type">VO</span> Environmental Chemistry</span>
+        <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory</span>
+        <span><span class="course-type">LAB</span> Environmental Analysis Laboratory</span>
       </div>
 
-      <p><strong>Format:</strong> Lectures, laboratories, research seminars, thesis supervision</p>
+      <p><strong>Format:</strong> Lectures, laboratories, research seminars, project supervision, thesis supervision</p>
     </div>
   </div>
 
@@ -331,11 +355,11 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>English communication</span>
-        <span>English listening classes</span>
+        <span><span class="course-type">COURSE</span> English Communication</span>
+        <span><span class="course-type">COURSE</span> English Listening</span>
       </div>
 
-      <p><strong>Format:</strong> University language teaching</p>
+      <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination</p>
     </div>
   </div>
 
@@ -346,12 +370,11 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>English communication</span>
-        <span>Communication-oriented language teaching</span>
-        <span>Vocational language learning</span>
+        <span><span class="course-type">COURSE</span> English Communication</span>
+        <span><span class="course-type">COURSE</span> Communication-oriented English</span>
       </div>
 
-      <p><strong>Format:</strong> Vocational school language teaching</p>
+      <p><strong>Format:</strong> Regular vocational school language courses with compulsory attendance and final oral assessment/examination</p>
     </div>
   </div>
 
@@ -362,13 +385,13 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>German language teaching</span>
-        <span>Austrian studies</span>
-        <span>Intercultural learning</span>
-        <span>Writing assignments</span>
+        <span><span class="course-type">TUT</span> German language teaching</span>
+        <span><span class="course-type">TUT</span> Austrian studies</span>
+        <span><span class="course-type">TUT</span> Intercultural learning</span>
+        <span><span class="course-type">TUT</span> Writing assignments</span>
       </div>
 
-      <p><strong>Format:</strong> Tutorial / language teaching</p>
+      <p><strong>Format:</strong> Tutorial / language teaching for Chinese and Taiwanese exchange students</p>
     </div>
   </div>
 
@@ -379,9 +402,9 @@ While the previous section presents my teaching biography as a narrative, the fo
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span>Introductory PowerPoint unit</span>
-        <span>Peer teaching</span>
-        <span>Presentation skills</span>
+        <span><span class="course-type">UNIT</span> Introductory PowerPoint unit</span>
+        <span><span class="course-type">UNIT</span> Peer teaching</span>
+        <span><span class="course-type">UNIT</span> Presentation skills</span>
       </div>
 
       <p><strong>Format:</strong> Short peer teaching unit</p>
@@ -389,7 +412,11 @@ While the previous section presents my teaching biography as a narrative, the fo
   </div>
 
 </div>
-<div class="mb-5"></div>
+
+<p class="course-legend">
+  <strong>Course type abbreviations:</strong>
+  VO = lecture, UE = practical course/tutorial, SE = seminar, PR = project, LAB = laboratory, WS = workshop, MOD = module, TUT = tutorial, UNIT = short teaching unit.
+</p>
 
 ## Selected Educational Videos
 
