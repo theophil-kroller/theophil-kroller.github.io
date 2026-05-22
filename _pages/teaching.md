@@ -312,7 +312,7 @@ The following overview provides a compact view of selected teaching activities a
     <div class="teaching-period">2024–present</div>
     <div class="teaching-content">
       <h4>Graz University of Technology</h4>
-
+      <p><strong>Programmes / Student Groups:</strong> Master students in Software Engineering and Management; master students in Production Science and Management; bachelor students in Wirtschaftsingenieurwesen-Maschinenbau (industrial engineering with mechanical engineering focus)</p>
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
         <span><span class="course-type">UE</span> General Management and Organization</span>
