@@ -7,6 +7,45 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+.teaching-timeline {
+  margin-top: 1.5rem;
+}
+
+.teaching-entry {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1.5rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.teaching-period {
+  font-weight: 600;
+  color: #444;
+}
+
+.teaching-content h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.teaching-content p {
+  margin-bottom: 0.4rem;
+}
+
+@media (max-width: 768px) {
+  .teaching-entry {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+  }
+
+  .teaching-period {
+    font-size: 0.95rem;
+  }
+}
+</style>
+
 <div class="teaching-nav">
   <a href="#teaching-philosophy">Teaching Philosophy</a>
   <a href="#my-path-into-teaching">My Path into Teaching</a>
@@ -204,6 +243,73 @@ While the previous section presents my teaching biography as a narrative, the fo
 | 2003–2004 | Qiqihar University / Hermann Gmeiner Vocational School, China | English communication and listening classes | Language teaching |
 | 2003 | University of Vienna | German language and Austrian studies for Chinese exchange students | Tutorial / language teaching |
 | 2002 | Winton Woods High School, USA | Introductory PowerPoint unit | Short teaching unit |
+
+<div class="teaching-timeline">
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2026</div>
+    <div class="teaching-content">
+      <h4>Business Model Lab</h4>
+      <p><strong>Courses / Teaching Areas:</strong> Sustainable Business Models for SMEs</p>
+      <p><strong>Format:</strong> Workshop, design thinking, business model patterns, prototyping, Flourishing Business Model Canvas</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2026–present</div>
+    <div class="teaching-content">
+      <h4>Executive MBA in Digital and Green Transition</h4>
+      <p><strong>Courses / Teaching Areas:</strong> Modules: Digital & Green Economy; Digital Strategies & Business Modelling</p>
+      <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2024–present</div>
+    <div class="teaching-content">
+      <h4>Graz University of Technology</h4>
+      <p><strong>Courses / Teaching Areas:</strong> General Management and Organization UE; Unternehmensführung und Organisation UE; Entrepreneurship VO; Entrepreneurship UE; Gründungsgarage SE / Startup Garage SE; Bachelor and Master Projects</p>
+      <p><strong>Format:</strong> Lectures, practical courses, workshops, seminars, project supervision</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2014–2017</div>
+    <div class="teaching-content">
+      <h4>UAS Technikum Wien</h4>
+      <p><strong>Courses / Teaching Areas:</strong> Aquatic Ecotoxicology; Metrology; Applied Research Project; Selected Topics in Environmental Management; Introduction to Chemistry Laboratory; Endocrine Disruptors including Laboratory; Environmental Chemistry; Cell Culture Techniques Laboratory; Environmental Analysis Laboratory</p>
+      <p><strong>Format:</strong> Lectures, laboratories, research seminars, thesis supervision</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2003–2004</div>
+    <div class="teaching-content">
+      <h4>Qiqihar University / Hermann Gmeiner Vocational School, China</h4>
+      <p><strong>Courses / Teaching Areas:</strong> English communication and listening classes</p>
+      <p><strong>Format:</strong> Language teaching</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2003</div>
+    <div class="teaching-content">
+      <h4>University of Vienna</h4>
+      <p><strong>Courses / Teaching Areas:</strong> German language and Austrian studies for Chinese exchange students</p>
+      <p><strong>Format:</strong> Tutorial / language teaching</p>
+    </div>
+  </div>
+
+  <div class="teaching-entry">
+    <div class="teaching-period">2002</div>
+    <div class="teaching-content">
+      <h4>Winton Woods High School, USA</h4>
+      <p><strong>Courses / Teaching Areas:</strong> Introductory PowerPoint unit</p>
+      <p><strong>Format:</strong> Short teaching unit</p>
+    </div>
+  </div>
+
+</div>
 
 <div class="mb-5"></div>
 
