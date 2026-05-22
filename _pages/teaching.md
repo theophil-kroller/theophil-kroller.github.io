@@ -122,19 +122,19 @@ nav_order: 4
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-My teaching is shaped by a simple idea: students should not only understand concepts, but become able to work with them. In management, entrepreneurship, and sustainability-related education, knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, organizational questions, and problems that do not yet have a finished answer.
+My teaching is shaped the idea that students should not only understand concepts, but become able to work with them. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
 
 I therefore design learning situations that combine structure and openness. Students need clear explanations, useful frameworks, good examples, and conceptual orientation. At the same time, they need opportunities to ask questions, test ideas, compare perspectives, create visible outputs, receive feedback, and reflect on what they have learned.
 
-Curiosity is central to this process. I value teaching situations in which questions open up the learning space: What do we see here? Why might this be the case? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive.
+For me curiosity is central to this process. I value teaching situations in which questions open up the learning space: What do we see here? Why might this be the case? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive.
 
-My teaching is strongly influenced by experiential, problem-oriented, and competence-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, simulations, and challenge-based formats. These approaches are especially valuable in entrepreneurship and management education, because students need to learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
+My teaching is strongly influenced by experiential, problem-oriented, and competence-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, simulations, and challenge-based formats. These approaches are very applicable and valuable for engineering students in entrepreneurship and management education, because these students should learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
 I also believe that good teaching requires a warm and non-threatening learning environment. Students should feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
 
 Feedback is another central element of my teaching. I use teacher feedback, peer feedback, discussion, presentation feedback, and structured assessment formats to support learning. Feedback should not only evaluate performance; it should help students see what already works, where their thinking can become sharper, and how they can take the next step.
 
-In this sense, I understand teaching as the design of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develop the confidence to engage with complex problems responsibly.
+In this sense, I understand teaching as the designing of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develop the confidence to engage with complex problems responsibly.
 
 ## My Path into Teaching
 
@@ -195,11 +195,11 @@ Thinking back, teaching seems to have entered my life several times, often in un
 
 ## My Role as a Teacher
 
-A concept that has stayed with me since my time at the University of Applied Sciences Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning, and it has become an important orientation point for how I understand my role as a teacher.
+A concept that has stayed with me since my time at the UAS Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning and it resonated strongly with me.
 
 Students need orientation, frameworks, examples, and sometimes also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
 
-I understand my role more as designing and facilitating learning situations. I try to create settings in which students can work with concepts, ask questions, test ideas, compare perspectives, and gradually develop their own understanding. Depending on the situation, this may involve slides, blackboard work, flipcharts, worksheets, role plays, group discussions, case studies, peer feedback, or visible outputs such as posters, canvases, models, and presentations.
+I understand my role more as one of designing and facilitating learning situations. I try to create settings in which students can work with concepts, ask questions, test ideas, compare perspectives, and gradually develop their own understanding. Depending on the situation, this may involve slides, blackboard work, flipcharts, worksheets, role plays, group discussions, case studies, peer feedback, or visible outputs such as posters, canvases, models, and presentations.
 
 I also try to create a classroom atmosphere that is warm, respectful, and intellectually alive. I value it when students bring in their own experiences, disciplinary perspectives, professional knowledge, or critical questions. This diversity makes the classroom richer.
 
@@ -208,7 +208,7 @@ I also try to create a classroom atmosphere that is warm, respectful, and intell
 
 My teaching design is guided by a small number of didactic frameworks that I use as practical orientation tools. They help me think about what students should learn, how learning activities should be structured, how assessment can support learning, and how students can become active participants in their own competence development.
 
-The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations. Across these frameworks, I value active learning, reflection, application, visible outputs, and feedback.
+The following frameworks have become reference points for me regarding how I design teaching, learning activities, and assessment. I like to see them as practical lenses through which I creatie new learning situations.
 
 <div class="row align-items-start mt-4 mb-5">
   <div class="col-md-5" markdown="1">
@@ -239,9 +239,9 @@ In my courses, this becomes concrete through business plan rubrics, presentation
 
 #### Bloom’s Taxonomy
 
-Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
+Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me to design activities and exam questions in such a way that they go behind the level of remembering and understanding, and move towards the higher levels of applying, analyzing, evaluating, and creating.
 
-I use this especially when designing tasks. Examples include classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and reflecting on the quality of startup ideas.
+Examples how I used this so far are: classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and making students actively participate in reflecting the quality of startup ideas of other groups through a role card set.
 
   </div>
 </div>
@@ -257,7 +257,7 @@ I use this especially when designing tasks. Examples include classifying leaders
 
 #### Education for Sustainable Development
 
-Education for Sustainable Development has become an important reference point for my teaching, especially in courses dealing with sustainability, entrepreneurship, management, and business model innovation. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
+Education for Sustainable Development has become an important reference point for my teaching. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
 
 These competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection. For this reason, ESD connects closely with my interest in challenge-based learning and in teaching formats that ask students to work with complexity rather than only reproduce established answers.
 
@@ -287,7 +287,7 @@ In my courses, these practices appear in role plays, group puzzles, customer per
 
 {% include figure.liquid loading="eager" path="assets/img/Courses.png" title="Course Overview" class="img-fluid rounded z-depth-1 mb-4" %}
 
-While the previous section presents my teaching biography as a narrative, the following overview provides a compact view of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
+The following overview provides a compact view of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
 
 <div class="teaching-timeline">
 
@@ -420,7 +420,7 @@ While the previous section presents my teaching biography as a narrative, the fo
 
 In addition to classroom-based teaching, I develop educational videos that support asynchronous learning, flipped classroom elements, and conceptual preparation for students. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system and are available through TU Graz TUbe where access rights allow.
 
-Some videos may require TU Graz login credentials or course-related access rights.
+Note: The videos require TU Graz login credentials in order to be viewed.
 
 ### Business Model Innovation
 
@@ -456,7 +456,7 @@ The video explains how business models create, deliver, and capture value, and h
 
 ## Selected Teaching Examples
 
-The following examples illustrate how I translate conceptual frameworks into applied learning formats. Many of these formats emerged from a very practical question: how can I move students from listening to concepts toward working with them?
+The following examples illustrate how I have translated conceptual frameworks into applied learning formats. Many of these formats emerged from a very practical question: how can I move students from listening to concepts toward working with them?
 
 ### Entrepreneurship: Business Plan Group Puzzle
 
@@ -530,14 +530,13 @@ In a future version of this teaching portfolio, I plan to include selected feedb
 
 {% include figure.liquid loading="eager" path="assets/img/master_thesis_supervision.png" title="Thesis Supervision" class="img-fluid rounded z-depth-1 mb-4" %}
 
-Thesis supervision is an important part of my teaching profile. I understand bachelor’s and master’s thesis supervision not only as an assessment-related task, but as a mentoring process in which students are introduced more deeply to academic work.
+Thesis supervision is an important part of my teaching profile. I understand bachelor’s and master’s thesis supervision as a mentoring process in which students often make their first steps with scientific working.
 
-What I enjoy most about supervising theses is the opportunity to accompany students at a formative moment in their academic development. Many students are still learning what it means to work scientifically: how to find good sources, how to distinguish description from analysis, how to build an argument, how to reflect critically, and how to handle uncertainty in a research process. I see my role as helping them enter this way of thinking with more confidence and orientation.
+Many students at this stage are still learning what it means to work scientifically: how to find good sources, how to distinguish description from analysis, how to build an argument, how to reflect critically, and how to handle uncertainty in a research process. 
 
-For me, thesis supervision means helping students move from a first idea toward a clearly structured academic project. This includes orientation, feedback, methodological guidance, encouragement, and sometimes also the reassurance that uncertainty is a normal part of research. Ideally, students leave the process not only with a completed thesis, but with a stronger understanding of how scientific inquiry works.
+For me, thesis supervision means helping students move from a first idea toward a clearly structured academic project. This includes an initial orientation, regular feedback checkings, methodological guidance, and encouragement.
 
-My supervision activities include completed and ongoing theses at TU Graz and previous thesis-related assessment activities at UAS Technikum Wien. The topics are located at the intersection of management, organization, sustainability, technology, business models, process analysis, environmental research, and applied ecotoxicology.
-
+My supervision activities include completed and ongoing theses at TU Graz and previous thesis-related guidance and assessment activities at UAS Technikum Wien. 
 The table below includes publicly listed theses with catalogue links, as well as selected ongoing or recently completed supervision activities that are not yet listed in public repositories.
 
 
@@ -545,9 +544,9 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 | Level | Student | Title / Topic | Institution | Role | Status / Year |
 |---|---|---|---|---|---|
-| Bachelor thesis | Muhammad Musa Müller | Adoption digitaler Lernplattformen im regulierten öffentlichen Bildungssystem: Institutionelle Barrieren und Erfolgsfaktoren bei der Einführung | TU Graz | Supervisor | Ongoing / not yet listed |
-| Master thesis | Michael Sanin | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
-| Master thesis | Oana Emilia Bodirnea | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing / registration pending |
+| Bachelor thesis | Muhammad Musa Müller | Adoption digitaler Lernplattformen im regulierten öffentlichen Bildungssystem: Institutionelle Barrieren und Erfolgsfaktoren bei der Einführung | TU Graz | Supervisor | Ongoing |
+| Master thesis | Michael Sanin | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing |
+| Master thesis | Oana Emilia Bodirnea | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing |
 | Master thesis | Anna-Caterina Amann | Fostering cooperative urban logistics hubs | TU Graz | Co-supervisor | Ongoing |
 | Master thesis | Gregor Moritz | Konzept zur multidisziplinären Umsetzung von technologischen Innovationen bei voestalpine Tubulars | TU Graz | Co-supervisor | Ongoing |
 | Master thesis | Sebastian Harringer | [Impact strategy optimization in the case of the Horizon Europe project EM-TECH](https://permalink.obvsg.at/AC17770060) | TU Graz | Co-supervisor | Published / 2026 |
@@ -569,7 +568,7 @@ One part of the module focuses on the question of how companies can transform da
 
 Another part of the module addresses digitalization and servitization. Here, participants engage with the shift from product-centered business models toward service-based, usage-oriented, or performance-oriented value creation. This connects well with questions of digital transformation, customer relationships, and product-service systems.
 
-On the second day, I facilitate the MIT Sloan simulation **Platform Wars**, developed by John Sterman. The simulation allows participants to experience platform market dynamics in a concrete way. Working in teams, they make strategic decisions on console pricing, royalties for complementors, and subsidies for initial game development. In the debriefing, we discuss reinforcing feedback loops, direct and indirect network effects, complementors, installed base, lock-in, and winner-take-all dynamics.
+On the second day, I facilitate the MIT Sloan simulation Platform Wars, developed by John Sterman. The simulation allows participants to experience platform market dynamics in a concrete way. Working in teams, they make strategic decisions on console pricing, royalties for complementors, and subsidies for initial game development. In the debriefing, we discuss reinforcing feedback loops, direct and indirect network effects, complementors, installed base, lock-in, and winner-take-all dynamics.
 
 From a teaching perspective, I value this format because it combines conceptual input, discussion, simulation-based learning, and transfer to participants’ own organizational contexts. This is particularly useful in executive education, where participants bring substantial professional experience and can immediately connect theoretical frameworks to strategic transformation challenges.
 
