@@ -112,21 +112,9 @@ I also try to create a classroom atmosphere that is warm, respectful, and intell
 
 ## Didactic Influences and Design Principles
 
-My teaching design is shaped by several didactic frameworks that I use as practical orientation points. They help me think more clearly about what students should learn, how learning activities should be structured, how assessment can support learning, and how students can become active participants in their own competence development.
+My teaching design is guided by a small number of didactic frameworks that I use as practical orientation tools. They help me think about what students should learn, how learning activities should be structured, how assessment can support learning, and how students can become active participants in their own competence development.
 
-A central reference point is **constructive alignment**. For me, this means that learning outcomes, teaching and learning activities, and assessment should form a coherent whole. Students should not only hear about concepts, but work with them in ways that prepare them for the kinds of outputs, decisions, and performances that are later assessed. This principle has influenced how I design worksheets, rubrics, presentation tasks, business plan assignments, and case-based classroom activities.
-
-I also use **Bloom’s Taxonomy** as a practical lens for thinking about the depth of learning. In entrepreneurship and management education, I do not want students to remain only at the level of remembering or understanding. They should apply concepts, analyze situations, evaluate alternatives, and create their own outputs, for example through organizational charts, leadership classifications, business model ideas, market analyses, personas, pitch feedback, or sustainable business model prototypes.
-
-Whenever possible I draw on principles of **Education for Sustainable Development**. These include systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence. Such competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection.
-
-A further influence on my entrepreneurship teaching is the practice-based approach associated with Babson College. The five practices of entrepreneurship education (**play, empathy, creation, experimentation, and reflection**) provide a useful language for what I try to create in the classroom. In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, prototyping exercises, peer feedback, and reflective discussion.
-
-All of these frameworks support the way that I understand teaching: students need conceptual structure, but they also need space to try things out, compare perspectives, make decisions, receive feedback, and reflect on what they have learned. Good teaching, in my eyes, combines clarity and openness, structure and experimentation and knowledge and action.
-
-### Visual Frameworks
-
-The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations for students. I value active learning, reflective practices by discussion with a partner, and the capability of applying knowledge.
+The following frameworks are central reference points for how I design teaching, learning activities, and assessment. I use them not as abstract theory, but as practical lenses for structuring learning situations. Across these frameworks, I value active learning, reflection, application, visible outputs, and feedback.
 
 <div class="row align-items-start mt-4 mb-5">
   <div class="col-md-5" markdown="1">
@@ -141,7 +129,7 @@ The following frameworks are central reference points for how I design teaching,
 
 Constructive alignment helps me connect intended learning outcomes, teaching and learning activities, and assessment formats. In my teaching practice, this means that I try to design sessions backwards: first asking what students should be able to do, then choosing activities that allow them to practice this, and finally using assessment formats that make these competences visible.
 
-In my teaching, this then becomes concrete in the form of business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, and group artefacts. I ask students to apply concepts in ways that correspond to the intended learning outcomes.
+In my courses, this becomes concrete through business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, group artefacts, and classroom discussions. Students are asked to apply concepts in ways that correspond to the intended learning outcomes.
 
   </div>
 </div>
@@ -157,9 +145,9 @@ In my teaching, this then becomes concrete in the form of business plan rubrics,
 
 #### Bloom’s Taxonomy
 
-When I devise a new teaching activity, it is Bloom’s Taxonomy that supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
+Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me that students should not remain only at the level of remembering and understanding, but should move toward applying, analyzing, evaluating, and creating.
 
-I use this especially when designing tasks. Examples are: students classify leadership behavior, analyze organizational structures, evaluate business model options, develop personas and organizatas, create market-sizing logic, design business plan sections, and reflect the quality of their startup ideas.
+I use this especially when designing tasks. Examples include classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and reflecting on the quality of startup ideas.
 
   </div>
 </div>
@@ -175,7 +163,9 @@ I use this especially when designing tasks. Examples are: students classify lead
 
 #### Education for Sustainable Development
 
-Education for Sustainable Development ihas become an important tool for all courses that I teach. It is a framework that makes sure that our students stay competitive in todays global economy. What I love about it is that it emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
+Education for Sustainable Development has become an important reference point for my teaching, especially in courses dealing with sustainability, entrepreneurship, management, and business model innovation. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
+
+These competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection. For this reason, ESD connects closely with my interest in challenge-based learning and in teaching formats that ask students to work with complexity rather than only reproduce established answers.
 
   </div>
 </div>
@@ -191,9 +181,9 @@ Education for Sustainable Development ihas become an important tool for all cour
 
 #### Five Practices of Entrepreneurship Education
 
-The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
+The five practices of entrepreneurship education — play, empathy, creation, experimentation, and reflection — provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
 
-In my courses, these practices appear in the form of role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
+In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
 
   </div>
 </div>
@@ -203,7 +193,7 @@ In my courses, these practices appear in the form of role plays, group puzzles, 
 
 {% include figure.liquid loading="eager" path="assets/img/Courses.png" title="Course Overview" class="img-fluid rounded z-depth-1 mb-4" %}
 
-The following overview summarizes selected teaching activities across different institutions and phases of my teaching biography. It starts with my current teaching and then moves back chronologically.
+While the previous section presents my teaching biography as a narrative, the following table provides a compact overview of selected teaching activities across institutions and phases of my career. It starts with my current teaching and then moves back chronologically.
 
 | Period | Institution | Courses / Teaching Areas | Format |
 |---|---|---|---|
@@ -324,16 +314,6 @@ At the end of the workshop, the teams work toward a clearer understanding of how
 
 In a future version of this teaching portfolio, I plan to include selected feedback from the workshop evaluation forms to document the learning experience more systematically.
 
-### Assessment Rubrics and Course Alignment
-
-In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent.
-
-In the Entrepreneurship course, the rubric supports the assessment of student business plans. It provides a shared reference point for evaluating the different parts of the business plan and helps align expectations between lecturers, students, and external startup guests involved in the course.
-
-In General Management and Organization, I introduced a rubric for student presentations. This makes it easier to assess presentations consistently and to provide more structured feedback.
-
-For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
-
 
 ## Thesis Supervision
 
@@ -405,13 +385,9 @@ My teaching aims to connect learning outcomes, learning activities, and assessme
 
 A recurring principle in my course design is that students should produce visible outputs: organizational charts, matrices, posters, business model elements, persona profiles, market sizing exercises, pitch feedback, written business plan sections, or prototypes. These outputs make learning more concrete and give us something to discuss, compare, and improve in class.
 
-In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent.
+Rubrics are an important part of this approach. In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent. In the Entrepreneurship course, the rubric supports the assessment of student business plans and provides a shared reference point for lecturers, students, and external startup guests involved in the course. In General Management and Organization, I introduced a rubric for student presentations, which makes it easier to assess presentations consistently and to provide structured feedback.
 
-In the Entrepreneurship course, the rubric supports the assessment of student business plans. It provides a shared reference point for evaluating the different parts of the business plan and helps align expectations between lecturers, students, and external startup guests involved in the course.
-
-In General Management and Organization, I introduced a rubric for student presentations. This makes it easier to assess presentations consistently and to provide more structured feedback.
-
-For me, these rubrics are assessment tools, but they are also communication tools. They clarify what quality means in a course. They help students understand what is expected and support a stronger alignment between learning activities, outputs, and evaluation.
+For me, rubrics are not only assessment tools, but also communication tools. They clarify what quality means in a course, help students understand what is expected, and support stronger alignment between learning activities, outputs, and evaluation.
 
 [Add later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
