@@ -238,7 +238,7 @@ This educational video introduces the concept of sustainable business models and
 The video explains how business models create, deliver, and capture value, and how sustainable, circular, and regenerative business models extend this logic by integrating environmental and social value creation.
 
 **Language:** English  
-**Video:** [Watch on TUbe](https://tube.tugraz.at/portal/watch/e0b27f0e-aa28-4ca1-93af-d3a1bd01dd5a)  
+**Video:** [Watch on TUbe](https://tube.tugraz.at/portal/watch/43505ac5-9268-4b01-afca-0527c00873cf)  
 **Documentation:** [TU Graz Pure / OKD entry](https://tugraz.elsevierpure.com/en/publications/sustainable-business-models-2/)
 
 
