@@ -575,7 +575,14 @@ A central part of the format is that student teams challenge each other. They wo
 
 At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. This is often a productive moment, because the game makes business model development tangible, social, and iterative. The format is highly interactive and has received positive feedback from students.
 
-In a future version of this teaching portfolio, I plan to include selected feedback from the workshop evaluation forms to document the learning experience more systematically.
+### Early Teaching Example: World Affairs Discussion Format
+
+During my teaching year in China, I experimented with an alternative to traditional student presentations in English communication classes. Instead of asking students to give short monological presentations, I asked them to prepare a short opening statement on a topic from world affairs and then moderate a discussion with their classmates.
+
+The aim was to move students from prepared speaking toward communicative action: asking questions, responding to others, guiding a conversation, and keeping a discussion alive. Together with my mother, who was an English teacher, I developed a simple grading rubric for this format and made the assessment criteria transparent to students. At the end, students also submitted a short reflective statement summarizing the discussion.
+
+Looking back, this was one of my first experiences of aligning task, assessment, and learning outcome. The format worked very well and received positive feedback from students, because it allowed them to practice communication in a more authentic and interactive way than a traditional presentation format.
+
 
 
 ## Thesis Supervision
@@ -641,6 +648,10 @@ Rubrics are an important part of this approach. In both Entrepreneurship and Gen
 
 For me, rubrics are not only assessment tools, but also communication tools. They clarify what quality means in a course, help students understand what is expected, and support stronger alignment between learning activities, outputs, and evaluation.
 
+My interest in transparent assessment already developed during my time at UAS Technikum Wien. In laboratory teaching, I introduced entrance checks to ensure that students engaged with the theoretical background before entering the laboratory. This improved preparation and made the laboratory sessions more productive and safer.
+
+I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
+
 [Add later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
 ## Feedback and Evidence
@@ -652,6 +663,8 @@ I use feedback as a central part of my teaching development. In the past, I have
 I try to translate feedback into concrete improvements. When feedback points to possible changes, I document it directly in my teaching materials so that it can inform the next course iteration.
 
 The Gründungsgarage / Startup Garage business model development workshop also includes feedback forms, which I plan to evaluate and incorporate into this teaching portfolio at a later point. This would allow me to document more systematically how students experience interactive formats such as the Leap Game.
+
+An area I am currently developing is my own way of working with critical feedback. I want to become better at distinguishing between individual opinions and recurring patterns, and at translating useful criticism into concrete improvements without taking every critical comment personally. For me, this is part of developing a more professional feedback culture: feedback should not only confirm what works, but also help identify where learning activities, instructions, materials, or assessment criteria can become clearer.
 
 [Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, feedback from the Gründungsgarage / Startup Garage business model development workshop, and examples of changes made in response to feedback.]
 
@@ -765,10 +778,12 @@ In addition, I am preparing a contribution to the Teaching Community@TU Graz. I 
 
 ## Future Development
 
-This section is currently being expanded.
+In the next phase of my teaching development, I want to further strengthen experimentation, reflection, and active student engagement in my courses. In entrepreneurship education especially, I see potential to create more structured opportunities for students to test assumptions, reflect on their learning process, and connect theoretical concepts with entrepreneurial action.
 
-In the future, I want to further strengthen experimentation and reflection in my courses. In entrepreneurship education especially, I see potential to create more structured opportunities for students to test assumptions, reflect on their learning process, and connect theoretical concepts with entrepreneurial action.
+First, I want to strengthen free teaching sequences and reduce my dependence on slides and the lectern. Slides will remain useful for orientation, structure, and conceptual clarity, but I would like to work more with blackboards, whiteboards, flipcharts, prepared visual structures, and movement in the room. My aim is to create more moments in which ideas are developed visibly together with students.
 
-I also want to continue developing teaching formats that move beyond slide-based input: more free teaching sequences, more active student work, more structured reflection, and more formats where students create visible outputs.
+Second, I want to prepare active learning phases more systematically. This includes clearer learning outcomes for individual sessions, more structured worksheets and materials, and better-planned transitions between short input, student work, discussion, and reflection. I want students to engage more often with concepts through visible outputs such as sketches, matrices, personas, organizatas, canvases, posters, role cards, and structured peer feedback.
 
-In upcoming workshops, I want to bring in sustainable business model thinking more strongly and help participants move from broad sustainability challenges toward concrete business model ideas.
+Third, I want to deepen the connection between research, sustainability, and teaching. I am especially interested in Education for Sustainable Development and in creating more learning situations in which students work with open, research-informed questions around entrepreneurship, management, sustainability, and business model innovation. In upcoming workshops, I want to bring in sustainable business model thinking more strongly and help participants move from broad sustainability challenges toward concrete business model ideas.
+
+Finally, I want to use feedback more systematically as a basis for future development. In addition to official course evaluations, I plan to collect short activity-specific feedback on selected learning formats such as worksheets, design thinking sessions, role plays, persona and organizata maps, pitch feedback role cards, and business model development workshops. This should help me better understand which activities support student learning and where my course design can become clearer, more coherent, and more effective.
