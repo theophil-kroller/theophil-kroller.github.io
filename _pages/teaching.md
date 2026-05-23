@@ -159,6 +159,7 @@ body.dark .teaching-timeline {
   <a href="#assessment-and-learning-outcomes">Assessment</a>
   <a href="#feedback-and-evidence">Feedback</a>
   <a href="#evidence-of-teaching-development">Teaching Development</a>
+  <a href="#developing-my-teaching-competence-from-experience-to-professional-practice">Teaching Competence</a>
   <a href="#professional-development-in-teaching">Professional Development</a>
   <a href="#future-development">Future Development</a>
 </div>
