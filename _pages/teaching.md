@@ -168,19 +168,19 @@ body.dark .teaching-timeline {
 
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-My teaching is shaped by the idea that students should move behind understanding concepts and become able to work with them. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
+My core belief is that it is our job as teachers to prepare students to be ready and able to solve the problems of their time. I want to teach in such a way that students learn transferable skills, grow as a person and are able to contribute in an internationally competitive environment. In order to achieve this, I believe it is important that students move behind just understanding concepts and become able to work with them. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
 
-I therefore design learning situations that combine structure and openness. Students need clear explanations, useful frameworks, good examples, and conceptual orientation. At the same time, they need opportunities to ask questions, test ideas, compare perspectives, create visible outputs, receive feedback, and reflect on what they have learned.
+I therefore design learning situations in such a way that they combine structure and openness. Students need clear explanations, useful frameworks, good examples and best practice stories. At the same time, they need opportunities to ask questions (without being judged), test their ideas, compare their perspectives to others, create visible outputs, receive feedback (peer feedback and lecturer feedback), and reflect on what they have learned.
 
-For me curiosity is central to this process. I value teaching situations in which questions open up the learning space: What do we see here? Why might this be the case? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive.
+In all of this, curiosity is the central element that guides this process. I value teaching situations in which questions open up the learning space: i.e What do we observe here? Why might this be the case? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive.
 
 My teaching is strongly influenced by experiential, problem-oriented, and competence-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, workshops, business model tools, simulations, and challenge-based formats. These approaches are very applicable and valuable for engineering students in entrepreneurship and management education, because these students should learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
 I also believe that good teaching requires a warm and non-threatening learning environment. Students should feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
 
-Feedback is another central element of my teaching. I use teacher feedback, peer feedback, discussion, presentation feedback, and structured assessment formats to support learning. Feedback should not only evaluate performance; it should help students see what already works, where their thinking can become sharper, and how they can take the next step.
+Feedback is another central element of my teaching. I use teacher feedback, peer feedback, discussion, presentation feedback, and structured assessment formats to support learning. Feedback should not only evaluate performance; it should help students see what already works, where their thinking can become sharper, and how they can take the next steps.
 
-In this sense, I understand teaching as the designing of learning spaces. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develop the confidence to engage with complex problems responsibly.
+In this sense, I understand teaching as the designing of learning spaces where learning experiences can unfold. These spaces need preparation, structure, and conceptual clarity, but also interaction, experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develop the confidence to engage with complex problems responsibly.
 
 ## My Path into Teaching
 
@@ -241,7 +241,7 @@ Thinking back, teaching seems to have entered my life several times, often in un
 
 ## My Role as a Teacher
 
-A concept that has stayed with me since my time at the UAS Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning and it resonated strongly with me.
+A concept that has stayed with me since my time as a lecturer at the UAS Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning and it resonated strongly with me.
 
 Students need orientation, frameworks, examples, and sometimes also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
 
@@ -321,7 +321,7 @@ These competences are difficult to develop through input alone. They require ope
 
 #### Five Practices of Entrepreneurship Education
 
-The five practices of entrepreneurship education — play, empathy, creation, experimentation, and reflection — provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
+The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
 
 In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
 
@@ -658,11 +658,9 @@ My interest in transparent assessment already developed during my time at UAS Te
 
 I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
 
-[Add later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
+[Placeholder Space - maybe add the following examples later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
 ## Feedback and Evidence
-
-This section is currently being expanded.
 
 I use feedback as a central part of my teaching development. In the past, I have worked with oral feedback, institutional evaluation forms, written feedback, and informal student reflections. In the Entrepreneurship course, we actively ask students what their highlights were and what they would like to see more of.
 
@@ -672,7 +670,7 @@ The Gründungsgarage / Startup Garage business model development workshop also i
 
 An area I am currently developing is my own way of working with critical feedback. I want to become better at distinguishing between individual opinions and recurring patterns, and at translating useful criticism into concrete improvements without taking every critical comment personally. For me, this is part of developing a more professional feedback culture: feedback should not only confirm what works, but also help identify where learning activities, instructions, materials, or assessment criteria can become clearer.
 
-[Add later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, feedback from the Gründungsgarage / Startup Garage business model development workshop, and examples of changes made in response to feedback.]
+[Placeholder Space - maybe add the following examples later: selected anonymized student feedback, peer feedback, teaching evaluation evidence, feedback from the Gründungsgarage / Startup Garage business model development workshop, and examples of changes made in response to feedback.]
 
 ## Evidence of Teaching Development
 
