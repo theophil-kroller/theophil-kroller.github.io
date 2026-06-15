@@ -10,8 +10,7 @@ contact_note: >
 description: >
   Academic profile and teaching portfolio of Theophil Kroller, Research and Teaching Fellow at Graz University of Technology, focusing on entrepreneurship education, management, organization, business model innovation, and sustainability-oriented transformation.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Academic profile and teaching portfolio.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
