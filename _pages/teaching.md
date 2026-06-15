@@ -691,6 +691,30 @@ At the end of the workshop, the teams work toward a clearer understanding of how
 
 ### Early Teaching Example: World Affairs Discussion Format
 
+
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Early_Teaching_No28_Middle_School.JPG" title="Early Teaching in China: No. 28 Middle School" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Early_Teaching_No28_Middle_School2.JPG" title="Early Teaching in China: No. 28 Middle School Classroom" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Early_Teaching_Roleplay_and_World_Affairs1.JPG" title="Early Teaching in China: Role Play and Discussion" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Early_Teaching_Roleplay_and_World_Affairs2.JPG" title="Early Teaching in China: World Affairs Discussion" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 During my teaching year in China, I experimented with an alternative to traditional student presentations in English communication classes. Instead of asking students to give short monological presentations, I asked them to prepare a short opening statement on a topic from world affairs and then moderate a discussion with their classmates.
 
 The aim was to move students from prepared speaking toward communicative action: asking questions, responding to others, guiding a conversation, and keeping a discussion alive. Together with my mother, who was an English teacher, I developed a simple grading rubric for this format and made the assessment criteria transparent to students. At the end, students also submitted a short reflective statement summarizing the discussion.
