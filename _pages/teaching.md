@@ -177,6 +177,29 @@ body.dark .teaching-timeline {
   object-position: center center;
 }
 
+.teaching-photo-document--gg-group img {
+  width: 100%;
+  height: 430px;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.participant-feedback {
+  margin: 1.2rem 0 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--teaching-border);
+  background: var(--teaching-tag-bg);
+  color: var(--teaching-text);
+}
+
+.participant-feedback p {
+  margin-bottom: 0.7rem;
+}
+
+.participant-feedback p:last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -188,7 +211,8 @@ body.dark .teaching-timeline {
   }
 
   .teaching-photo-document--crop-top img,
-  .teaching-photo-document--crop-center img {
+  .teaching-photo-document--crop-center img,
+  .teaching-photo-document--gg-group img {
     height: 260px;
   }
 }
@@ -736,7 +760,7 @@ In addition to the business model development workshop, I also moderate the fina
   </div>
 </div>
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--gg-group">
   <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-224.jpg" title="Gründungsgarage Startup Community and Final Pitch Teams" class="img-fluid rounded z-depth-1" %}
@@ -825,6 +849,18 @@ From a teaching perspective, I value the executive education setting because it 
 In the **Business Model Lab**, I teach a workshop on sustainable business models for small and medium-sized enterprises. The format helps participants move from broad sustainability challenges toward concrete business model ideas and prototypes.
 
 The workshop combines conceptual input on circular economy and sustainability with design thinking, sustainable business model patterns, prototyping, and work with the **Flourishing Business Model Canvas**. Participants use these tools to open up the solution space, develop initial ideas, and connect business model innovation with economic, environmental, and societal value creation.
+
+<div class="participant-feedback" markdown="1">
+
+**Participant feedback, anonymized:**
+
+*“Thank you for the very inspiring workshop.”*
+
+*“I was able to take away a great deal from the workshop on sustainable business models.”*
+
+</div>
+
+This informal feedback is meaningful to me because it suggests that the workshop did not remain only at the level of conceptual input. Participants connected the content to their own professional contexts, entrepreneurial interests, and possible next steps.
 
 From a teaching perspective, this format reflects how I like to work: conceptual orientation, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The aim is that participants leave with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
 
