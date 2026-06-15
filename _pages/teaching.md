@@ -702,6 +702,31 @@ A central part of the format is that student teams challenge each other. They wo
 
 At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. This is often a productive moment, because the game makes business model development tangible, social, and iterative. The format is highly interactive and has received positive feedback from students.
 
+In addition to the business model development workshop, I also moderate the final pitch event of the Gründungsgarage / Startup Garage. This role connects teaching, facilitation, feedback culture, and the public presentation of student startup projects. From a teaching perspective, the final pitches are an important culmination of the learning process: student teams translate their business model work into a concise entrepreneurial narrative, present it to an external audience, respond to questions, and receive feedback from people connected to the startup ecosystem.
+
+<div class="row align-items-start mt-3 mb-2 teaching-photo-grid">
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-191.jpg" title="Moderating the Gründungsgarage Final Pitch Event. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-53.jpg" title="Student startup pitch in front of the Gründungsgarage audience. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
+<div class="row align-items-start mt-1 mb-4 teaching-photo-grid">
+  <div class="col-md-12 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-224.jpg" title="Gründungsgarage Final Pitch Event community and award moment. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
+<p class="course-note">Photos: ©Christof Hütter Fotografie.</p>
+
 ### Early Teaching Example: World Affairs Discussion Format
 
 
