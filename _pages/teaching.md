@@ -163,6 +163,20 @@ body.dark .teaching-timeline {
   margin-bottom: 0;
 }
 
+.teaching-photo-document--crop-top img {
+  width: 100%;
+  height: 430px;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.teaching-photo-document--crop-center img {
+  width: 100%;
+  height: 430px;
+  object-fit: cover;
+  object-position: center center;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -171,6 +185,11 @@ body.dark .teaching-timeline {
 
   .teaching-period {
     width: fit-content;
+  }
+
+  .teaching-photo-document--crop-top img,
+  .teaching-photo-document--crop-center img {
+    height: 260px;
   }
 }
 </style>
@@ -568,7 +587,7 @@ This format changes the energy of the session. Students work actively with the m
 
 ### Entrepreneurship: Promoter vs. Trustee Role Play
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-top">
   <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENTR_Promotor_Trustee_Roleplay.jpg" title="Promoter vs. Trustee Role Play Materials" class="img-fluid rounded z-depth-1" %}
@@ -584,7 +603,7 @@ The aim is that students experience what it feels like to argue from these posit
 
 ### Entrepreneurship: Market Sizing and Customer Segmentation
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-center">
   <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENTR_Market_Sizing_Customer_Segmentation.jpg" title="Market Sizing and Customer Segmentation Materials" class="img-fluid rounded z-depth-1" %}
@@ -655,13 +674,13 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
 
 ### General Management and Organization: Organizational Design Cases
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
-  <div class="col-12 mb-4" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
+  <div class="col-md-6 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart_Case_Angaben.jpg" title="Organizational Design Case Materials" class="img-fluid rounded z-depth-1" %}
 
   </div>
-  <div class="col-12 mb-3" markdown="1">
+  <div class="col-md-6 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart.jpg" title="Organizational Design Case: Alphabet and Google Organizational Chart" class="img-fluid rounded z-depth-1" %}
 
@@ -702,30 +721,28 @@ A central part of the format is that student teams challenge each other. They wo
 
 At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. This is often a productive moment, because the game makes business model development tangible, social, and iterative. The format is highly interactive and has received positive feedback from students.
 
-In addition to the business model development workshop, I also moderate the final pitch event of the Gründungsgarage / Startup Garage. This role connects teaching, facilitation, feedback culture, and the public presentation of student startup projects. From a teaching perspective, the final pitches are an important culmination of the learning process: student teams translate their business model work into a concise entrepreneurial narrative, present it to an external audience, respond to questions, and receive feedback from people connected to the startup ecosystem.
+In addition to the business model development workshop, I also moderate the final pitch event of the Gründungsgarage / Startup Garage. The final pitches are an important culmination of the learning process: student teams translate what they worked on for a whole semester into an entrepreneurial narrative, present it to an external audience, respond to questions, and receive feedback from people connected to the startup ecosystem. Many successful startups have been founded through this program, which makes the final pitch event a meaningful moment where learning, entrepreneurial courage, and the wider startup community come together.
 
-<div class="row align-items-start mt-3 mb-2 teaching-photo-grid">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
   <div class="col-md-6 mb-3" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-191.jpg" title="Moderating the Gründungsgarage Final Pitch Event. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-191.jpg" title="Gründungsgarage Final Pitch Moderation" class="img-fluid rounded z-depth-1" %}
 
   </div>
   <div class="col-md-6 mb-3" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-53.jpg" title="Student startup pitch in front of the Gründungsgarage audience. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-53.jpg" title="Gründungsgarage Final Pitch Presentation" class="img-fluid rounded z-depth-1" %}
 
   </div>
 </div>
 
-<div class="row align-items-start mt-1 mb-4 teaching-photo-grid">
-  <div class="col-md-12 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-3" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-224.jpg" title="Gründungsgarage Final Pitch Event community and award moment. Photo: ©Christof Hütter Fotografie" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-224.jpg" title="Gründungsgarage Startup Community and Final Pitch Teams" class="img-fluid rounded z-depth-1" %}
 
   </div>
 </div>
-
-<p class="course-note">Photos: ©Christof Hütter Fotografie.</p>
 
 ### Early Teaching Example: World Affairs Discussion Format
 
@@ -828,7 +845,7 @@ My interest in transparent assessment already developed during my time at UAS Te
 
 I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-center">
   <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENT_Grading_Rubrique_7pages.jpg" title="Business Plan Assessment Rubric" class="img-fluid rounded z-depth-1" %}
