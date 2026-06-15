@@ -555,6 +555,14 @@ This format changes the energy of the session. Students work actively with the m
 
 ### Entrepreneurship: Promoter vs. Trustee Role Play
 
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
+  <div class="col-md-8 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/ENTR_Promotor_Trustee_Roleplay.jpg" title="Promoter vs. Trustee Role Play Materials" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 One part of the Entrepreneurship course deals with different forms of entrepreneurial and administrative behavior. In the past, I explained the distinction between promoter and trustee logic mainly through theoretical input. I noticed that this became quite demanding for students, especially when the input block became too long.
 
 I therefore redesigned this part as a role play. Students work in pairs and take opposing roles: one person argues from the perspective of a promoter, the other from the perspective of a trustee. They choose from several startup-related scenarios and discuss the situation from their assigned perspective. In a second round, they switch roles.
@@ -562,6 +570,14 @@ I therefore redesigned this part as a role play. Students work in pairs and take
 The aim is that students experience what it feels like to argue from these positions. This helps them understand that both perspectives can be part of entrepreneurial thinking and behavior. The format has led to more energy in the classroom and has received very positive feedback from students.
 
 ### Entrepreneurship: Market Sizing and Customer Segmentation
+
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
+  <div class="col-md-8 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/ENTR_Market_Sizing_Customer_Segmentation.jpg" title="Market Sizing and Customer Segmentation Materials" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
 
 In the marketing part of the Entrepreneurship course, I introduced several worksheets to make core marketing concepts more tangible. For market sizing, I work with the concepts of PAM, TAM, SAM, and SOM. I first go through an illustrative example with the students and then use a mix-and-match exercise where they connect the terms with the correct definitions and interpretations.
 
@@ -608,6 +624,14 @@ The goal was to make feedback more structured and more diverse. Instead of gener
 
 ### General Management and Organization: Leadership Module
 
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
+  <div class="col-md-8 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Leadership.jpg" title="Leadership Module Materials" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 In General Management and Organization / Unternehmensführung und Organisation, I developed a module on leadership and organization. One part of the module works with leadership profiles and the Blake and Mouton Managerial Grid.
 
 Students first complete a self-assessment to reflect on their own leadership style. They then work with two leadership profiles and classify leadership behavior according to task orientation and people orientation. In groups, they identify patterns and clusters in the leadership behavior described in the case material.
@@ -618,8 +642,13 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
 
 ### General Management and Organization: Organizational Design Cases
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
-  <div class="col-md-8 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart_Case_Angaben.jpg" title="Organizational Design Case Materials" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart.jpg" title="Organizational Design Case: Alphabet and Google Organizational Chart" class="img-fluid rounded z-depth-1" %}
 
@@ -736,6 +765,14 @@ For me, rubrics are not only assessment tools, but also communication tools. The
 My interest in transparent assessment already developed during my time at UAS Technikum Wien. In laboratory teaching, I introduced entrance checks to ensure that students engaged with the theoretical background before entering the laboratory. This improved preparation and made the laboratory sessions more productive and safer.
 
 I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
+
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
+  <div class="col-md-8 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/ENT_Grading_Rubrique_7pages.jpg" title="Business Plan Assessment Rubric" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
 
 [Placeholder Space - maybe add the following examples later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
