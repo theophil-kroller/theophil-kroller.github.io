@@ -185,11 +185,44 @@ body.dark .teaching-timeline {
 }
 
 .participant-feedback {
+  position: relative;
   margin: 1.2rem 0 1.5rem 0;
-  padding: 1rem 1.2rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--teaching-tag-border);
   border-left: 4px solid var(--teaching-border);
-  background: var(--teaching-tag-bg);
+  background:
+    linear-gradient(135deg, transparent 10px, var(--teaching-tag-bg) 0) top left,
+    linear-gradient(225deg, transparent 10px, var(--teaching-tag-bg) 0) top right,
+    linear-gradient(315deg, transparent 10px, var(--teaching-tag-bg) 0) bottom right,
+    linear-gradient(45deg, transparent 10px, var(--teaching-tag-bg) 0) bottom left;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
   color: var(--teaching-text);
+  box-shadow: 0 0.2rem 0.55rem rgba(0, 0, 0, 0.06);
+}
+
+.participant-feedback::before,
+.participant-feedback::after {
+  content: "";
+  position: absolute;
+  left: 0.9rem;
+  right: 0.9rem;
+  height: 8px;
+  background: repeating-linear-gradient(
+    135deg,
+    var(--teaching-tag-border) 0 6px,
+    transparent 6px 12px
+  );
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+.participant-feedback::before {
+  top: -4px;
+}
+
+.participant-feedback::after {
+  bottom: -4px;
 }
 
 .participant-feedback p {
@@ -856,7 +889,7 @@ The workshop combines conceptual input on circular economy and sustainability wi
 
 *“Thank you for the very inspiring workshop.”*
 
-*“I was able to take away a great deal from the workshop on sustainable business models.”*
+*“I was able to take away a great deal from the workshop on sustainable business models and am eager to apply it to my own business.”*
 
 </div>
 
