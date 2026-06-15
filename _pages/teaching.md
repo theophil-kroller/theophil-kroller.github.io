@@ -150,6 +150,19 @@ body.dark .teaching-timeline {
   height: 260px;
 }
 
+.teaching-photo-document img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+  object-position: center;
+}
+
+.teaching-photo-document .figure,
+.teaching-photo-document figure {
+  margin-bottom: 0;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -555,8 +568,8 @@ This format changes the energy of the session. Students work actively with the m
 
 ### Entrepreneurship: Promoter vs. Trustee Role Play
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
-  <div class="col-md-8 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENTR_Promotor_Trustee_Roleplay.jpg" title="Promoter vs. Trustee Role Play Materials" class="img-fluid rounded z-depth-1" %}
 
@@ -571,8 +584,8 @@ The aim is that students experience what it feels like to argue from these posit
 
 ### Entrepreneurship: Market Sizing and Customer Segmentation
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
-  <div class="col-md-8 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENTR_Market_Sizing_Customer_Segmentation.jpg" title="Market Sizing and Customer Segmentation Materials" class="img-fluid rounded z-depth-1" %}
 
@@ -624,8 +637,8 @@ The goal was to make feedback more structured and more diverse. Instead of gener
 
 ### General Management and Organization: Leadership Module
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
-  <div class="col-md-8 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/Leadership.jpg" title="Leadership Module Materials" class="img-fluid rounded z-depth-1" %}
 
@@ -642,13 +655,13 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
 
 ### General Management and Organization: Organizational Design Cases
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
-  <div class="col-md-6 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-4" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart_Case_Angaben.jpg" title="Organizational Design Case Materials" class="img-fluid rounded z-depth-1" %}
 
   </div>
-  <div class="col-md-6 mb-3" markdown="1">
+  <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart.jpg" title="Organizational Design Case: Alphabet and Google Organizational Chart" class="img-fluid rounded z-depth-1" %}
 
@@ -790,8 +803,8 @@ My interest in transparent assessment already developed during my time at UAS Te
 
 I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
-  <div class="col-md-8 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-document">
+  <div class="col-12 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/ENT_Grading_Rubrique_7pages.jpg" title="Business Plan Assessment Rubric" class="img-fluid rounded z-depth-1" %}
 
