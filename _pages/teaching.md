@@ -512,6 +512,19 @@ The following examples illustrate how I have translated conceptual frameworks in
 
 ### Entrepreneurship: Business Plan Group Puzzle
 
+<div class="row align-items-start mt-3 mb-4">
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/BP_group.jpg" title="Business Plan Group Puzzle" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-6 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/BP_Market_Plan.jpg" title="Business Plan Group Puzzle: Market and Marketing" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 In the Entrepreneurship course, I redesigned the business plan module. Previously, this part of the course was more input-heavy. I transformed it into a group puzzle.
 
 Each group receives a text on one section of the business plan. Students read the text, highlight the most important ideas, discuss the content, and develop a graphical representation on a flip chart. They then present their section to the class.
@@ -542,6 +555,24 @@ The purpose of the exercise is to make students actively work with the language 
 
 ### Entrepreneurship: Design Thinking Session
 
+<div class="row align-items-start mt-3 mb-4">
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/DesignThinking2.jpg" title="Design Thinking Session" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/DesignThinking1.jpg" title="Design Thinking Prototyping Materials" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/Design_Thinking3.jpg" title="Design Thinking Prototype" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 In the Entrepreneurship course, I facilitate a Design Thinking session based on the Stanford d.school “Lunch Experience” materials. I did not develop this format myself, but I deliberately integrate it into the course because it allows students to experience a complete innovation process in a short and accessible way.
 
 Students move through the process of understanding user needs, interviewing, ideating, prototyping, testing, and reflecting. This makes Design Thinking more tangible than a purely conceptual explanation. The session is often lively and helps students experience how customer orientation, rapid prototyping, and feedback can support the development of entrepreneurial ideas.
@@ -565,6 +596,14 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
 
 ### General Management and Organization: Organizational Design Cases
 
+<div class="row align-items-start mt-3 mb-4">
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/BP_executive_summary.jpg" title="Organizational Design Case: Organizational Chart Discussion" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
 For the topic of organizational design, I developed case studies that allow students to practice drawing and interpreting organizational structures.
 
 One case focuses on Alphabet and Google. Students analyze the relationship between Alphabet as a holding company and Google as one of its core subsidiaries. They also examine matrix-like elements and other structural features within Google. The task is to draw an organizational chart based on the case description. One student group presents its solution at the board, and we discuss it as a class. I then redraw and refine the organizational structure together with the students. This format helps students see that organizational structures are rarely as clean and simple as textbook examples suggest.
@@ -572,6 +611,24 @@ One case focuses on Alphabet and Google. Students analyze the relationship betwe
 A second case focuses on Soulbottles and its adoption of holacracy. I researched the central concepts of holacracy and prepared the case so that students can work with a less traditional organizational form. Students are asked to visualize the structure and logic of the organization. The case often leads to lively discussions, because holacracy challenges many assumptions about hierarchy, authority, roles, and decision-making.
 
 ### Gründungsgarage / Startup Garage: Business Model Development Workshop
+
+<div class="row align-items-start mt-3 mb-4">
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/GG_Workshop.jpg" title="Gründungsgarage Business Model Workshop" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/UTrain_1.jpg" title="UTrain Business Model Workshop" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/UTrain_2.jpg" title="UTrain Business Model Canvas" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
 
 As part of the Gründungsgarage / Startup Garage, I co-teach a workshop on business model development together with a colleague. The workshop uses the **Leap Game**, an interactive format that helps student startup teams develop and challenge their business model ideas.
 
