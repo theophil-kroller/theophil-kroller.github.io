@@ -233,6 +233,14 @@ body.dark .teaching-timeline {
   margin-bottom: 0;
 }
 
+.photo-credit {
+  margin-top: -0.35rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.86rem;
+  color: var(--teaching-muted);
+  text-align: right;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -658,6 +666,16 @@ I therefore redesigned this part as a role play. Students work in pairs and take
 
 The aim is that students experience what it feels like to argue from these positions. This helps them understand that both perspectives can be part of entrepreneurial thinking and behavior. The format has led to more energy in the classroom and has received very positive feedback from students.
 
+<div class="participant-feedback" markdown="1">
+
+**Student feedback, anonymized:**
+
+*“It was fun to explore entrepreneurial behavior versus trustee behavior. We had a hard battle, but reached a conclusion.”*
+
+*“Definitely more engaging than a lecture on the topic. You should keep this format. One or two scenarios were not clear, though; it would have helped if you had included an example there.”*
+
+</div>
+
 ### Entrepreneurship: Market Sizing and Customer Segmentation
 
 <div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-center">
@@ -704,12 +722,34 @@ In the Entrepreneurship course, I facilitate a Design Thinking session based on 
 
 Students move through the process of understanding user needs, interviewing, ideating, prototyping, testing, and reflecting. This makes Design Thinking more tangible than a purely conceptual explanation. The session is often lively and helps students experience how customer orientation, rapid prototyping, and feedback can support the development of entrepreneurial ideas.
 
+<div class="participant-feedback" markdown="1">
+
+**Student feedback, anonymized:**
+
+*“It was a really fun exercise.”*
+
+*“Now I understand the process so much better because I experienced it.”*
+
+</div>
+
 ### Entrepreneurship: Pitch Feedback Role Cards
 {% include figure.liquid loading="eager" path="assets/img/roleplay_feedback_cards3.png" title="Pitching Feedback Cards" class="img-fluid rounded z-depth-1 mb-4" %} 
 
 For the summer semester 2026 iteration of the course, I developed a role-card format for pitch feedback. Students listened to the pitch of another group from a specific role perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
 
-The goal was to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students are encouraged to ask questions and give feedback from a defined role. I expected this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective. The activity was very well received by both my colleague that I am co-teaching this course with and the student groups and led to deeper, more alive and more honest feedback and audience questions. 
+The goal was to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students are encouraged to ask questions and give feedback from a defined role. I expected this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective. The activity was very well received by both my colleague that I am co-teaching this course with and the student groups and led to deeper, more alive and more honest feedback and audience questions.
+
+<div class="participant-feedback" markdown="1">
+
+**Student feedback, anonymized:**
+
+*“The role cards were useful. I feel like they gave me the permission to also give critical feedback.”*
+
+*“The role cards made me focus on one aspect and ask questions from that perspective.”*
+
+*“I liked that the role cards made us also evaluate the rhetoric and pitching skills of the other groups.”*
+
+</div>
 
 ### General Management and Organization: Leadership Module
 
@@ -799,6 +839,16 @@ In addition to the business model development workshop, I also moderate the fina
 {% include figure.liquid loading="eager" path="assets/img/20260129_Gründungsgarage_VolXXV_CH-224.jpg" title="Gründungsgarage Startup Community and Final Pitch Teams" class="img-fluid rounded z-depth-1" %}
 
   </div>
+</div>
+
+<p class="photo-credit">Photo credit for the Gründungsgarage final pitch images: © Christof Hütter Fotografie.</p>
+
+<div class="participant-feedback" markdown="1">
+
+**Feedback placeholder:**
+
+*For the Gründungsgarage / Startup Garage workshop, we collected feedback via Feedbackr. I will include selected anonymized statements here after evaluating the responses.*
+
 </div>
 
 ### Early Teaching Example: World Affairs Discussion Format
@@ -913,6 +963,8 @@ For me, rubrics are not only assessment tools, but also communication tools. The
 My interest in transparent assessment already developed during my time at UAS Technikum Wien. In laboratory teaching, I introduced entrance checks to ensure that students engaged with the theoretical background before entering the laboratory. This improved preparation and made the laboratory sessions more productive and safer.
 
 I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
+
+A more recent example of a grading rubric that I developed is a seven-page rubric for evaluating the business plans that students write for a real startup invited into the Entrepreneurship course. The rubric covers the core elements of the business plan, including executive summary, product description and USP, business model, market and competitor analysis, marketing plan, personnel planning, and financial planning. It helps make expectations more transparent for students and supports a more consistent evaluation process across the teaching team.
 
 <div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-center">
   <div class="col-12 mb-3" markdown="1">
