@@ -133,6 +133,23 @@ body.dark .teaching-timeline {
   color: var(--teaching-muted);
 }
 
+
+.teaching-photo-grid img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.teaching-photo-grid .figure,
+.teaching-photo-grid figure {
+  margin-bottom: 0;
+}
+
+.teaching-photo-grid--wide img {
+  height: 260px;
+}
+
 @media (max-width: 768px) {
   .teaching-entry {
     grid-template-columns: 1fr;
@@ -512,13 +529,18 @@ The following examples illustrate how I have translated conceptual frameworks in
 
 ### Entrepreneurship: Business Plan Group Puzzle
 
-<div class="row align-items-start mt-3 mb-4">
-  <div class="col-md-6 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
+  <div class="col-md-4 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/BP_group.jpg" title="Business Plan Group Puzzle" class="img-fluid rounded z-depth-1" %}
 
   </div>
-  <div class="col-md-6 mb-3" markdown="1">
+  <div class="col-md-4 mb-3" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/BP_executive_summary2.jpg" title="Business Plan Group Puzzle: Executive Summary" class="img-fluid rounded z-depth-1" %}
+
+  </div>
+  <div class="col-md-4 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/BP_Market_Plan.jpg" title="Business Plan Group Puzzle: Market and Marketing" class="img-fluid rounded z-depth-1" %}
 
@@ -555,7 +577,7 @@ The purpose of the exercise is to make students actively work with the language 
 
 ### Entrepreneurship: Design Thinking Session
 
-<div class="row align-items-start mt-3 mb-4">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
   <div class="col-md-4 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/DesignThinking2.jpg" title="Design Thinking Session" class="img-fluid rounded z-depth-1" %}
@@ -596,10 +618,10 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
 
 ### General Management and Organization: Organizational Design Cases
 
-<div class="row align-items-start mt-3 mb-4">
-  <div class="col-md-4 mb-3" markdown="1">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
+  <div class="col-md-8 mb-3" markdown="1">
 
-{% include figure.liquid loading="eager" path="assets/img/BP_executive_summary.jpg" title="Organizational Design Case: Organizational Chart Discussion" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/GMO_Organizational_Chart.jpg" title="Organizational Design Case: Alphabet and Google Organizational Chart" class="img-fluid rounded z-depth-1" %}
 
   </div>
 </div>
@@ -612,7 +634,7 @@ A second case focuses on Soulbottles and its adoption of holacracy. I researched
 
 ### Gründungsgarage / Startup Garage: Business Model Development Workshop
 
-<div class="row align-items-start mt-3 mb-4">
+<div class="row align-items-start mt-3 mb-4 teaching-photo-grid">
   <div class="col-md-4 mb-3" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/GG_Workshop.jpg" title="Gründungsgarage Business Model Workshop" class="img-fluid rounded z-depth-1" %}
