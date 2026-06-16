@@ -498,21 +498,27 @@ The following overview provides a compact view of selected teaching activities a
 
     <p><strong>Programmes / Student Groups:</strong> Master students in Environmental Management and Ecotoxicology; bachelor students in Biomedical Engineering, Mechanical Engineering, and Industrial Engineering</p>
 
-    <p><strong>Courses / Teaching Areas:</strong></p>
+    <p><strong>Documented Courses / Teaching Areas in Environmental Management and Ecotoxicology:</strong></p>
     <div class="course-tags">
-      <span><span class="course-type">VO</span> Aquatic Ecotoxicology</span>
-      <span><span class="course-type">VO</span> Metrology</span>
-      <span><span class="course-type">PR</span> Applied Research Project Ecotoxicology</span>
-      <span><span class="course-type">PR</span> Applied Research Project Environmental Management</span>
-      <span><span class="course-type">VO</span> Selected Topics in Environmental Management</span>
-      <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory</span>
-      <span><span class="course-type">LAB</span> Endocrine Disruptors including Laboratory</span>
-      <span><span class="course-type">VO</span> Environmental Chemistry</span>
-      <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory</span>
-      <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory</span>
+      <span><span class="course-type">PRJ</span> WT2014, WT2015, WT2016 Applied Research Project in Ecotoxicology / Environmental Management</span>
+      <span><span class="course-type">ILV</span> WT2014, WT2015 Endocrine Substances – Environmental Hormones</span>
+      <span><span class="course-type">LAB</span> WT2016 Endocrine Substances – Environmental Hormones Laboratory</span>
+      <span><span class="course-type">LAB</span> WT2014 Laboratory Measurement and Experimental Methods</span>
+      <span><span class="course-type">VO</span> WT2016 Measurement and Experimental Methods</span>
+      <span><span class="course-type">VO</span> ST2015 Current Topics in Environmental Management</span>
+      <span><span class="course-type">ILV</span> ST2015, ST2016 Special Applications of Environmental Technology</span>
+      <span><span class="course-type">ILV</span> ST2015, ST2016 Special Environmental Chemistry</span>
+      <span><span class="course-type">ILV</span> ST2015 Preparatory Course for the Applied Research Project</span>
+      <span><span class="course-type">UE</span> WT2015 Current Topics in Ecology</span>
+      <span><span class="course-type">ILV</span> WT2015 Aquatic Ecotoxicology</span>
+      <span><span class="course-type">LAB</span> WT2015 Laboratory Aquatic Ecotoxicology</span>
+      <span><span class="course-type">SE</span> ST2016 Diploma Thesis Seminar</span>
+      <span><span class="course-type">SUP</span> ST2016 Thesis Supervision / Master’s Thesis Review</span>
     </div>
 
-    <p><strong>Format:</strong> Lectures, laboratories, research seminars, project supervision, thesis supervision</p>
+    <p class="course-note">The list above is based on the currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology. It covers at least 458 documented teaching hours between WT2014 and WT2016. Additional teaching assignments from Mechanical Engineering and other departments, including further chemistry and laboratory courses, will be added once the corresponding records are available.</p>
+
+    <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
   </div>
 </div>
 
@@ -579,7 +585,7 @@ The following overview provides a compact view of selected teaching activities a
 
 <p class="course-legend">
   <strong>Course type abbreviations:</strong>
-  VO = lecture, UE = practical course/tutorial, SE = seminar, PR = project, LAB = laboratory, WS = workshop, MOD = module, TUT = tutorial.
+  VO = lecture, UE = practical course/tutorial, ILV = integrated course, SE = seminar, PR/PRJ = project-based course, LAB = laboratory, WS = workshop, MOD = module, SUP = supervision, TUT = tutorial. WT = winter term, ST = summer term.
 </p>
 
 ## Selected Educational Videos
