@@ -491,8 +491,8 @@ The following overview provides a compact view of selected teaching activities a
 
     <p><strong>Courses / Teaching Areas:</strong></p>
     <div class="course-tags">
-      <span><span class="course-type">MOD</span> Digital & Green Economy</span>
-      <span><span class="course-type">MOD</span> Digital Strategies & Business Modelling</span>
+      <span><span class="course-type">MOD</span> Digital & Green Economy <span class="course-term">ST2026</span></span>
+      <span><span class="course-type">MOD</span> Digital Strategies & Business Modelling <span class="course-term">ST2026</span></span>
     </div>
 
     <p><strong>Format:</strong> Executive education, case discussion, simulation, transfer exercises</p>
@@ -514,8 +514,8 @@ The following overview provides a compact view of selected teaching activities a
         <span><span class="course-type">UE</span> Unternehmensgründung <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
         <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage <span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2026</span><span class="course-term">ST2026</span></span>
         <span><span class="course-type">PR</span> Bachelor Projects <span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">PR</span> Master Projects <span class="course-term">ST2025</span></span>
-        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">PR</span> Master Projects <span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2026</span></span>
       </div>
 
       <p class="course-note">Term tags indicate the semesters in which the respective course or supervision activity was taught or started. The Gründungsgarage / Startup Garage is listed from WT2024 onward; thesis supervision activities are listed from their first documented supervision semester.</p>
@@ -533,9 +533,10 @@ The following overview provides a compact view of selected teaching activities a
 
     <p><strong>Documented Courses / Teaching Areas in Environmental Management and Ecotoxicology:</strong></p>
     <div class="course-tags">
-      <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology / Environmental Management <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
+      <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
+      <span><span class="course-type">PRJ</span> Applied Research Project in Environmental Management <span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
       <span><span class="course-type">ILV</span> Endocrine Substances – Environmental Hormones <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
-      <span><span class="course-type">LAB</span> Endocrine Substances – Environmental Hormones Laboratory <span class="course-term">WT2016</span></span>
+      <span><span class="course-type">LAB</span> Endocrine Substances – Environmental Hormones Laboratory <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
       <span><span class="course-type">LAB</span> Laboratory Measurement and Experimental Methods <span class="course-term">WT2014</span></span>
       <span><span class="course-type">VO</span> Measurement and Experimental Methods <span class="course-term">WT2016</span></span>
       <span><span class="course-type">VO</span> Current Topics in Environmental Management <span class="course-term">ST2015</span></span>
@@ -552,13 +553,10 @@ The following overview provides a compact view of selected teaching activities a
     <p><strong>Further teaching areas from additional contracts / departments:</strong></p>
     <div class="course-tags">
       <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">ST2015</span><span class="course-term">WT2015</span><span class="course-term">ST2016</span><span class="course-term">WT2016</span></span>
-      <span><span class="course-type">VO</span> Environmental Chemistry <span class="course-term course-term--pending">records pending</span></span>
-      <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory <span class="course-term course-term--pending">records pending</span></span>
       <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory <span class="course-term course-term--pending">records pending</span></span>
-      <span><span class="course-type">LAB</span> Environmental Analytics / Environmental Analysis Laboratory <span class="course-term course-term--pending">records pending</span></span>
     </div>
 
-    <p class="course-note">The first group of courses is based on currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology and covers at least 458 documented teaching hours between WT2014 and WT2016. The second group keeps previously documented teaching areas visible while the corresponding teaching assignments from Mechanical Engineering and other departments are still being reconstructed.</p>
+    <p class="course-note">The first group of courses is based on currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology and covers at least 458 documented teaching hours between WT2014 and WT2016. The second group keeps additional laboratory teaching areas visible while the corresponding teaching assignments from Mechanical Engineering and other departments are still being reconstructed.</p>
 
     <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
   </div>
@@ -602,7 +600,7 @@ The following overview provides a compact view of selected teaching activities a
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span><span class="course-type">TUT</span> German as a Foreign Language</span>
+        <span><span class="course-type">TUT</span> German as a Foreign Language <span class="course-term">ST2003</span></span>
       </div>
 
       <p><strong>Format:</strong> Tutorial / language teaching for Chinese and Taiwanese exchange students</p>
