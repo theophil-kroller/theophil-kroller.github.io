@@ -120,6 +120,37 @@ body.dark .teaching-timeline {
   vertical-align: middle;
 }
 
+.course-tags > span .course-term {
+  display: inline-block;
+  margin-left: 0.32rem;
+  padding: 0.05rem 0.34rem;
+  border: 1px solid #c8d6e5;
+  border-radius: 999px;
+  background: #eef5fb;
+  color: #284b63;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  vertical-align: middle;
+}
+
+.course-tags > span .course-term--pending {
+  border-color: var(--teaching-tag-border);
+  background: transparent;
+  color: var(--teaching-muted);
+  font-weight: 600;
+}
+
+html[data-theme="dark"] .course-tags > span .course-term,
+body[data-theme="dark"] .course-tags > span .course-term,
+[data-bs-theme="dark"] .course-tags > span .course-term,
+html.dark .course-tags > span .course-term,
+body.dark .course-tags > span .course-term {
+  border-color: #5b7892;
+  background: #1e3446;
+  color: #d7ecff;
+}
+
 .course-note {
   margin-top: -0.3rem;
   margin-bottom: 0.9rem;
@@ -475,17 +506,19 @@ The following overview provides a compact view of selected teaching activities a
       <p><strong>Programmes / Student Groups:</strong> Master students in Software Engineering and Management; master students in Production Science and Management; bachelor students in Wirtschaftsingenieurwesen-Maschinenbau (industrial engineering with mechanical engineering focus)</p>
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span><span class="course-type">UE</span> General Management and Organization</span>
-        <span><span class="course-type">UE</span> Unternehmensführung und Organisation</span>
-        <span><span class="course-type">VO</span> Entrepreneurship</span>
-        <span><span class="course-type">UE</span> Entrepreneurship</span>
-        <span><span class="course-type">VO</span> Unternehmensgründung</span>
-        <span><span class="course-type">UE</span> Unternehmensgründung</span>
-        <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage</span>
-        <span><span class="course-type">PR</span> Bachelor Projects</span>
-        <span><span class="course-type">PR</span> Master Projects</span>
-        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs</span>
+        <span><span class="course-type">UE</span> General Management and Organization <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">UE</span> Unternehmensführung und Organisation <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">VO</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">UE</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">VO</span> Unternehmensgründung <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">UE</span> Unternehmensgründung <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage <span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2026</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">PR</span> Bachelor Projects <span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
+        <span><span class="course-type">PR</span> Master Projects <span class="course-term">ST2025</span></span>
+        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
       </div>
+
+      <p class="course-note">Term tags indicate the semesters in which the respective course or supervision activity was taught or started. The Gründungsgarage / Startup Garage is listed from WT2024 onward; thesis supervision activities are listed from their first documented supervision semester.</p>
 
       <p><strong>Format:</strong> Lectures, practical courses, seminars, project supervision, business model development workshops</p>
     </div>
@@ -500,23 +533,32 @@ The following overview provides a compact view of selected teaching activities a
 
     <p><strong>Documented Courses / Teaching Areas in Environmental Management and Ecotoxicology:</strong></p>
     <div class="course-tags">
-      <span><span class="course-type">PRJ</span> WT2014, WT2015, WT2016 Applied Research Project in Ecotoxicology / Environmental Management</span>
-      <span><span class="course-type">ILV</span> WT2014, WT2015 Endocrine Substances – Environmental Hormones</span>
-      <span><span class="course-type">LAB</span> WT2016 Endocrine Substances – Environmental Hormones Laboratory</span>
-      <span><span class="course-type">LAB</span> WT2014 Laboratory Measurement and Experimental Methods</span>
-      <span><span class="course-type">VO</span> WT2016 Measurement and Experimental Methods</span>
-      <span><span class="course-type">VO</span> ST2015 Current Topics in Environmental Management</span>
-      <span><span class="course-type">ILV</span> ST2015, ST2016 Special Applications of Environmental Technology</span>
-      <span><span class="course-type">ILV</span> ST2015, ST2016 Special Environmental Chemistry</span>
-      <span><span class="course-type">ILV</span> ST2015 Preparatory Course for the Applied Research Project</span>
-      <span><span class="course-type">UE</span> WT2015 Current Topics in Ecology</span>
-      <span><span class="course-type">ILV</span> WT2015 Aquatic Ecotoxicology</span>
-      <span><span class="course-type">LAB</span> WT2015 Laboratory Aquatic Ecotoxicology</span>
-      <span><span class="course-type">SE</span> ST2016 Diploma Thesis Seminar</span>
-      <span><span class="course-type">SUP</span> ST2016 Thesis Supervision / Master’s Thesis Review</span>
+      <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology / Environmental Management <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
+      <span><span class="course-type">ILV</span> Endocrine Substances – Environmental Hormones <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
+      <span><span class="course-type">LAB</span> Endocrine Substances – Environmental Hormones Laboratory <span class="course-term">WT2016</span></span>
+      <span><span class="course-type">LAB</span> Laboratory Measurement and Experimental Methods <span class="course-term">WT2014</span></span>
+      <span><span class="course-type">VO</span> Measurement and Experimental Methods <span class="course-term">WT2016</span></span>
+      <span><span class="course-type">VO</span> Current Topics in Environmental Management <span class="course-term">ST2015</span></span>
+      <span><span class="course-type">ILV</span> Special Applications of Environmental Technology <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
+      <span><span class="course-type">ILV</span> Special Environmental Chemistry <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
+      <span><span class="course-type">ILV</span> Preparatory Course for the Applied Research Project <span class="course-term">ST2015</span></span>
+      <span><span class="course-type">UE</span> Current Topics in Ecology <span class="course-term">WT2015</span></span>
+      <span><span class="course-type">ILV</span> Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
+      <span><span class="course-type">LAB</span> Laboratory Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
+      <span><span class="course-type">SE</span> Diploma Thesis Seminar <span class="course-term">ST2016</span></span>
+      <span><span class="course-type">SUP</span> Thesis Supervision / Master’s Thesis Review <span class="course-term">ST2016</span></span>
     </div>
 
-    <p class="course-note">The list above is based on the currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology. It covers at least 458 documented teaching hours between WT2014 and WT2016. Additional teaching assignments from Mechanical Engineering and other departments, including further chemistry and laboratory courses, will be added once the corresponding records are available.</p>
+    <p><strong>Further teaching areas from additional contracts / departments:</strong></p>
+    <div class="course-tags">
+      <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">ST2015</span><span class="course-term">WT2015</span><span class="course-term">ST2016</span><span class="course-term">WT2016</span></span>
+      <span><span class="course-type">VO</span> Environmental Chemistry <span class="course-term course-term--pending">records pending</span></span>
+      <span><span class="course-type">LAB</span> Environmental Chemistry Laboratory <span class="course-term course-term--pending">records pending</span></span>
+      <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory <span class="course-term course-term--pending">records pending</span></span>
+      <span><span class="course-type">LAB</span> Environmental Analytics / Environmental Analysis Laboratory <span class="course-term course-term--pending">records pending</span></span>
+    </div>
+
+    <p class="course-note">The first group of courses is based on currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology and covers at least 458 documented teaching hours between WT2014 and WT2016. The second group keeps previously documented teaching areas visible while the corresponding teaching assignments from Mechanical Engineering and other departments are still being reconstructed.</p>
 
     <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
   </div>
@@ -531,8 +573,8 @@ The following overview provides a compact view of selected teaching activities a
 
     <p><strong>Courses / Teaching Areas:</strong></p>
     <div class="course-tags">
-      <span><span class="course-type">COURSE</span> Oral English / English Communication</span>
-      <span><span class="course-type">COURSE</span> English Listening</span>
+      <span><span class="course-type">COURSE</span> Oral English / English Communication <span class="course-term">WT2003</span><span class="course-term">ST2004</span><span class="course-term">WT2004</span></span>
+      <span><span class="course-type">COURSE</span> English Listening <span class="course-term">WT2003</span><span class="course-term">ST2004</span><span class="course-term">WT2004</span></span>
     </div>
 
     <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination</p>
@@ -546,7 +588,7 @@ The following overview provides a compact view of selected teaching activities a
 
       <p><strong>Courses / Teaching Areas:</strong></p>
       <div class="course-tags">
-        <span><span class="course-type">COURSE</span> English Communication</span>
+        <span><span class="course-type">COURSE</span> English Communication <span class="course-term">WT2003</span><span class="course-term">ST2004</span><span class="course-term">WT2004</span></span>
       </div>
 
       <p><strong>Format:</strong> Regular vocational school language course with compulsory attendance and final oral assessment/examination</p>
