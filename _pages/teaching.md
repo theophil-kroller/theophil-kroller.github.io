@@ -504,18 +504,22 @@ The following overview provides a compact view of selected teaching activities a
       <h4>Graz University of Technology</h4>
       <p><strong>Programmes / Student Groups:</strong> Master students in Software Engineering and Management; master students in Production Science and Management; bachelor students in Wirtschaftsingenieurwesen-Maschinenbau (industrial engineering with mechanical engineering focus)</p>
       <p><strong>Courses / Teaching Areas:</strong></p>
-      <div class="course-tags">
-        <span><span class="course-type">UE</span> General Management and Organization <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">UE</span> Unternehmensführung und Organisation <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">VO</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">UE</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">VO</span> Unternehmensgründung <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">UE</span> Unternehmensgründung <span class="course-term">ST2024</span><span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage <span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2026</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">PR</span> Bachelor Projects <span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">PR</span> Master Projects <span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
-        <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2026</span></span>
-      </div>
+<div class="course-tags">
+  <span><span class="course-type">UE</span> General Management and Organization <span class="course-term">ST2024</span><span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
+  <span><span class="course-type">UE</span> Unternehmensführung und Organisation <span class="course-term">WT2024</span><span class="course-term">WT2025</span></span>
+
+  <span><span class="course-type">VO</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
+  <span><span class="course-type">UE</span> Entrepreneurship <span class="course-term">ST2024</span><span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
+
+  <span><span class="course-type">VO</span> Unternehmensgründung <span class="course-term">WT2024</span><span class="course-term">WT2025</span></span>
+  <span><span class="course-type">UE</span> Unternehmensgründung <span class="course-term">WT2024</span><span class="course-term">WT2025</span></span>
+
+  <span><span class="course-type">SE</span> Gründungsgarage / Startup Garage <span class="course-term">WT2024</span><span class="course-term">ST2025</span><span class="course-term">WT2026</span><span class="course-term">ST2026</span></span>
+  <span><span class="course-type">PR</span> Bachelor Projects <span class="course-term">ST2025</span><span class="course-term">ST2026</span></span>
+  <span><span class="course-type">PR</span> Master Projects <span class="course-term">ST2025</span><span class="course-term">WT2025</span><span class="course-term">ST2026</span></span>
+
+  <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2026</span></span>
+</div>
 
       <p class="course-note">Term tags indicate the semesters in which the respective course or supervision activity was taught or started. The Gründungsgarage / Startup Garage is listed from WT2024 onward; thesis supervision activities are listed from their first documented supervision semester.</p>
 
