@@ -1105,7 +1105,7 @@ I especially value the courses on voice and speech training, interactive rhetori
 
 I am currently completing the Expert Module of the TU Graz Teaching Academy. This module focuss on the documentation, further development, and visibility of professional teaching competence. As part of this process, I am developing this teaching portfolio as a reflective documentation of my teaching philosophy, teaching practice, assessment approaches, feedback culture, and future development goals.
 
-In addition, I am preparing a contribution to the Teaching Community@TU Graz. I understand this as an opportunity to make selected teaching approaches, materials, or reflections useful beyond my own courses and to contribute to collegial exchange on teaching practice at TU Graz.
+In addition, I am preparing a contribution to the Teaching Community@TU Graz.
 
 | Date / Status | Course / Activity | Level | Units |
 |---|---|---:|---:|
@@ -1128,9 +1128,10 @@ In addition, I am preparing a contribution to the Teaching Community@TU Graz. I 
 | 30.01.2024 | Teaching at TU Graz | Foundational | 8 |
 | 10.01.2024 | Higher Education Didactics 1: Fundamentals of Teaching and Learning | Foundational | 16 |
 
+<div class="mb-5"></div>
 <p class="course-note">
   Ongoing and planned entries refer to activities currently being completed as part of the TU Graz Teaching Academy Expert Module. The Expert Module comprises 76 work units in total: 16 units for the Teaching Expert Workshop, 30 units for the teaching portfolio and/or teaching project, and 30 units for a contribution to Teaching Community@TU Graz.
 </p>
 
-<div class="mb-5"></div>
+
 
