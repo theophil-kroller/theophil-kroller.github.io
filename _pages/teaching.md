@@ -822,20 +822,20 @@ The goal was to make feedback more structured and more diverse. Instead of gener
 
 **Feedback evidence, summer term 2026:**
 
-In a short feedback survey after the pitch-feedback session, **15 of 17 responding students** stated that they preferred giving questions and feedback with role cards rather than without them. Across the scaled items, the strongest signal was that the role cards made feedback more diverse. Students also reported that the cards helped them focus on specific aspects, ask more role-specific questions, and formulate more constructive comments.
+At the end of the course I carried out a short survey through feedbackR: **15 of 17 responding students** stated that they preferred giving questions and feedback with role cards rather than without them. Across the scaled items, the strongest signal was that the role cards made feedback more diverse. Students also reported that the cards helped them focus on specific aspects, ask more role-specific questions, and formulate more constructive comments.
 
 **What I will improve next time:**
 
-For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set, so that the questions become even more varied and less repetitive.
+For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set (expand it so that it can be adapted to abother presentation session with a thematic focus), so that the questions become even more varied and less repetitive.
 
 </div>
 
-<p>The figure below shows the clearest headline result from the survey: most responding students preferred the role-card format over an unstructured feedback format. I use this as the main evidence because it is easy to interpret and directly connected to the didactic decision behind the activity.</p>
+<p>The figure below shows the clearest headline result from the survey: most responding students preferred the role-card format over an unstructured feedback format.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
 <details>
-<summary><strong>Show additional feedback evidence</strong></summary>
+<summary><strong>Show additional feedback evidence (more details)</strong></summary>
 
 <p>The following summary plot shows how strongly the different survey items point in a positive direction. It is useful as a compact overview because it links the preference result to more specific learning effects, such as more diverse feedback, clearer focus, and livelier discussion.</p>
 
@@ -853,7 +853,7 @@ For the next iteration, I will introduce the role cards with one worked example 
 
 {% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p>The final plot summarizes themes from the open responses. It complements the quantitative survey results by showing what students actually mentioned: new perspectives, more structure, better questions, and clearer focus during feedback.</p>
+<p>The final plot summarizes themes from the open responses. Open responses were assigned thematic labels. It complements the quantitative survey results by showing what students actually mentioned: new perspectives, more structure, better questions, and clearer focus during feedback.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/14_text_theme_counts.png" title="Themes in open student responses" class="img-fluid rounded z-depth-1 mb-4" %}
 
