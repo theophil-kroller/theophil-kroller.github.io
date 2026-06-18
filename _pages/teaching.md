@@ -578,8 +578,6 @@ The following overview provides a compact view of selected teaching activities a
   <span><span class="course-type">LAB</span> Laboratory Instrumental Analytics <span class="course-term">WT2014</span></span>
 </div>
 
-<p class="course-note">The teaching assignment records from WS2014 to WS2016 document teaching activities across several departmental areas at UAS Technikum Wien. In the scanned records, some department names are abbreviated in the table view, for example “Chemical Engineering and...” and “Cell Technologies and Bi...”. These entries have been expanded here using the current terminology of UAS Technikum Wien’s Department Life Science Engineering and its competence fields. Across the documented contracts, the listed teaching load amounts to at least 658 documented teaching hours.</p>
-
 <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
 
   </div>
@@ -832,16 +830,30 @@ For the next iteration, I will introduce the role cards with one worked example 
 
 </div>
 
+<p>The figure below shows the clearest headline result from the survey: most responding students preferred the role-card format over an unstructured feedback format. I use this as the main evidence because it is easy to interpret and directly connected to the didactic decision behind the activity.</p>
+
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
 <details>
 <summary><strong>Show additional feedback evidence</strong></summary>
 
+<p>The following summary plot shows how strongly the different survey items point in a positive direction. It is useful as a compact overview because it links the preference result to more specific learning effects, such as more diverse feedback, clearer focus, and livelier discussion.</p>
+
 {% include figure.liquid loading="lazy" path="assets/img/03_positive_scale_summary.png" title="Positive response summary for the role-card feedback activity" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<p>The diverging positive-negative plot makes the balance of responses visible. It shows where the evidence is particularly strong and where the activity still leaves room for improvement. I include it because it communicates both the positive signal and the critical/ambivalent responses in a transparent way.</p>
+
+{% include figure.liquid loading="lazy" path="assets/img/08_diverging_positive_negative.png" title="Positive and negative response balance across role-card survey items" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<p>The stacked response distribution shows the full spread of answers for each item. This is a more detailed view than the summary plot and helps avoid overclaiming: it shows not only the positive tendency, but also how strongly or weakly students agreed across the different questions.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/02_likert_stacked_percent.png" title="Distribution of student responses across survey items" class="img-fluid rounded z-depth-1 mb-4" %}
 
+<p>The boxplot with individual response points gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items. This is mainly useful for readers who want to inspect the survey results in more detail.</p>
+
 {% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<p>The final plot summarizes themes from the open responses. It complements the quantitative survey results by showing what students actually mentioned: new perspectives, more structure, better questions, and clearer focus during feedback.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/14_text_theme_counts.png" title="Themes in open student responses" class="img-fluid rounded z-depth-1 mb-4" %}
 
