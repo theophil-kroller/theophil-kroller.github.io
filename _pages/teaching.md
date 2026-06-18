@@ -932,9 +932,11 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 <p class="figure-note">Note: Q1–Q10 refer to the ten scaled survey items in the survey setup above. In brief: Q1 = task clarity, Q2 = livelier discussion, Q3 = more diverse feedback, Q4 = new perspectives, Q5 = role-specific questions, Q6 = constructive feedback, Q7 = later recall, Q8 = later influence, Q9 = perceived difference, Q10 = more specific/useful feedback.</p>
 
-<p>The final plot summarizes themes from the open responses. Open responses were assigned thematic labels. It complements the quantitative survey results by showing what students actually mentioned: new perspectives, more structure, better questions, and clearer focus during feedback.</p>
+<p>The final plot summarizes recurring themes from the open responses. The thematic labels should be read as interpretive codes rather than as separate survey answers. Several student comments touched on more than one theme, for example when a student described the role cards as giving more direction while also making it easier to start a discussion. The labels therefore summarize what the comments were mainly about: new perspectives, clearer focus, more structured feedback, more diverse or creative questions, and suggestions for improving the activity in future sessions.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/14_text_theme_counts.png" title="Themes in open student responses" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<p class="figure-note">Interpretation of the thematic labels: “New perspectives” refers to comments that the role cards helped students look at pitches from another stakeholder or role perspective. “Structure / direction” refers to comments that the cards made it clearer what to focus on when asking questions or giving feedback. “Better questions / feedback” summarizes comments about more constructive, more creative, or more diverse questions and comments. “Later influence” refers to statements that the role perspectives stayed in students’ minds during later presentation sessions. “Improvement suggestions” includes practical suggestions such as using the cards in more than one session, preparing a larger card set so that more students receive a distinct role, explaining the cards more explicitly beforehand, brainstorming possible questions with the class, and providing sample questions to avoid repetition.</p>
 
 </details>
 
