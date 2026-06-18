@@ -826,11 +826,53 @@ At the end of the course I carried out a short survey through feedbackR: **15 of
 
 **What I will improve next time:**
 
-For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set (expand it so that it can be adapted to abother presentation session with a thematic focus), so that the questions become even more varied and less repetitive.
+For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set (expand it so that it can be adapted to another presentation session with a thematic focus), so that the questions become even more varied and less repetitive.
 
 </div>
 
-<p>The figure below shows the clearest headline result from the survey: most responding students preferred the role-card format over an unstructured feedback format.</p>
+<div class="participant-feedback" markdown="1">
+
+**How to read the feedback evidence:**
+
+Before interpreting the following figures, it is important to know which questions students answered and how the response scale worked. The short feedbackR survey contained **10 Likert-type items** on the role-card method, **one preference question**, and **three open questions**. For the scaled items, students responded on the following scale:
+
+| Value | Meaning | Interpretation in the plots |
+|---:|---|---|
+| 1 | strongly agree | positive / agreement |
+| 2 | agree | positive / agreement |
+| 3 | somewhat agree | positive tendency |
+| 4 | somewhat disagree | negative tendency |
+| 5 | disagree | negative / disagreement |
+| 6 | strongly disagree | negative / disagreement |
+
+For the visual summaries below, values **1–3** therefore indicate agreement or a positive tendency, while values **4–6** indicate disagreement or a negative tendency. The scaled items were answered by **18 students**; the final preference question was answered by **17 students**.
+
+**Scaled survey items:**
+
+| No. | Survey item |
+|---:|---|
+| 1 | In the first presentation session, you received a role card. Please give your personal assessment: The task connected to taking on a specific role was clearly formulated, and I knew what I was expected to do. |
+| 2 | I found that the group discussion became more lively through the use of the role cards. |
+| 3 | I gave more diverse feedback through the use of the role cards than I would have given without them. |
+| 4 | By taking on a specific role, I gained new perspectives that I probably would not have considered otherwise. |
+| 5 | Through the use of the role cards, I asked questions from a role-specific perspective that I probably would not have taken otherwise. |
+| 6 | I found that the role cards helped me better understand what makes questions and feedback on presentations useful and constructive. |
+| 7 | The role cards stayed in my mind during later presentation sessions, even when they were no longer used explicitly. |
+| 8 | I found that the role cards positively influenced the way I asked questions or gave feedback in later sessions without role cards. |
+| 9 | When my group was presenting, I noticed a difference in the types of questions, feedback, or points of attention raised when role cards were used compared to later sessions without role cards. |
+| 10 | When my group was presenting, I found that the feedback we received through the role card method was more specific and useful than feedback in later sessions without role cards. |
+
+**Preference question:**
+
+Students were also asked: **“When asking questions and giving feedback on presentations, I prefer …”** with the two answer options **“… the method with role cards.”** and **“… the method without role cards.”** This is the question visualized in the first figure below.
+
+**Open questions:**
+
+The survey also included three open questions: (1) **“Please briefly explain your answer to the previous question.”** (2) **“If the role cards influenced your later questions or feedback, please briefly explain how.”** and (3) **“What should be changed or improved if role cards are used again in future presentation sessions?”** The final thematic plot summarizes the recurring themes in these written responses.
+
+</div>
+
+<p>The figure below now becomes easier to interpret: it shows the clearest headline result from the survey, namely that most responding students preferred the role-card format over an unstructured feedback format.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
