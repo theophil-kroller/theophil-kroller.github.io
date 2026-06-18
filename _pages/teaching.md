@@ -158,6 +158,33 @@ body.dark .course-tags > span .course-term {
   color: var(--teaching-muted);
 }
 
+.competence-field-bubble {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.08rem;
+  margin: 0.65rem 0 0.45rem 0;
+  padding: 0.42rem 0.85rem;
+  border: 1px solid var(--teaching-tag-border);
+  border-radius: 999px;
+  background: var(--teaching-tag-bg);
+  color: var(--teaching-tag-text);
+  line-height: 1.25;
+}
+
+.competence-field-bubble .competence-field-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--teaching-muted);
+}
+
+.competence-field-bubble .competence-field-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--teaching-strong);
+}
+
 .course-legend {
   margin-top: 1.25rem;
   font-size: 0.9rem;
@@ -538,7 +565,7 @@ The following overview provides a compact view of selected teaching activities a
 
 <p><strong>Documented Courses / Teaching Areas by Competence Field:</strong></p>
 
-<p><strong>Chemical Engineering &amp; Ecotoxicology</strong></p>
+<div class="competence-field-bubble"><span class="competence-field-label">Competence Field:</span><span class="competence-field-name">Chemical Engineering &amp; Ecotoxicology</span></div>
 <div class="course-tags">
   <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
   <span><span class="course-type">PRJ</span> Applied Research Project in Environmental Management <span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
@@ -565,13 +592,13 @@ The following overview provides a compact view of selected teaching activities a
   <span><span class="course-type">LAB</span> Technical Chemistry Laboratory <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
 </div>
 
-<p><strong>Cell Technologies &amp; Biomaterials</strong></p>
+<div class="competence-field-bubble"><span class="competence-field-label">Competence Field:</span><span class="competence-field-name">Cell Technologies &amp; Biomaterials</span></div>
 <div class="course-tags">
   <span><span class="course-type">ILV</span> Preparatory Course for the Applied Research Project <span class="course-term">ST2015</span></span>
   <span><span class="course-type">SUP</span> Thesis Supervision / Master’s Thesis Review <span class="course-term">ST2016</span></span>
 </div>
 
-<p><strong>Life Science Engineering</strong></p>
+<div class="competence-field-bubble"><span class="competence-field-label">Competence Field:</span><span class="competence-field-name">Life Science Engineering</span></div>
 <div class="course-tags">
   <span><span class="course-type">ILV</span> Special Applications of Environmental Technology <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
   <span><span class="course-type">LAB</span> Cell Biology Laboratory <span class="course-term">WT2014</span></span>
@@ -832,9 +859,9 @@ For the next iteration, I will introduce the role cards with one worked example 
 
 <div class="participant-feedback" markdown="1">
 
-**How to read the feedback evidence:**
+**Setup of the survey:**
 
-Before interpreting the following figures, it is important to know which questions students answered and how the response scale worked. The short feedbackR survey contained **10 Likert-type items** on the role-card method, **one preference question**, and **three open questions**. For the scaled items, students responded on the following scale:
+The short feedbackR survey contained **10 Likert-type items** on the role-card method, **one preference question**, and **three open questions**. For the scaled items, students responded on the following scale:
 
 | Value | Meaning | Interpretation in the plots |
 |---:|---|---|
@@ -872,7 +899,7 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 </div>
 
-<p>The figure below now becomes easier to interpret: it shows the clearest headline result from the survey, namely that most responding students preferred the role-card format over an unstructured feedback format.</p>
+<p>The figure below shows the clearest headline result from the survey, namely that most responding students preferred the role-card format over an unstructured feedback format.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
@@ -883,7 +910,7 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 {% include figure.liquid loading="lazy" path="assets/img/03_positive_scale_summary.png" title="Positive response summary for the role-card feedback activity" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p>The diverging positive-negative plot makes the balance of responses visible. It shows where the evidence is particularly strong and where the activity still leaves room for improvement. I include it because it communicates both the positive signal and the critical/ambivalent responses in a transparent way.</p>
+<p>The diverging positive-negative plot makes the balance of responses visible. It shows where the evidence is particularly strong and where the activity still leaves room for improvement. It shows both the positive signal and the critical/ambivalent responses in a transparent way.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/08_diverging_positive_negative.png" title="Positive and negative response balance across role-card survey items" class="img-fluid rounded z-depth-1 mb-4" %}
 
@@ -891,7 +918,7 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 {% include figure.liquid loading="lazy" path="assets/img/02_likert_stacked_percent.png" title="Distribution of student responses across survey items" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p>The boxplot with individual response points gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items. This is mainly useful for readers who want to inspect the survey results in more detail.</p>
+<p>The boxplot with individual response points gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
 
