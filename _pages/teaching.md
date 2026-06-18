@@ -191,6 +191,13 @@ body.dark .course-tags > span .course-term {
   color: var(--teaching-muted);
 }
 
+.figure-note {
+  margin-top: -0.75rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+  color: var(--teaching-muted);
+}
+
 
 .teaching-photo-grid img {
   width: 100%;
@@ -857,7 +864,8 @@ For the next iteration, I will introduce the role cards with one worked example 
 
 </div>
 
-<div class="participant-feedback" markdown="1">
+<details class="participant-feedback" markdown="1">
+<summary><strong>Show survey setup and item wording</strong></summary>
 
 **Setup of the survey:**
 
@@ -897,14 +905,14 @@ Students were also asked: **“When asking questions and giving feedback on pres
 
 The survey also included three open questions: (1) **“Please briefly explain your answer to the previous question.”** (2) **“If the role cards influenced your later questions or feedback, please briefly explain how.”** and (3) **“What should be changed or improved if role cards are used again in future presentation sessions?”** The final thematic plot summarizes the recurring themes in these written responses.
 
-</div>
+</details>
 
 <p>The figure below shows the clearest headline result from the survey, namely that most responding students preferred the role-card format over an unstructured feedback format.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
 <details>
-<summary><strong>Show additional feedback evidence (more details)</strong></summary>
+<summary><strong>Show detailed analysis of the survey results</strong></summary>
 
 <p>The following summary plot shows how strongly the different survey items point in a positive direction. It is useful as a compact overview because it links the preference result to more specific learning effects, such as more diverse feedback, clearer focus, and livelier discussion.</p>
 
@@ -921,6 +929,8 @@ The survey also included three open questions: (1) **“Please briefly explain y
 <p>The boxplot with individual response points gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<p class="figure-note">Note: Q1–Q10 refer to the ten scaled survey items in the survey setup above. In brief: Q1 = task clarity, Q2 = livelier discussion, Q3 = more diverse feedback, Q4 = new perspectives, Q5 = role-specific questions, Q6 = constructive feedback, Q7 = later recall, Q8 = later influence, Q9 = perceived difference, Q10 = more specific/useful feedback.</p>
 
 <p>The final plot summarizes themes from the open responses. Open responses were assigned thematic labels. It complements the quantitative survey results by showing what students actually mentioned: new perspectives, more structure, better questions, and clearer focus during feedback.</p>
 
