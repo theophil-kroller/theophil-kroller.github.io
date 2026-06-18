@@ -532,38 +532,66 @@ The following overview provides a compact view of selected teaching activities a
   <div class="teaching-content">
     <h4>UAS Technikum Wien</h4>
 
-    <p><strong>Programmes / Student Groups:</strong> Master students in Environmental Management and Ecotoxicology; bachelor students in Biomedical Engineering, Mechanical Engineering, and Industrial Engineering</p>
+<div class="teaching-entry">
+  <div class="teaching-period">2014–2017</div>
+  <div class="teaching-content">
+    <h4>UAS Technikum Wien</h4>
 
-    <p><strong>Documented Courses / Teaching Areas in Environmental Management and Ecotoxicology:</strong></p>
-    <div class="course-tags">
-      <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
-      <span><span class="course-type">PRJ</span> Applied Research Project in Environmental Management <span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
-      <span><span class="course-type">ILV</span> Endocrine Substances – Environmental Hormones <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
-      <span><span class="course-type">LAB</span> Endocrine Substances – Environmental Hormones Laboratory <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
-      <span><span class="course-type">LAB</span> Laboratory Measurement and Experimental Methods <span class="course-term">WT2014</span></span>
-      <span><span class="course-type">VO</span> Measurement and Experimental Methods <span class="course-term">WT2016</span></span>
-      <span><span class="course-type">VO</span> Current Topics in Environmental Management <span class="course-term">ST2015</span></span>
-      <span><span class="course-type">ILV</span> Special Applications of Environmental Technology <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
-      <span><span class="course-type">ILV</span> Special Environmental Chemistry <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
-      <span><span class="course-type">ILV</span> Preparatory Course for the Applied Research Project <span class="course-term">ST2015</span></span>
-      <span><span class="course-type">UE</span> Current Topics in Ecology <span class="course-term">WT2015</span></span>
-      <span><span class="course-type">ILV</span> Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
-      <span><span class="course-type">LAB</span> Laboratory Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
-      <span><span class="course-type">SE</span> Diploma Thesis Seminar <span class="course-term">ST2016</span></span>
-      <span><span class="course-type">SUP</span> Thesis Supervision / Master’s Thesis Review <span class="course-term">ST2016</span></span>
-    </div>
+```
+<p><strong>Programmes / Student Groups:</strong> Master students in Environmental Management and Ecotoxicology; bachelor students in Biomedical Engineering, Mechanical Engineering, and Industrial Engineering</p>
 
-    <p><strong>Further teaching areas from additional contracts / departments:</strong></p>
-    <div class="course-tags">
-      <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">ST2015</span><span class="course-term">WT2015</span><span class="course-term">ST2016</span><span class="course-term">WT2016</span></span>
-      <span><span class="course-type">LAB</span> Cell Culture Techniques Laboratory <span class="course-term course-term--pending">records pending</span></span>
-    </div>
+<p><strong>Faculty / Departmental Context:</strong> Faculty of Life Science Engineering / Department Life Science Engineering</p>
 
-    <p class="course-note">The first group of courses is based on currently documented teaching assignments in the Master’s programme Environmental Management and Ecotoxicology and covers at least 458 documented teaching hours between WT2014 and WT2016. The second group keeps additional laboratory teaching areas visible while the corresponding teaching assignments from Mechanical Engineering and other departments are still being reconstructed.</p>
+<p><strong>Documented Courses / Teaching Areas by Competence Field:</strong></p>
 
-    <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
+<p><strong>Chemical Engineering &amp; Ecotoxicology</strong></p>
+<div class="course-tags">
+  <span><span class="course-type">PRJ</span> Applied Research Project in Ecotoxicology <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
+  <span><span class="course-type">PRJ</span> Applied Research Project in Environmental Management <span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
+
+  <span><span class="course-type">ILV</span> Endocrine Substances – Environmental Hormones <span class="course-term">WT2014</span><span class="course-term">WT2015</span></span>
+  <span><span class="course-type">LAB</span> Endocrine Substances – Environmental Hormones Laboratory <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
+
+  <span><span class="course-type">LAB</span> Laboratory Measurement and Experimental Methods <span class="course-term">WT2014</span></span>
+  <span><span class="course-type">VO</span> Measurement and Experimental Methods <span class="course-term">WT2016</span></span>
+
+  <span><span class="course-type">VO</span> Current Topics in Environmental Management <span class="course-term">ST2015</span></span>
+  <span><span class="course-type">UE</span> Current Topics in Ecology <span class="course-term">WT2015</span></span>
+
+  <span><span class="course-type">ILV</span> Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
+  <span><span class="course-type">LAB</span> Laboratory Aquatic Ecotoxicology <span class="course-term">WT2015</span></span>
+
+  <span><span class="course-type">ILV</span> Special Environmental Chemistry <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
+  <span><span class="course-type">ILV</span> Preparatory Course for the Applied Research Project <span class="course-term">ST2015</span></span>
+
+  <span><span class="course-type">SE</span> Diploma Thesis Seminar <span class="course-term">ST2016</span></span>
+
+  <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">ST2015</span><span class="course-term">WT2015</span><span class="course-term">ST2016</span><span class="course-term">WT2016</span></span>
+
+  <span><span class="course-type">LAB</span> Technical Chemistry Laboratory <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
+</div>
+
+<p><strong>Cell Technologies &amp; Biomaterials</strong></p>
+<div class="course-tags">
+  <span><span class="course-type">ILV</span> Preparatory Course for the Applied Research Project <span class="course-term">ST2015</span></span>
+  <span><span class="course-type">SUP</span> Thesis Supervision / Master’s Thesis Review <span class="course-term">ST2016</span></span>
+</div>
+
+<p><strong>Life Science Engineering</strong></p>
+<div class="course-tags">
+  <span><span class="course-type">ILV</span> Special Applications of Environmental Technology <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
+  <span><span class="course-type">LAB</span> Cell Biology Laboratory <span class="course-term">WT2014</span></span>
+  <span><span class="course-type">LAB</span> Laboratory Instrumental Analytics <span class="course-term">WT2014</span></span>
+</div>
+
+<p class="course-note">The teaching assignment records from WS2014 to WS2016 document teaching activities across several departmental areas at UAS Technikum Wien. In the scanned records, some department names are abbreviated in the table view, for example “Chemical Engineering and...” and “Cell Technologies and Bi...”. These entries have been expanded here using the current terminology of UAS Technikum Wien’s Department Life Science Engineering and its competence fields. Across the documented contracts, the listed teaching load amounts to at least 658 documented teaching hours.</p>
+
+<p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
+```
+
   </div>
 </div>
+
 
 <div class="teaching-entry">
   <div class="teaching-period">2003–2004</div>
