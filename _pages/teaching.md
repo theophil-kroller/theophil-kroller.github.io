@@ -532,12 +532,6 @@ The following overview provides a compact view of selected teaching activities a
   <div class="teaching-content">
     <h4>UAS Technikum Wien</h4>
 
-<div class="teaching-entry">
-  <div class="teaching-period">2014–2017</div>
-  <div class="teaching-content">
-    <h4>UAS Technikum Wien</h4>
-
-```
 <p><strong>Programmes / Student Groups:</strong> Master students in Environmental Management and Ecotoxicology; bachelor students in Biomedical Engineering, Mechanical Engineering, and Industrial Engineering</p>
 
 <p><strong>Faculty / Departmental Context:</strong> Faculty of Life Science Engineering / Department Life Science Engineering</p>
@@ -587,11 +581,9 @@ The following overview provides a compact view of selected teaching activities a
 <p class="course-note">The teaching assignment records from WS2014 to WS2016 document teaching activities across several departmental areas at UAS Technikum Wien. In the scanned records, some department names are abbreviated in the table view, for example “Chemical Engineering and...” and “Cell Technologies and Bi...”. These entries have been expanded here using the current terminology of UAS Technikum Wien’s Department Life Science Engineering and its competence fields. Across the documented contracts, the listed teaching load amounts to at least 658 documented teaching hours.</p>
 
 <p><strong>Format:</strong> Lectures, integrated courses, laboratories, exercises, research seminars, project supervision, thesis supervision</p>
-```
 
   </div>
 </div>
-
 
 <div class="teaching-entry">
   <div class="teaching-period">2003–2004</div>
@@ -828,6 +820,33 @@ The goal was to make feedback more structured and more diverse. Instead of gener
 
 </div>
 
+<div class="participant-feedback" markdown="1">
+
+**Feedback evidence, summer term 2026:**
+
+In a short feedback survey after the pitch-feedback session, **15 of 17 responding students** stated that they preferred giving questions and feedback with role cards rather than without them. Across the scaled items, the strongest signal was that the role cards made feedback more diverse. Students also reported that the cards helped them focus on specific aspects, ask more role-specific questions, and formulate more constructive comments.
+
+**What I will improve next time:**
+
+For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set, so that the questions become even more varied and less repetitive.
+
+</div>
+
+{% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
+
+<details>
+<summary><strong>Show additional feedback evidence</strong></summary>
+
+{% include figure.liquid loading="lazy" path="assets/img/03_positive_scale_summary.png" title="Positive response summary for the role-card feedback activity" class="img-fluid rounded z-depth-1 mb-4" %}
+
+{% include figure.liquid loading="lazy" path="assets/img/02_likert_stacked_percent.png" title="Distribution of student responses across survey items" class="img-fluid rounded z-depth-1 mb-4" %}
+
+{% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
+
+{% include figure.liquid loading="lazy" path="assets/img/14_text_theme_counts.png" title="Themes in open student responses" class="img-fluid rounded z-depth-1 mb-4" %}
+
+</details>
+
 ### General Management and Organization: Leadership Module
 
 <div class="row align-items-start mt-3 mb-4 teaching-photo-document">
@@ -920,13 +939,6 @@ In addition to the business model development workshop, I also moderate the fina
 
 <p class="photo-credit">Photo credit for the Gründungsgarage final pitch images: © Christof Hütter Fotografie.</p>
 
-<div class="participant-feedback" markdown="1">
-
-**Feedback placeholder:**
-
-*For the Gründungsgarage / Startup Garage workshop, we collected feedback via Feedbackr. I will include selected anonymized statements here after evaluating the responses.*
-
-</div>
 
 ### Early Teaching Example: World Affairs Discussion Format
 
@@ -1051,7 +1063,6 @@ A more recent example of a grading rubric that I developed is a seven-page rubri
   </div>
 </div>
 
-[Placeholder Space - maybe add the following examples later: examples of assessment criteria, business plan rubric, presentation rubric, laboratory assessment rubrics, Antestate, LaTeX exams.]
 
 ## Feedback and Evidence
 
