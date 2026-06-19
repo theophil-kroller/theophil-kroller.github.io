@@ -555,7 +555,7 @@ The following overview provides a compact view of selected teaching activities a
   <span><span class="course-type">WS</span> Sustainable Business Models for SMEs <span class="course-term">ST2026</span></span>
 </div>
 
-      <p class="course-note">Term tags indicate the semesters in which the respective course or supervision activity was taught or started. The Gründungsgarage / Startup Garage is listed from WT2024 onward; thesis supervision activities are listed from their first documented supervision semester.</p>
+      <p class="course-note">Term tags indicate the semesters in which the respective course or supervision activity was taught, thesis supervision activities are listed from their first documented supervision semester.</p>
 
       <p><strong>Format:</strong> Lectures, practical courses, seminars, project supervision, business model development workshops</p>
     </div>
@@ -594,7 +594,7 @@ The following overview provides a compact view of selected teaching activities a
 
   <span><span class="course-type">SE</span> Diploma Thesis Seminar <span class="course-term">ST2016</span></span>
 
-  <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">ST2015</span><span class="course-term">WT2015</span><span class="course-term">ST2016</span><span class="course-term">WT2016</span></span>
+  <span><span class="course-type">LAB</span> Introduction to Chemistry Laboratory <span class="course-term">WT2014</span><span class="course-term">WT2015</span><span class="course-term">WT2016</span></span>
 
   <span><span class="course-type">LAB</span> Technical Chemistry Laboratory <span class="course-term">ST2015</span><span class="course-term">ST2016</span></span>
 </div>
