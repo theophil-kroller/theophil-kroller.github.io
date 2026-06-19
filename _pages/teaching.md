@@ -630,7 +630,7 @@ The following overview provides a compact view of selected teaching activities a
       <span><span class="course-type">COURSE</span> English Listening <span class="course-term">WT2003</span><span class="course-term">ST2004</span><span class="course-term">WT2004</span></span>
     </div>
 
-    <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination</p>
+    <p><strong>Format:</strong> Regular university language courses with compulsory attendance and final oral assessment/examination. Teachingload: 16 contact hours/week</p>
   </div>
 </div>
 
