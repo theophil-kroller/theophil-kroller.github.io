@@ -838,7 +838,7 @@ Students move through the process of understanding user needs, interviewing, ide
 
 For the summer semester 2026 iteration of the course, I developed a role-card format for pitch feedback. Students listened to the pitch of another group from a specific role perspective, for example as an investor, media reporter, business angel, rhetoric coach, or potential customer.
 
-The goal was to make feedback more structured and more diverse. Instead of general comments such as “I liked it” or “the pitch was good”, students are encouraged to ask questions and give feedback from a defined role. I expected this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective. The activity was very well received by both my colleague that I am co-teaching this course with and the student groups and led to deeper, more alive and more honest feedback and audience questions.
+The goal of this activity was to make the feedback that students give more structured and more diverse. Instead of the usual general comments such as “I liked it” or “the pitch was good”, students are encouraged to ask questions and give feedback from a defined role. I expected this to support deeper peer learning and help students understand that pitches are evaluated differently depending on the stakeholder perspective. The activity was very well received by both my colleague that I am co-teaching this course with and the student groups and led to deeper, more alive and more honest feedback and audience questions.
 
 <div class="participant-feedback" markdown="1">
 
@@ -856,11 +856,11 @@ The goal was to make feedback more structured and more diverse. Instead of gener
 
 **Feedback evidence, summer term 2026:**
 
-At the end of the course I carried out a short survey through feedbackR: **15 of 17 responding students** stated that they preferred giving questions and feedback with role cards rather than without them. Across the scaled items, the strongest signal was that the role cards made feedback more diverse. Students also reported that the cards helped them focus on specific aspects, ask more role-specific questions, and formulate more constructive comments.
+At the end of the course I carried out a short survey through feedbackR: **15 of 17 responding students** stated that they preferred giving questions and feedback with role cards rather than without them. Across the scaled items, the strongest feedback signal I received was that the role cards made feedback more diverse. Students also reported that the cards helped them focus on specific aspects, ask more role-specific questions, and formulate more constructive comments.
 
 **What I will improve next time:**
 
-For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set (expand it so that it can be adapted to another presentation session with a thematic focus), so that the questions become even more varied and less repetitive.
+The feedback was encouraging. For the next iteration, I will introduce the role cards with one worked example and prepare a slightly larger card set (expand it so that it can be adapted to another presentation session with a thematic focus), so that the questions become even more varied and less repetitive.
 
 </div>
 
@@ -880,7 +880,7 @@ The short feedbackR survey contained **10 Likert-type items** on the role-card m
 | 5 | disagree | negative / disagreement |
 | 6 | strongly disagree | negative / disagreement |
 
-For the visual summaries below, values **1–3** therefore indicate agreement or a positive tendency, while values **4–6** indicate disagreement or a negative tendency. The scaled items were answered by **18 students**; the final preference question was answered by **17 students**.
+For the visual summaries below, values **1–3** indicate agreement or a positive tendency, while values **4–6** indicate disagreement or a negative tendency. The scaled items were answered by **18 students**; the final preference question was answered by **17 students**.
 
 **Scaled survey items:**
 
@@ -907,14 +907,14 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 </details>
 
-<p>The figure below shows the clearest headline result from the survey, namely that most responding students preferred the role-card format over an unstructured feedback format.</p>
+<p>The figure below shows a clear support with 15 out of 17 students preferring the role-card format over the usual unstructured feedback format.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/12_method_preference.png" title="Student preference for pitch feedback with role cards" class="img-fluid rounded z-depth-1 mb-4" %}
 
 <details>
 <summary><strong>Show detailed analysis of the survey results</strong></summary>
 
-<p>The following summary plot shows how strongly the different survey items point in a positive direction. It is useful as a compact overview because it links the preference result to more specific learning effects, such as more diverse feedback, clearer focus, and livelier discussion.</p>
+<p>The following summary plot shows how strongly the different survey items point in a positive direction.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/03_positive_scale_summary.png" title="Positive response summary for the role-card feedback activity" class="img-fluid rounded z-depth-1 mb-4" %}
 
@@ -922,21 +922,21 @@ The survey also included three open questions: (1) **“Please briefly explain y
 
 {% include figure.liquid loading="lazy" path="assets/img/08_diverging_positive_negative.png" title="Positive and negative response balance across role-card survey items" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p>The stacked response distribution shows the full spread of answers for each item. This is a more detailed view than the summary plot and helps avoid overclaiming: it shows not only the positive tendency, but also how strongly or weakly students agreed across the different questions.</p>
+<p>The stacked response distribution shows the full spread of answers for each item: it shows not just the positive tendency, but also how strongly or weakly students agreed across the different questions.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/02_likert_stacked_percent.png" title="Distribution of student responses across survey items" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p>The boxplot with individual response points gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items.</p>
+<p>The boxplot with individual response points (shown as an overlayed scatterplot) gives a more exploratory view of the data. It shows the median response, the spread of answers, and individual variation across items.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/05_boxplot_jitter_combined.png" title="Response distribution with boxplots and individual response points" class="img-fluid rounded z-depth-1 mb-4" %}
 
 <p class="figure-note">Note: Q1–Q10 refer to the ten scaled survey items in the survey setup above. In brief: Q1 = task clarity, Q2 = livelier discussion, Q3 = more diverse feedback, Q4 = new perspectives, Q5 = role-specific questions, Q6 = constructive feedback, Q7 = later recall, Q8 = later influence, Q9 = perceived difference, Q10 = more specific/useful feedback.</p>
 
-<p>The final plot summarizes recurring themes from the open responses. The thematic labels should be read as interpretive codes rather than as separate survey answers. Several student comments touched on more than one theme, for example when a student described the role cards as giving more direction while also making it easier to start a discussion. The labels therefore summarize what the comments were mainly about: new perspectives, clearer focus, more structured feedback, more diverse or creative questions, and suggestions for improving the activity in future sessions.</p>
+<p>The final plot summarizes recurring themes from the open responses. The thematic labels should be understood as interpretive codes rather than as separate survey answers. Several student comments touched on more than one theme, for example when a student described the role cards as giving more direction while also making it easier to start a discussion.</p>
 
 {% include figure.liquid loading="lazy" path="assets/img/14_text_theme_counts.png" title="Themes in open student responses" class="img-fluid rounded z-depth-1 mb-4" %}
 
-<p class="figure-note">Interpretation of the thematic labels: “New perspectives” refers to comments that the role cards helped students look at pitches from another stakeholder or role perspective. “Structure / direction” refers to comments that the cards made it clearer what to focus on when asking questions or giving feedback. “Better questions / feedback” summarizes comments about more constructive, more creative, or more diverse questions and comments. “Later influence” refers to statements that the role perspectives stayed in students’ minds during later presentation sessions. "Improvement suggestions" refers to comments that the role-card method could be further improved by using a larger and more varied set of cards, introducing the cards with a clearer example, and giving students a few sample questions so that their feedback becomes more varied and less repetitive.</p>
+<p class="figure-note">Interpretation of the thematic labels: “New perspectives” refers to comments that the role cards helped students look at pitches from another stakeholder or role perspective. “Structure / direction” refers to comments that the cards made it clearer what to focus on when asking questions or giving feedback. “Better questions / feedback” summarizes comments about more constructive, more creative, or more diverse questions and comments. “Later influence” refers to statements that the role perspectives stayed in students’ minds during later presentation sessions. "Improvement suggestions" refers to comments that the role-card method could be further improved by using a larger and more varied set of cards, introducing the cards with a clearer example, and giving students not just one but a few sample questions so that their feedback becomes more varied and less repetitive.</p>
 
 </details>
 
