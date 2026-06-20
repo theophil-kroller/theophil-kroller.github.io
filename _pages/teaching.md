@@ -298,6 +298,108 @@ body.dark .course-tags > span .course-term {
   margin-bottom: 0;
 }
 
+
+.teaching-quote-section {
+  margin: 0.4rem 0 1.65rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.teaching-quote-block {
+  display: flex;
+  width: 100%;
+}
+
+.teaching-quote-block--left {
+  justify-content: flex-start;
+}
+
+.teaching-quote-block--right {
+  justify-content: flex-end;
+}
+
+.teaching-quote-card {
+  max-width: 78%;
+  padding: 1rem 1.15rem;
+  border: 1px solid #e4e4e4;
+  border-left: 4px solid #d0d0d0;
+  border-radius: 0.85rem;
+  background: #fafafa;
+  color: #222;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.04);
+}
+
+.teaching-quote-block--right .teaching-quote-card {
+  text-align: right;
+  border-left: 1px solid #e4e4e4;
+  border-right: 4px solid #d0d0d0;
+}
+
+.teaching-quote-original {
+  margin-bottom: 0.45rem;
+  font-size: 1.18rem;
+  line-height: 1.6;
+  color: #111;
+}
+
+.teaching-quote-translation {
+  margin-bottom: 0.35rem;
+  font-style: italic;
+  color: #333;
+}
+
+.teaching-quote-source {
+  margin-bottom: 0;
+  font-size: 0.92rem;
+  color: #666;
+}
+
+html[data-theme="dark"] .teaching-quote-card,
+body[data-theme="dark"] .teaching-quote-card,
+[data-bs-theme="dark"] .teaching-quote-card,
+html.dark .teaching-quote-card,
+body.dark .teaching-quote-card {
+  border-color: #4a4a4a;
+  border-left-color: #6a6a6a;
+  background: #252525;
+  color: #f2f2f2;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.22);
+}
+
+html[data-theme="dark"] .teaching-quote-block--right .teaching-quote-card,
+body[data-theme="dark"] .teaching-quote-block--right .teaching-quote-card,
+[data-bs-theme="dark"] .teaching-quote-block--right .teaching-quote-card,
+html.dark .teaching-quote-block--right .teaching-quote-card,
+body.dark .teaching-quote-block--right .teaching-quote-card {
+  border-left-color: #4a4a4a;
+  border-right-color: #6a6a6a;
+}
+
+html[data-theme="dark"] .teaching-quote-original,
+body[data-theme="dark"] .teaching-quote-original,
+[data-bs-theme="dark"] .teaching-quote-original,
+html.dark .teaching-quote-original,
+body.dark .teaching-quote-original {
+  color: #ffffff;
+}
+
+html[data-theme="dark"] .teaching-quote-translation,
+body[data-theme="dark"] .teaching-quote-translation,
+[data-bs-theme="dark"] .teaching-quote-translation,
+html.dark .teaching-quote-translation,
+body.dark .teaching-quote-translation {
+  color: #e2e2e2;
+}
+
+html[data-theme="dark"] .teaching-quote-source,
+body[data-theme="dark"] .teaching-quote-source,
+[data-bs-theme="dark"] .teaching-quote-source,
+html.dark .teaching-quote-source,
+body.dark .teaching-quote-source {
+  color: #cfcfcf;
+}
+
 .photo-credit {
   margin-top: -0.35rem;
   margin-bottom: 1.4rem;
@@ -314,6 +416,16 @@ body.dark .course-tags > span .course-term {
 
   .teaching-period {
     width: fit-content;
+  }
+
+  .teaching-quote-card {
+    max-width: 100%;
+  }
+
+  .teaching-quote-block--right .teaching-quote-card {
+    text-align: left;
+    border-left: 4px solid #d0d0d0;
+    border-right: 1px solid #e4e4e4;
   }
 
   .teaching-photo-document--crop-top img,
@@ -344,21 +456,45 @@ body.dark .course-tags > span .course-term {
 
 ## Teaching Philosophy
 
+<div class="teaching-quote-section">
+  <div class="teaching-quote-block teaching-quote-block--left">
+    <div class="teaching-quote-card">
+      <p class="teaching-quote-original" lang="zh">学而时习之，不亦说乎？</p>
+      <p class="teaching-quote-translation">To learn and to practice what one has learned — is this not a source of joy?</p>
+      <p class="teaching-quote-source">— Confucius, <em>Analects</em></p>
+    </div>
+  </div>
+
+  <div class="teaching-quote-block teaching-quote-block--right">
+    <div class="teaching-quote-card">
+      <p class="teaching-quote-original" lang="grc">ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν.</p>
+      <p class="teaching-quote-translation">For the things we have to learn before we can do them, we learn by doing them.</p>
+      <p class="teaching-quote-source">— Aristotle, <em>Nicomachean Ethics</em></p>
+    </div>
+  </div>
+</div>
+
 {% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-One of my core beliefs is that it is our job as teachers to prepare students to be ready and able to solve the problems of their time. I want to teach in such a way that students learn transferable skills, grow as a person and are able to contribute and excel in an internationally competitive environment. In order to achieve this, I believe it is important that students move beyond understanding concepts. Students should learn concepts and methods by being able to apply them to (ideally) not yet solved problems, because this is the way that will train them to be ready for entering the workforce prepared. Knowledge becomes meaningful when students can apply it to real situations, uncertain decisions, and problems that do not yet have a finished answer.
+These two sentences come from very different worlds, yet they point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
 
-I therefore try my best to design learning situations in such a way that they combine some form of structure and also openness. In terms of structure, students need clear explanations, useful frameworks and methods, good examples and best practice stories. In terms of openness, they need opportunities to ask questions (without being judged), test their ideas, compare their perspectives to others, create visible outputs, receive feedback (peer feedback and lecturer feedback), and reflect on what they have learned.
+This has shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
 
-In all of this, a mindset of curiosity is the driving element that guides this process. I value teaching situations in which questions open up the learning space: i.e. What do we observe here? Why might this be the case? Why not? What changes if we look at the problem from another perspective? In my own teaching, I try to keep this spirit of inquiry, dialogue, and shared sense-making alive, even if it sometimes puts me in a situation where I don't have all the answers.
+Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and questions that do not yet have a finished answer.
 
-My teaching is strongly influenced by experiential, problem-oriented, and competence-oriented learning. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, and challenge-based formats. These approaches are very applicable and valuable for engineering students in entrepreneurship and management education, because these students should learn how to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
+I think of teaching as the careful preparation of learning spaces. Such spaces need structure: clear explanations, useful frameworks, good examples, and tasks that make sense. But they also need openness. Students need room to ask questions, test ideas, compare perspectives, create something visible, receive feedback, and think again about what they have learned.
+
+This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
+
+Curiosity is central here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
+
+My teaching style is strongly experiential, problem-oriented, and competence-oriented. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, project-based tasks, and challenge-based formats. These methods are especially useful in entrepreneurship, management, and organization, because students must learn to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
 I also believe that good teaching requires a warm and non-threatening learning environment. Students should feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged. I value it when students bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
 
-In all of my teaching I have relied on feedback as a tool for growing: teacher feedback (to the students, or when co-teaching feedback from teacher to teacher), peer feedback (studnents), discussions, presentation feedback (peer/teacher), and structured assessment formats. Feedback should help students see what already works, where their thinking can become sharper, and how they can take the next steps. I try to maintain a positive and encouraging spirit when giving feedback.
+Feedback is another important part of my teaching. I use lecturer feedback, peer feedback, presentation feedback, discussions, and structured assessment formats to help students see where they stand and what their next step could be. Good feedback should be encouraging, but it should also be specific enough to improve the work.
 
-All in all, I understand teaching as the designing of learning spaces where learning experiences can unfold. These spaces need to be prepared ahead of time. They need structure, clarity, interaction, a mindset of experimentation, reflection, and trust. Good teaching helps students connect knowledge with action and gradually develops the confidence to engage with complex real-world problems in a responsible way.
+All in all, I understand teaching as the designing of learning spaces where learning experiences can unfold. These spaces need to be prepared ahead of time. They need structure, clarity, interaction, a mindset of experimentation, reflection, and trust. In the end, I want my courses to connect knowledge with action. This matters especially in fields such as entrepreneurship, management, organization, and sustainability, where students have to work with open questions and practical consequences. My goal is that students leave my courses with clearer concepts, sharper thinking, and more confidence to engage responsibly with complex problems.
 
 ## My Path into Teaching
 
