@@ -456,8 +456,6 @@ body.dark .teaching-quote-source {
 
 ## Teaching Philosophy
 
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
-
 <div class="teaching-quote-section">
   <div class="teaching-quote-block teaching-quote-block--left">
     <div class="teaching-quote-card">
@@ -476,17 +474,19 @@ body.dark .teaching-quote-source {
   </div>
 </div>
 
-These two sentences come from very different worlds, and yet they both point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
-This has also shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
+These two sentences come from very different worlds, yet they point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
 
-Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and to answer questions that do not yet have a finished answer.
+This has shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
+
+Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and questions that do not yet have a finished answer.
 
 I think of teaching as the careful preparation of learning spaces. Such spaces need structure: clear explanations, useful frameworks, good examples, and tasks that make sense. But they also need openness. Students need room to ask questions, test ideas, compare perspectives, create something visible, receive feedback, and think again about what they have learned.
 
-This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me, I believe in the intelligence of the classroom. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
+This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
 
-Curiosity becomes the central ingredient here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
+Curiosity is central here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
 
 My teaching style is strongly experiential, problem-oriented, and competence-oriented. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, project-based tasks, and challenge-based formats. These methods are especially useful in entrepreneurship, management, and organization, because students must learn to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
@@ -1270,28 +1270,21 @@ From a teaching perspective, this format reflects how I like to work: conceptual
 
 {% include figure.liquid loading="eager" path="assets/img/assessment.png" title="Assessment and Learning Outcomes" class="img-fluid rounded z-depth-1 mb-4" %}
 
-My teaching aims to connect learning outcomes, learning activities, and assessment formats. I use transfer tasks, case analyses, worksheets, group products, presentations, rubrics, and reflective discussions to support competence-oriented learning.
+Assessment is where I can see whether a learning activity has really worked. I prefer formats where students produce something concrete: an organizational chart, a matrix, a poster, a business model element, a persona, a market-sizing calculation, a pitch, a business plan section, or a prototype.
 
-A recurring principle in my course design is that students should produce visible outputs: organizational charts, matrices, posters, business model elements, persona profiles, market sizing exercises, pitch feedback, written business plan sections, or prototypes. These outputs make learning more concrete and give us something to discuss, compare, and improve in class.
+These outputs are useful because we can actually look at them together. A group can explain why they chose a certain structure, why their market estimate makes sense, or why they framed a problem in a particular way. Another group may have solved the same task differently. This often leads to good discussions, because the differences become visible.
 
-Rubrics are an important part of this approach. In both Entrepreneurship and General Management and Organization, I introduced grading rubrics to make assessment more transparent and consistent. In the Entrepreneurship course, the rubric supports the assessment of student business plans and provides a shared reference point for lecturers, students, and external startup guests involved in the course. In General Management and Organization, I introduced a rubric for student presentations, which makes it easier to assess presentations consistently and to provide structured feedback.
+Rubrics are helpful here. I use them because students should know what I am looking at when I assess their work. In Entrepreneurship, the business plan rubric breaks the assessment down into parts such as the executive summary, product and USP, business model, market and competitor analysis, marketing plan, personnel plan, and financial plan. This gives student teams a clearer idea of what a convincing startup concept needs. It also helps when the teaching team or external startup guests discuss the quality of a business plan.
 
-For me, rubrics are not only assessment tools, but also communication tools. They clarify what quality means in a course, help students understand what is expected, and support stronger alignment between learning activities, outputs, and evaluation.
+In General Management and Organization, I introduced a presentation rubric because I did not want presentations to be assessed only by general impression. The rubric makes it easier to talk about structure, clarity, argumentation, visual support, interaction with the audience, and professional delivery. Of course, judgement is still needed. But the criteria make it easier to explain why a presentation worked well or where it could become stronger.
 
-My interest in transparent assessment already developed during my time at UAS Technikum Wien. In laboratory teaching, I introduced entrance checks to ensure that students engaged with the theoretical background before entering the laboratory. This improved preparation and made the laboratory sessions more productive and safer.
+My interest in transparent assessment goes back to my time at UAS Technikum Wien. In laboratory courses, I used entrance checks before students entered the laboratory. The idea was simple: students should come prepared, understand the theoretical background, and be ready to work safely and productively. I also developed an IMRAD-based rubric for laboratory reports. It gave students a clearer picture of what a scientific report should contain and gave me a better basis for feedback. Later, other lecturers also used this rubric.
 
-I also developed a rubric for laboratory reports based on the IMRAD structure. This helped students understand what a scientifically structured laboratory report should contain and allowed me to provide clearer and more consistent feedback. The rubric later also became useful for other lecturers.
+Across these examples, assessment has become less about one final grade for me and more about orientation. Before a task, it tells students what matters. During the task, it helps them make decisions. After the task, it helps us talk about what already works and what still needs attention.
 
-A more recent example of a grading rubric that I developed is a seven-page rubric for evaluating the business plans that students write for a real startup invited into the Entrepreneurship course. The rubric covers the core elements of the business plan, including executive summary, product description and USP, business model, market and competitor analysis, marketing plan, personnel planning, and financial planning. It helps make expectations more transparent for students and supports a more consistent evaluation process across the teaching team.
+This is also how I understand learning outcomes. They should not be abstract sentences that only appear in the syllabus. They should help me design tasks, choose assessment formats, and explain to students why we are doing a particular activity. When learning outcomes, classroom activities, and assessment fit together, students usually notice it. The course feels more coherent, and the work they produce becomes easier to discuss.
 
-<div class="row align-items-start mt-3 mb-4 teaching-photo-document teaching-photo-document--crop-center">
-  <div class="col-12 mb-3" markdown="1">
-
-{% include figure.liquid loading="eager" path="assets/img/ENT_Grading_Rubrique_7pages.jpg" title="Business Plan Assessment Rubric" class="img-fluid rounded z-depth-1" %}
-
-  </div>
-</div>
-
+In the end, I want assessment to support the kind of learning I describe throughout this portfolio: structured enough to give orientation, open enough to allow different solutions, and concrete enough to connect theory with practice.
 
 ## Feedback and Evidence
 
