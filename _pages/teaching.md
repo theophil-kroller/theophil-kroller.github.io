@@ -456,6 +456,8 @@ body.dark .teaching-quote-source {
 
 ## Teaching Philosophy
 
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
+
 <div class="teaching-quote-section">
   <div class="teaching-quote-block teaching-quote-block--left">
     <div class="teaching-quote-card">
@@ -474,19 +476,17 @@ body.dark .teaching-quote-source {
   </div>
 </div>
 
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
+These two sentences come from very different worlds, and yet they both point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
 
-These two sentences come from very different worlds, yet they point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
+This has also shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
 
-This has shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
-
-Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and questions that do not yet have a finished answer.
+Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and to answer questions that do not yet have a finished answer.
 
 I think of teaching as the careful preparation of learning spaces. Such spaces need structure: clear explanations, useful frameworks, good examples, and tasks that make sense. But they also need openness. Students need room to ask questions, test ideas, compare perspectives, create something visible, receive feedback, and think again about what they have learned.
 
-This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
+This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me, I believe in the intelligence of the classroom. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
 
-Curiosity is central here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
+Curiosity becomes the central ingredient here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
 
 My teaching style is strongly experiential, problem-oriented, and competence-oriented. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, project-based tasks, and challenge-based formats. These methods are especially useful in entrepreneurship, management, and organization, because students must learn to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
