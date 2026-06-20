@@ -461,7 +461,7 @@ body.dark .teaching-quote-source {
 <div class="teaching-quote-section">
   <div class="teaching-quote-block teaching-quote-block--left">
     <div class="teaching-quote-card">
-      <p class="teaching-quote-original" lang="zh">学而时习之，不亦说乎？</p>
+      <p class="teaching-quote-original" lang="zh">學而時習之，不亦說乎？</p>
       <p class="teaching-quote-translation">To learn and to practice what one has learned — is this not a source of joy?</p>
       <p class="teaching-quote-source">— Confucius, <em>Analects</em></p>
     </div>
