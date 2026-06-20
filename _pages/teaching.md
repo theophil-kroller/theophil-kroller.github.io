@@ -476,17 +476,17 @@ body.dark .teaching-quote-source {
   </div>
 </div>
 
-These two sentences come from very different worlds, yet they point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
+These two quotes come from very different worlds, and yet they point in a similar direction: Learning needs practice! It needs repetition, reflection, and the chance to try something out.
 
-This has shaped the way I think about teaching. Students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
+If this is true then we need to design learning experiences that achieve this prupose. After all I believe that students should leave university better prepared to work on the problems of their time. I want to teach in such a way that students learn transferable skills, grow as people, and are able to contribute and excel in an internationally competitive environment. For me, this means more than knowing concepts or reproducing models. Students need confidence in their own thinking and the ability to use knowledge in situations that are uncertain, unfinished, and sometimes messy.
 
-Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge becomes meaningful when students can use it in real situations, uncertain decisions, and questions that do not yet have a finished answer.
+Students should therefore learn concepts and methods by applying them to problems that are, ideally, not yet solved. This is how they gradually train the kind of judgement, initiative, and practical readiness they will need when entering the workforce. Knowledge often becomes meaningful only when students can use it in real situations, uncertain decisions, and questions that do not yet have a finished answer.
 
-I think of teaching as the careful preparation of learning spaces. Such spaces need structure: clear explanations, useful frameworks, good examples, and tasks that make sense. But they also need openness. Students need room to ask questions, test ideas, compare perspectives, create something visible, receive feedback, and think again about what they have learned.
+I like to think of teaching as the careful preparation of learning spaces. Such spaces need structure: clear explanations, useful frameworks, good examples, and tasks that make sense. But they also need openness. Students need room to ask questions, test ideas, compare perspectives, create something visible, receive feedback, and think again about what they have learned.
 
 This is where I see my role as a teacher. I provide orientation, but I do not want the classroom to depend only on me. The idea of the teacher as a “guide on the side” is important to me. A good learning sequence gives students enough support to start, but also enough freedom to struggle productively, make choices, and develop their own judgement.
 
-Curiosity is central here. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
+Curiosity is a central driver guiding this process. Some of the best teaching moments begin with simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this spirit of inquiry alive in my courses, even when it leads to questions that I cannot answer immediately. For me, these are often honest and valuable moments.
 
 My teaching style is strongly experiential, problem-oriented, and competence-oriented. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, project-based tasks, and challenge-based formats. These methods are especially useful in entrepreneurship, management, and organization, because students must learn to deal with ambiguity, incomplete information, different stakeholder perspectives, and uncertainty.
 
@@ -557,7 +557,7 @@ Thinking back, teaching seems to have entered my life several times, often in un
 
 A concept that has stayed with me since my time as a lecturer at the UAS Technikum Wien is the idea of being a **“guide on the side”** rather than only a **“sage on the stage.”** I encountered this formulation in the context of problem-based learning and it resonated strongly with me.
 
-Students need orientation, frameworks, examples, and sometimes also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
+Students need orientation, frameworks, examples, and, more often than not, also a well-structured explanation. I still use PowerPoint and other forms of structured input when they help to clarify concepts. But I do not see my role as being the person who simply transfers knowledge from the front of the room. Especially in times of generative AI and rapidly changing knowledge environments, teaching cannot be reduced to knowing everything in advance and presenting it perfectly.
 
 I understand my role more as one of designing and facilitating learning situations. I try to create settings in which students can work with concepts, ask questions, test ideas, compare perspectives, and gradually develop their own understanding. Depending on the situation, this may involve slides, blackboard work, flipcharts, worksheets, role plays, group discussions, case studies, peer feedback, or visible outputs such as posters, canvases, models, and presentations.
 
@@ -568,7 +568,7 @@ I also try to create a classroom atmosphere that is warm, respectful, and intell
 
 My teaching design is guided by a small number of didactic frameworks that I use as practical orientation tools. They help me think about what students should learn, how learning activities should be structured, how assessment can support learning, and how students can become active participants in their own competence development.
 
-The following frameworks have become reference points for me that I consult regarding how I design teaching, learning activities, and assessment. I like to see them as "practical lenses" through which I create new learning situations.
+The following frameworks have become reference points for me that I consult regarding how I design teaching, learning activities, and assessment. Some of them overlap. I like to see them as "practical lenses" through which I create new learning situations.
 
 <div class="row align-items-start mt-4 mb-5">
   <div class="col-md-5" markdown="1">
@@ -601,7 +601,7 @@ In my courses, this becomes concrete through business plan rubrics, presentation
 
 Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me to design activities and exam questions in such a way that they go beyond the level of remembering and understanding, and move towards the higher levels of applying, analyzing, evaluating, and creating.
 
-Examples of how I have used this so far are: classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and making students actively participate in reflecting the quality of startup ideas of other groups through a role card set.
+Examples of how I have used this so far are: classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and making students actively participate in reflecting the quality of startup ideas of other groups through a role card set. And of course many open exam questions for the exam general management and organisation.
 
   </div>
 </div>
@@ -617,7 +617,7 @@ Examples of how I have used this so far are: classifying leadership behavior, an
 
 #### Education for Sustainable Development
 
-Education for Sustainable Development has become an important reference point for my teaching. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
+Education for Sustainable Development has also become an important reference point for my teaching. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
 
 These competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection. For this reason, ESD connects closely with my interest in challenge-based learning and in teaching formats that ask students to work with complexity rather than only reproduce established answers. So far I have applied the following concepts from this framework: case studies, group puzzles and problem-based learning.
 
@@ -821,7 +821,7 @@ The following overview provides a compact view of selected teaching activities a
 
 ## Selected Educational Videos
 
-In addition to classroom-based teaching, I develop educational videos that support asynchronous learning, flipped classroom elements, and conceptual preparation for students. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system and are available through TU Graz TUbe where access rights allow.
+In addition to classroom-based teaching, I have developed educational videos that support asynchronous learning. These videos are documented as teaching-related outputs in the TU Graz research and knowledge documentation system and are available through TU Graz TUbe.
 
 Note: The videos require TU Graz login credentials in order to be viewed.
 
@@ -1137,13 +1137,13 @@ A second case focuss on Soulbottles and its adoption of holacracy. I researched 
 
 As part of the Gründungsgarage / Startup Garage, I co-teach a workshop on business model development together with a colleague. The workshop uses the **Leap Game**, an interactive format that helps student startup teams develop and challenge their business model ideas.
 
-The workshop starts with the formulation of a design challenge. Based on this challenge, students work in teams and use a set of cards to expand, question, and refine their business model canvases. The logic of the workshop is based on the business model framework by Osterwalder and Pigneur, but the game format makes the process much more active and exploratory.
+The workshop starts with the formulation of a design challenge. Based on this challenge, students then work in teams and use a set of cards to expand, question, and refine their business model canvases. The logic of the workshop is based on the business model framework by Osterwalder and Pigneur, but the game format makes the process much more active and exploratory.
 
-A central part of the format is that student teams challenge each other. They work in pairs of teams, go through different cards, and use them to identify assumptions, weak points, opportunities, and possible extensions of their business models. This creates many ideas in a short time and helps teams move beyond their first version of the business model.
+Student teams work in pairs of teams, go through different cards, and use them to identify assumptions, weak points, opportunities, and possible extensions of their business models. This creates many ideas in a short time and helps teams move beyond their first version of the business model.
 
-At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. This is often a productive moment, because the game makes business model development tangible, social, and iterative. The format is highly interactive and has received positive feedback from students.
+At the end of the workshop, the teams work toward a clearer understanding of how their ventures could generate revenue. For some teams this is eye opening, because it is the first time they really think deeply about costs and profits. In any case the game makes business model development tangible, social, and iterative. The format has received positive feedback from students.
 
-In addition to the business model development workshop, I also moderate the final pitch event of the Gründungsgarage / Startup Garage. The final pitches are an important culmination of the learning process: student teams translate what they worked on for a whole semester into an entrepreneurial narrative, present it to an external audience, respond to questions, and receive feedback from people connected to the startup ecosystem. Many successful startups have been founded through this program, which makes the final pitch event a meaningful moment where learning, entrepreneurial courage, and the wider startup community come together.
+In addition to the business model development workshop, I also moderate the final pitch event of the Gründungsgarage / Startup Garage. The final pitches are the important culmination of the learning process: student teams translate what they worked on for a whole semester into an entrepreneurial narrative, present it to an external audience, respond to questions, and receive feedback from people connected to the startup ecosystem. Many successful startups have been founded through this program, which makes the final pitch event a meaningful moment where learning, entrepreneurial courage, and the wider startup community come together.
 
 <div class="row align-items-start mt-3 mb-4 teaching-photo-grid teaching-photo-grid--wide">
   <div class="col-md-6 mb-3" markdown="1">
@@ -1239,7 +1239,7 @@ The table below includes publicly listed theses with catalogue links, as well as
 
 ## Executive MBA: Digital Leadership - Green Microelectronics
 
-As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. I teach within the modules **Digital & Green Economy** and **Digital Strategies & Business Modelling**, focusing on digital transformation, data-driven value creation, servitization, platform dynamics, and strategic business model change.
+As part of my teaching at TU Graz, I contribute to the Executive MBA in Digital and Green Transition. I teach within the modules **Digital & Green Economy** and **Digital Strategies & Business Modelling**. Digital and Green Economy focuses on the digital and green transformation, data-driven value creation, servitization, platform dynamics. Digital Strategies and Business Modelling focuses on value proposition, filling out their first business model canvas and learning about the 45 patterns of sustainable business models. I ask them to go out and search their for their own examples of the patterns they were assigned and then present them in class. We then work on a design challenge in small groups and identidy relevant patterns and build a prototype.
 
 From a teaching perspective, I value the executive education setting because it combines conceptual input, case-based discussion, simulation-based learning, and transfer to participants’ own organizational contexts. Participants bring substantial professional experience, which makes it possible to connect theoretical frameworks directly to strategic transformation challenges.
 
@@ -1270,7 +1270,7 @@ From a teaching perspective, this format reflects how I like to work: conceptual
 
 {% include figure.liquid loading="eager" path="assets/img/assessment.png" title="Assessment and Learning Outcomes" class="img-fluid rounded z-depth-1 mb-4" %}
 
-Assessment is where I can see whether a learning activity has really worked. I prefer formats where students produce something concrete: an organizational chart, a matrix, a poster, a business model element, a persona, a market-sizing calculation, a pitch, a business plan section, or a prototype.
+Assessment is where I can see whether a learning activity has really worked. I prefer formats where students produce something concrete: an organizational chart, a poster, a business model canvas, a persona, a market-sizing calculation, a pitch, a business plan section, or a prototype.
 
 These outputs are useful because we can actually look at them together. A group can explain why they chose a certain structure, why their market estimate makes sense, or why they framed a problem in a particular way. Another group may have solved the same task differently. This often leads to good discussions, because the differences become visible.
 
@@ -1278,9 +1278,9 @@ Rubrics are helpful here. I use them because students should know what I am look
 
 In General Management and Organization, I introduced a presentation rubric because I did not want presentations to be assessed only by general impression. The rubric makes it easier to talk about structure, clarity, argumentation, visual support, interaction with the audience, and professional delivery. Of course, judgement is still needed. But the criteria make it easier to explain why a presentation worked well or where it could become stronger.
 
-My interest in transparent assessment goes back to my time at UAS Technikum Wien. In laboratory courses, I used entrance checks before students entered the laboratory. The idea was simple: students should come prepared, understand the theoretical background, and be ready to work safely and productively. I also developed an IMRAD-based rubric for laboratory reports. It gave students a clearer picture of what a scientific report should contain and gave me a better basis for feedback. Later, other lecturers also used this rubric.
+My interest in transparent assessment goes back to my first teaching experience in China. As a final exam I set up role play scenarios. Students came in and could choose from different scenarios, then they had some minutes to prepare and would perform the play. I had set up an MS Excel file where I evaluated their fluency, the richnness of the vocabulary they used, and how well they responded on a score from 1-5. I put all of this into a formula to come up with a final grade. After these first exams I realized that I should restructure my whole teaching so that we work on exactly those learning outcomes, so that by the end of the semester they would do even better. Later during my time at UAS Technikum Wien in laboratory courses, I used entrance checks before students entered the laboratory. The idea was simple: students should come prepared, understand the theoretical background, and be ready to work safely and productively. I also developed an IMRAD-based rubric for laboratory reports. It gave students a clearer picture of what a scientific report should contain and gave me a better basis for feedback. Later, other lecturers also used this rubric.
 
-Across these examples, assessment has become less about one final grade for me and more about orientation. Before a task, it tells students what matters. During the task, it helps them make decisions. After the task, it helps us talk about what already works and what still needs attention.
+Actually for me this approach came out of my own personal frustration. Nobody told me what exactly was expected, and then the only feedback I received was a grade and some red circles in my laboratory report, which left me guessing. To make this better I created these rubriques. My thought was: before a task, a rubrique tells students what matters. During the task, it helps them make decisions. After the task, it helps us talk about what already works and what still needs attention.
 
 This is also how I understand learning outcomes. They should not be abstract sentences that only appear in the syllabus. They should help me design tasks, choose assessment formats, and explain to students why we are doing a particular activity. When learning outcomes, classroom activities, and assessment fit together, students usually notice it. The course feels more coherent, and the work they produce becomes easier to discuss.
 
@@ -1298,7 +1298,7 @@ Critical feedback is not always easy to handle for me, especially when I put a l
 
 A critical part of my teaching development has been the gradual redesign of learning situations. Many of these changes started from concrete observations in class: moments where students seemed passive, where concepts remained too abstract, where feedback was too general, or where the connection between theory and application needed to become more visible.
 
-For me, evidence of teaching development is found in the visible changes that I make to my teaching materials, classroom activities, assessment formats, and feedback practices over time. I try to observe what happens in a course, reflect on what supports or limits student learning, and then translate these observations into concrete design changes.
+Evidence of teaching development is found in the visible changes that I make to my teaching materials, classroom activities, assessment formats, and feedback practices over time. I try to observe what happens in a course, reflect on what supports or limits student learning, and then translate these observations into concrete design changes.
 
 The following examples illustrate how my teaching has developed through this iterative process.
 
