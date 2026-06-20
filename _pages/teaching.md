@@ -456,6 +456,8 @@ body.dark .teaching-quote-source {
 
 ## Teaching Philosophy
 
+{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
+
 <div class="teaching-quote-section">
   <div class="teaching-quote-block teaching-quote-block--left">
     <div class="teaching-quote-card">
@@ -473,8 +475,6 @@ body.dark .teaching-quote-source {
     </div>
   </div>
 </div>
-
-{% include figure.liquid loading="eager" path="assets/img/teaching_philosophy3.png" title="Teaching Philosophy" class="img-fluid rounded z-depth-1 mb-4" %}
 
 These two sentences come from very different worlds, yet they point in a similar direction. Learning needs practice. It needs repetition, reflection, and the chance to try something out.
 
