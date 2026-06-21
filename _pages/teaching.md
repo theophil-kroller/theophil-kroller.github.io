@@ -474,11 +474,15 @@ body.dark .teaching-quote-source {
   </div>
 </div>
 
-These two quotes for me express something about learning that still feels very relevant in todays world: Confucius connects learning with practice and with joy. Aristotle, on the other hand states that we learn certain things by doing them. The common element is this: Learning is something to return to, work with, try out, and slowly becoming more capable through that process.
+These two quotes, for me, express something about learning that still feels very relevant today. In the quote by Confucius the character 習 (xí) can mean practice, review, repeated exercise, and gradually becoming familiar with something. I like this because it describes learning as something one returns to. Something is learned, revisited, tried again, and slowly becomes part of how a person sees and acts. The second character is 說 (yuè), used here in the sense of 悅 (yuè), meaning joy, delight, or inner satisfaction. This is important to me because the joy in the quote attests to the satisfaction that can arise when something has been practiced, understood more deeply, and slowly made one’s own.
 
-In the framework below, I show Confucius and Aristotle as the phlosophical basis. Kant adds the courage to use one’s own understanding; Seneca's famous quote reminds me that we don't learn for school, but for life.
+Aristotle states something very similar from within another philosophical world. In the phrase ποιοῦντες μανθάνομεν (poioûntes manthánomen), “by doing, we learn,” learning is connected to action. Students may understand an explanation, but this does not yet mean that they can use what they have understood. Capability grows when students try, repeat, correct themselves, receive feedback, and slowly become more competent.
 
-In the medieval university, the lecture had a very clear function. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
+In the framework below, I show Confucius and Aristotle as the philosophical basis of my teaching philosophy. Kant adds another important layer with "Sapere aude" (have the courage to use your own understanding). I find this sentence very powerful. It speaks about intellectual maturity: the courage to think for oneself, to question what is handed down, to examine what others say, and to take responsibility for one’s own judgement. In a time of online sources, generative AI, expert opinions, social media, and ready-made explanations, this matters even more. Students should learn to use books, teachers, digital tools, and AI intelligently. But they should not become dependent on others thinking for them.
+
+Seneca’s phrase "Non scholae, sed vitae discimus" (we learn for life, not for school), points to another concern that matters to me. Strictly speaking, the phrase is a later reversal of Seneca’s own criticism that education can become too detached from life. I find this tension useful: Learning should still matter after the exam is over: in work, in responsibility, in uncertain situations, and in moments where there is no finished answer in front of us.
+
+This quote also makes me think back to the early days of universities: In the medieval university, the lecture had a very clear function. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
 
 Today, the situation is very different though: Knowledge as a scarce ressource is a thing of the past. Students can find explanations, tutorials, online courses, Wikipedia articles, MOOCs, YouTube lectures, and now also generative AI within seconds. If information is everywhere, then the value of a university can no longer lie solely in giving students more information.
 
@@ -508,7 +512,7 @@ Demanding learning only works well in an environment where **students feel safe 
 
 Another part of the environment that is important to me is feedback culture. I use lecturer feedback, peer feedback, presentation feedback, discussions, and structured assessment formats to help students see where they stand and what their next step could be. **Good feedback** should be **encouraging**, but it also needs to be **specific**. Otherwise, students may feel supported, but they do not necessarily know how to improve.
 
-In the end, I want my courses to connect knowledge with action. I want students to leave university with clearer concepts, but also with sharper thinking and more confidence to engage with complex problems. In a time when information is abundant, teaching means designing learning spaces in which students can turn knowledge into judgement, judgement into action, and action into a responsible contribution to the world they will work and live in.
+In the end, I want my courses to connect knowledge with action. I want students to leave university with clearer concepts, but also with sharper thinking and more confidence to engage with complex problems. In a time when information is abundant, teaching means designing learning spaces in which students can work with knowledge, develop judgement, and find the confidence to contribute responsibly to the world they will work and live in.
 
 ## My Path into Teaching
 
