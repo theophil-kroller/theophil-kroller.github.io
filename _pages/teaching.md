@@ -478,7 +478,7 @@ These two quotes for me express something about learning that still feels very r
 
 In the framework below, I show Confucius and Aristotle as the phlosophical basis. Kant adds the courage to use one’s own understanding; Seneca's famous quote reminds me that we don't learn for school, but for life.
 
-This idea becomes even more important when I think about the role of the university today. In the medieval university, the lecture had a very clear function. It made knowledge accessible. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
+In the medieval university, the lecture had a very clear function. He/She made knowledge accessible. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
 
 Today, the situation is very different though: Knowledge as a scarce ressource is a thing of the past. Students can find explanations, tutorials, online courses, Wikipedia articles, MOOCs, YouTube lectures, and now also generative AI within seconds. If information is everywhere, then the value of a university can no longer lie solely in giving students more information.
 
