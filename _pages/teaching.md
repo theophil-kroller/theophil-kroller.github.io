@@ -474,7 +474,7 @@ body.dark .teaching-quote-source {
   </div>
 </div>
 
-These two quotes for me express something about learning that still feels very relevant in todays world: Confucius connects learning with practice and with joy. Aristotle, on the other hand states that we learn certain things by doing them. The common element is this: Learning is not simply about the retention of knowledge. It is something to return to, work with, try out, and slowly becoming more capable through that process.
+These two quotes for me express something about learning that still feels very relevant in todays world: Confucius connects learning with practice and with joy. Aristotle, on the other hand states that we learn certain things by doing them. The common element is this: Learning is something to return to, work with, try out, and slowly becoming more capable through that process.
 
 In the framework below, I show Confucius and Aristotle as the phlosophical basis. Kant adds the courage to use one’s own understanding; Seneca's famous quote reminds me that we don't learn for school, but for life.
 
