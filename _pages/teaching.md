@@ -478,11 +478,11 @@ These two quotes for me express something about learning that still feels very r
 
 In the framework below, I show Confucius and Aristotle as the phlosophical basis. Kant adds the courage to use one’s own understanding; Seneca's famous quote reminds me that we don't learn for school, but for life.
 
-In the medieval university, the lecture had a very clear function. He/She made knowledge accessible. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
+In the medieval university, the lecture had a very clear function. A learned person read, explained, interpreted, and transmitted texts that students could usually not access so easily by themselves. In that situation, the lecture was a gateway to knowledge.
 
 Today, the situation is very different though: Knowledge as a scarce ressource is a thing of the past. Students can find explanations, tutorials, online courses, Wikipedia articles, MOOCs, YouTube lectures, and now also generative AI within seconds. If information is everywhere, then the value of a university can no longer lie solely in giving students more information.
 
-For me, the more interesting question is what happens after students have found information. Can they make sense of it? Can they question it? Can they compare it with other perspectives? Can they use it in a situation where the answer is not already clear? This is where I still see the university as a deeply meaningful place. At its best, it is a place where students train their minds, grow as persons, test ideas, receive feedback, and learn to work with problems that matter.
+What interest me is what happens after students have found information: Can they make sense of it? Can they question it? Can they compare it with other perspectives? Can they use it in a situation where the answer is not already clear? This is where I still see the university as a deeply meaningful place. At its best, it is a place where students train their minds, grow as persons, test ideas, receive feedback, and learn to work with problems that matter.
 
 I want my teaching to prepare students for the realities they will face after graduation. Many of them will work in environments that are international, competitive, fast-moving, and often ambiguous. Mere knowledge of concepts or reproducing models is not enough. They need transferable skills, confidence in their own thinking, judgement under uncertainty, and the ability to communicate and act in situations where different people see the problem differently.
 
@@ -498,15 +498,15 @@ From there, learning becomes more active. Students apply ideas, experiment with 
 
 **Curiosity is one of the drivers** of this process. Some of the best teaching moments start with very simple questions: What do we observe here? Why might this be the case? What changes if we look at the situation from another perspective? What would happen if we tried a different solution? I try to keep this kind of inquiry alive in my courses. Sometimes this also leads to questions that I cannot answer immediately. I have come to value these moments, because they make the classroom more honest. They show that thinking is still happening.
 
-My role as a teacher is therefore not only to stand at the front of the room and transfer knowledge (which is also refered to in the literature as "sage on the stage"). A good lecture, a good framework, or a well-structured input can save students a lot of confusion. But I do not want the classroom to depend only on me. The idea of the **teacher as a “guide on the side”** is important to me. I try to give students enough orientation to start, but also enough autonomy to struggle productively, make choices, and develop their own judgement.
+My role as a teacher is therefore **not** only **to stand at the front of the room** and **transfer knowledge** (which is also refered to in the literature as "sage on the stage"). A good lecture, a good framework, or a well-structured input can save students a lot of confusion. However the classroom shoul not just depend only on me. The value the idea of the **teacher as a “guide on the side”** (in the sense of a mentor). I try to give students enough orientation to start, but also enough autonomy to struggle productively, make choices, and develop their own judgement.
 
 In practice, this is why my teaching style is strongly experiential, problem-oriented, and competence-oriented. I work with case studies, group puzzles, role plays, flipped classroom elements, hands-on workshops, business model tools, simulations, project-based tasks, and challenge-based formats. These methods are useful especially in entrepreneurship, management, organization, and sustainability, because students have to deal with ambiguity, incomplete information, different stakeholder perspectives, and practical consequences.
 
-I have seen this quite clearly in my own teaching. Students often understand a concept differently once they have had to use it in a case, defend a perspective in a role play, give feedback to another group, or work through the assumptions of a business model. Something changes when learning becomes visible and concrete. It is no longer only a model on a slide. It becomes a tool for thinking, and this is an important outcome of teaching: to train the mind to think better.
+Students often understand a concept differently once they have had to use it in a case, defend a perspective in a role play, give feedback to another group, or work through the assumptions of a business model. Something changes when learning becomes visible and concrete: It is more than only a model on a slide. It becomes a tool for thinking, and this is an important outcome of teaching: to train the mind to think better.
 
-At the same time, demanding learning only works well in an environment where **students feel safe enough to participate**. I want students to feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged too quickly. I value it when they bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
+Demanding learning only works well in an environment where **students feel safe enough to participate**. I want students to feel able to ask questions, offer ideas, disagree respectfully, and speak from their own perspective without being judged too quickly. I value it when they bring in their professional experience, disciplinary background, cultural perspective, or personal way of thinking. Often, these contributions make the classroom more alive and create learning moments that could not have been planned in advance.
 
-Feedback is another important part of this environment. I use lecturer feedback, peer feedback, presentation feedback, discussions, and structured assessment formats to help students see where they stand and what their next step could be. **Good feedback** should be **encouraging**, but it also needs to be **specific**. Otherwise, students may feel supported, but they do not necessarily know how to improve.
+Another part of the environment that is important to me is feedback culture. I use lecturer feedback, peer feedback, presentation feedback, discussions, and structured assessment formats to help students see where they stand and what their next step could be. **Good feedback** should be **encouraging**, but it also needs to be **specific**. Otherwise, students may feel supported, but they do not necessarily know how to improve.
 
 In the end, I want my courses to connect knowledge with action. I want students to leave university with clearer concepts, but also with sharper thinking and more confidence to engage with complex problems. In a time when information is abundant, teaching means designing learning spaces in which students can turn knowledge into judgement, judgement into action, and action into a responsible contribution to the world they will work and live in.
 
@@ -597,7 +597,7 @@ The following frameworks have become reference points for me that I consult rega
 
 Constructive alignment helps me connect intended learning outcomes, teaching and learning activities, and assessment formats. In my teaching practice, this means that I try to design sessions backwards: first asking what students should be able to do, then choosing activities that allow them to practice this, and finally using assessment formats that make these competences visible.
 
-In my courses, this becomes concrete through business plan rubrics, presentation assessment criteria, case-based tasks, worksheets, group artefacts, and classroom discussions. Students are asked to apply concepts in ways that correspond to the intended learning outcomes.
+For chosing the depth of learning activities, Bloom's Taxonomy has become helpful. For choosing the concrete learning and teaching activities I refer to "education for sustainable development" and "the five practices of entrepreneurship education".
 
   </div>
 </div>
@@ -615,7 +615,7 @@ In my courses, this becomes concrete through business plan rubrics, presentation
 
 Bloom’s Taxonomy supports my thinking about the depth of learning. It reminds me to design activities and exam questions in such a way that they go beyond the level of remembering and understanding, and move towards the higher levels of applying, analyzing, evaluating, and creating.
 
-Examples of how I have used this so far are: classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and making students actively participate in reflecting the quality of startup ideas of other groups through a role card set. And of course many open exam questions for the exam general management and organisation.
+Examples of how I have used this so far are: classifying leadership behavior, analyzing organizational structures, evaluating business model options, developing personas and organizatas, creating market-sizing logic, designing business plan sections, and making students actively participate in reflecting the quality of startup ideas of other groups through a role card set. And of course many illustrative open exam questions for the exam general management and organisation.
 
   </div>
 </div>
@@ -631,7 +631,7 @@ Examples of how I have used this so far are: classifying leadership behavior, an
 
 #### Education for Sustainable Development
 
-Education for Sustainable Development has also become an important reference point for my teaching. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
+Education for Sustainable Development has become an important reference point for my teaching. It emphasizes competences such as systems thinking, anticipatory thinking, critical thinking, normative competence, collaboration, problem solving, and self-competence.
 
 These competences are difficult to develop through input alone. They require open problems, discussion, perspective-taking, experimentation, and reflection. For this reason, ESD connects closely with my interest in challenge-based learning and in teaching formats that ask students to work with complexity rather than only reproduce established answers. So far I have applied the following concepts from this framework: case studies, group puzzles and problem-based learning.
 
@@ -649,7 +649,7 @@ These competences are difficult to develop through input alone. They require ope
 
 #### Five Practices of Entrepreneurship Education
 
-The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
+The five practices of entrepreneurship education (play, empathy, creation, experimentation, and reflection) provide a useful language for the kind of entrepreneurship learning spaces that I want to create. They shift the focus from merely learning concepts about entrepreneurship toward practicing entrepreneurial thinking and action.
 
 In my courses, these practices appear in role plays, group puzzles, customer personas, business model games, pitch feedback, prototyping exercises, and reflective discussions. Students experiment with perspectives, develop ideas, test assumptions, receive feedback, and revise their thinking. This makes entrepreneurship education more active, embodied, and practice-based.
 
@@ -1100,7 +1100,7 @@ The survey also included three open questions: (1) **“Please briefly explain y
   </div>
 </div>
 
-In General Management and Organization / Unternehmensführung und Organisation, I developed a module on leadership and organization. One part of the module works with leadership profiles and the Blake and Mouton Managerial Grid.
+In General Management and Organization / Unternehmensführung und Organisation, I developed a module on leadership and organization. One part of the module works with leadership profiles and the Blake and Mouton Managerial Grid. I intitally started with the existing material, but found it to be insufficient. There was only one leadership profile available, that was quite well rounded, so I added another one that shows that one can be succesfully leading a company with a different type of leadership as well. I also added a self-assessment questionnaire to make the material more relatable. In a further semester I refined the methodology to make it even more nuanced and show the students that someone that is classified as one type of leader might still behave differently in specific contexts.
 
 Students first complete a self-assessment to reflect on their own leadership style. They then work with two leadership profiles and classify leadership behavior according to task orientation and people orientation. In groups, they identify patterns and clusters in the leadership behavior described in the case material.
 
@@ -1123,9 +1123,9 @@ In the same module, I also introduce the Hersey and Blanchard model of situation
   </div>
 </div>
 
-For the topic of organizational design, I developed case studies that allow students to practice drawing and interpreting organizational structures.
+For the topic of organizational design, the original material that was available when I started asked students to discuss the advantages and disadvantages of different forms of organizations. I carried this activity out, but on the written feedback I read that this was boring. In addition to that I thought it is not relevant to the task that they carry out for the case study where they need to classify the type of organization of the case (which means that there was a missalignement between learning outcome and teaching activities). Thus I set out and developed two case studies that allow students to practice drawing and interpreting organizational structures. It actually took two weeks time to research the respective companies and build the mini cases.
 
-One case focuss on Alphabet and Google. Students analyze the relationship between Alphabet as a holding company and Google as one of its core subsidiaries. They also examine matrix-like elements and other structural features within Google. The task is to draw an organizational chart based on the case description. One student group presents its solution at the board, and we discuss it as a class. I then redraw and refine the organizational structure together with the students. This format helps students see that organizational structures are rarely as clean and simple as textbook examples suggest.
+One of the cases focuses on Alphabet and Google. Students analyze the relationship between Alphabet as a holding company and Google as one of its core subsidiaries. They also examine matrix-like elements and other structural features within Google. The task is to draw an organizational chart based on the case description. One student group presents its solution at the board, and we discuss it as a class. I then redraw and refine the organizational structure together with the students. This format helps students see that organizational structures are rarely as clean and simple as textbook examples suggest.
 
 A second case focuss on Soulbottles and its adoption of holacracy. I researched the central concepts of holacracy and prepared the case so that students can work with a less traditional organizational form. Students are asked to visualize the structure and logic of the organization. The case often leads to lively discussions, because holacracy challenges many assumptions about hierarchy, authority, roles, and decision-making.
 
@@ -1275,7 +1275,7 @@ The workshop combines conceptual input on circular economy and sustainability wi
 
 </div>
 
-This informal feedback is meaningful to me because it suggests that the workshop did not remain only at the level of conceptual input. Participants connected the content to their own professional contexts, entrepreneurial interests, and possible next steps.
+This informal feedback suggests that the workshop allowed participants to connect the content to their own professional contexts, entrepreneurial interests, and possible next steps.
 
 From a teaching perspective, this format reflects how I like to work: conceptual orientation, structured creativity, hands-on development, visual tools, and reflection come together in one learning process. The aim is that participants leave with a more concrete understanding of sustainable business model innovation and with an initial prototype they can further develop.
 
@@ -1296,7 +1296,7 @@ My interest in transparent assessment goes back to my first teaching experience 
 
 Actually for me this approach came out of my own personal frustration. Nobody told me what exactly was expected, and then the only feedback I received was a grade and some red circles in my laboratory report, which left me guessing. To make this better I created these rubriques. My thought was: before a task, a rubrique tells students what matters. During the task, it helps them make decisions. After the task, it helps us talk about what already works and what still needs attention.
 
-This is also how I understand learning outcomes. They should not be abstract sentences that only appear in the syllabus. They should help me design tasks, choose assessment formats, and explain to students why we are doing a particular activity. When learning outcomes, classroom activities, and assessment fit together, students usually notice it. The course feels more coherent, and the work they produce becomes easier to discuss.
+This is also how I understand learning outcomes. They should help me design tasks, choose assessment formats, and explain to students why we are doing a particular activity. When learning outcomes, classroom activities, and assessment fit together, students usually notice it. The course feels more coherent, and the work they produce becomes easier to discuss.
 
 In the end, I want assessment to support the kind of learning I describe throughout this portfolio: structured enough to give orientation, open enough to allow different solutions, and concrete enough to connect theory with practice.
 
